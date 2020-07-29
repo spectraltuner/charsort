@@ -391,7 +391,7 @@ dataSet[dataSetVersion].characterData = [
   
   {
     name: "Roxanne Royale",
-    img: "6Frsmmh.png",
+    img: "d9zX9K3.png",
     opts: {
       series: [ "SK" ]
     }
