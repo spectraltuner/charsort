@@ -19,9 +19,9 @@ dataSet[dataSetVersion].options = [
  {
   name: 'Filter Losers Not on the Wiki',
   key: 'notwiki',
-  tooltip: 'Check this to get the characters not on the wiki yet out of there.'
-  checked: true,
- }  
+  tooltip: 'Check this to get the characters not on the wiki yet out of there.',
+  checked: true
+  }  
 ];
 
 dataSet[dataSetVersion].characterData = [
