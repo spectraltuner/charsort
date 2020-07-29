@@ -81,7 +81,6 @@ dataSet[dataSetVersion].characterData = [
       notwiki: false
     }
   },
-  
   {
     name: "Alice Kang (SOLSTICE)",
     img: "",
@@ -161,8 +160,7 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SC" ],
       notwiki: false
     }
-  },
-  
+  }, 
   {
     name: "Harahel",
     img: "",
@@ -219,7 +217,6 @@ dataSet[dataSetVersion].characterData = [
       notwiki: false
     }
   },
-
   {
     name: "Hexenn",
     img: "",
@@ -235,9 +232,7 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SC" ],
       notwiki: false
     }
-  },
-
-  
+  }, 
   {
     name: "Arista",
     img: "",
@@ -270,7 +265,6 @@ dataSet[dataSetVersion].characterData = [
       notwiki: false
     }
   },
-
   {
     name: "Azrael",
     img: "",
@@ -369,7 +363,6 @@ dataSet[dataSetVersion].characterData = [
       notwiki: false
     }
   },
-
   {
     name: "Iris Widow",
     img: "",
@@ -394,7 +387,6 @@ dataSet[dataSetVersion].characterData = [
       notwiki: true
     }
   },
-
   {
     name: "Annis Doyle",
     img: "",
@@ -476,7 +468,6 @@ dataSet[dataSetVersion].characterData = [
       notwiki: true
     }
   },
-  
   {
     name: "Nemesis",
     img: "",
@@ -509,7 +500,6 @@ dataSet[dataSetVersion].characterData = [
       notwiki: true
     }
   },
-
   {
     name: "Merche Ramón",
     img: "",
@@ -550,8 +540,6 @@ dataSet[dataSetVersion].characterData = [
       notwiki: false
     }
   },
-
-  
   {
     name: "Rafflesia Nightingale",
     img: "",
