@@ -21,7 +21,7 @@ dataSet[dataSetVersion].options = [
   key: 'notwiki',
   tooltip: 'Check this to get the characters not on the wiki yet out of there.',
   checked: true
-  }  
+  }
 ];
 
 dataSet[dataSetVersion].characterData = [
@@ -330,7 +330,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Logos Prime",
-    img: "FJegplh.png",
+    img: "l0CuGXp.png",
     opts: {
       series: [ "SC" ]
     }
