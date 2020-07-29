@@ -470,7 +470,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Anastasia",
-    img: "dhBl9qs.png",
+    img: "orUwyaM.png",
     opts: {
       series: [ "RP" ],
       notwiki: true
