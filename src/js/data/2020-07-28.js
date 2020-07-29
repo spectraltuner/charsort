@@ -29,32 +29,28 @@ dataSet[dataSetVersion].characterData = [
     name: "Minna Yamane",
     img: "kuM1zBQ.png",
     opts: {
-      series: [ "SC" ],
-      notwiki: false
+      series: [ "SC" ]
     }
   },
   {
     name: "EQUINOX",
     img: "AJbXI4b.png",
     opts: {
-      series: [ "SC" ],
-      notwiki: false
+      series: [ "SC" ]
     }
   },
   {
     name: "Kyarne",
     img: "92JxBkP.png",
     opts: {
-      series: [ "SC" ],
-      notwiki: false
+      series: [ "SC" ]
     }
   },
   {
     name: "Anya Kimura",
     img: "uAGnMJT.png",
     opts: {
-      series: [ "SC" ],
-      notwiki: false
+      series: [ "SC" ]
     }
   },
   {
@@ -69,112 +65,98 @@ dataSet[dataSetVersion].characterData = [
     name: "Milky Way",
     img: "vp33NDQ.png",
     opts: {
-      series: [ "SC" ],
-      notwiki: false
+      series: [ "SC" ]
     }
   },
   {
     name: "Mariposa",
     img: "3Vz0Vrf.png",
     opts: {
-      series: [ "SC" ],
-      notwiki: false
+      series: [ "SC" ]
     }
   },
   {
     name: "Alice Kang (SOLSTICE)",
     img: "pSmMFWd.png",
     opts: {
-      series: [ "SC" ],
-      notwiki: false
+      series: [ "SC" ]
     }
   },
   {
     name: "Venus Kang",
     img: "IEniRrn.png",
     opts: {
-      series: [ "SC" ],
-      notwiki: false
+      series: [ "SC" ]
     }
   },
   {
     name: "Neptune",
     img: "9ZsujHY.png",
     opts: {
-      series: [ "SC" ],
-      notwiki: false
+      series: [ "SC" ]
     }
   },  
   {
     name: "Sabrina Trenchard (Ceres)",
     img: "Mmgnyz5.png",
     opts: {
-      series: [ "SC" ],
-      notwiki: false
+      series: [ "SC" ]
     }
   },
   {
     name: "Instant",
     img: "pKtTaV4.png",
     opts: {
-      series: [ "SC" ],
-      notwiki: false
+      series: [ "SC" ]
     }
   },
   {
     name: "Kalaziel (Terror)",
     img: "qR8rLrg.png",
     opts: {
-      series: [ "SC" ],
-      notwiki: false
+      series: [ "SC" ]
     }
   },
   {
     name: "Warden",
     img: "XcYXVhN.png",
     opts: {
-      series: [ "SC" ],
-      notwiki: false
+      series: [ "SC" ]
     }
   },
   {
     name: "Langosta",
     img: "R0mabWt.png",
     opts: {
-      series: [ "SC" ],
-      notwiki: false
+      series: [ "SC" ]
     }
   },
   {
     name: "Deleter",
     img: "nh5yCGO.png",
     opts: {
-      series: [ "SC" ],
-      notwiki: false
+      series: [ "SC" ]
     }
   },
   {
     name: "Hanael (Observer)",
     img: "LxeuXeB.png",
     opts: {
-      series: [ "SC" ],
-      notwiki: false
+      series: [ "SC" ]
     }
   }, 
   {
     name: "Harahel",
     img: "gIVffti.png",
     opts: {
-      series: [ "SC" ],
-      notwiki: false
+      series: [ "SC" ]
     }
   },
   {
     name: "Raziel",
     img: "N96ekTR.png",
     opts: {
-      series: [ "SC" ],
-      notwiki: false
+      series: [ "SC" ]
     }
   },
   {
@@ -213,8 +195,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Lucifer",
     img: "Vcd4Fo0.png",
     opts: {
-      series: [ "SC" ],
-      notwiki: false
+      series: [ "SC" ]
     }
   },
   {
@@ -230,7 +211,7 @@ dataSet[dataSetVersion].characterData = [
     img: "9YBTuIl.png",
     opts: {
       series: [ "SC" ],
-      notwiki: false
+      notwiki: true
     }
   }, 
   {
@@ -261,8 +242,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Beelzebub",
     img: "7n81hHu.png",
     opts: {
-      series: [ "SC" ],
-      notwiki: false
+      series: [ "SC" ]
     }
   },
   {
@@ -278,8 +258,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Mastema",
     img: "0KCKfO7.png",
     opts: {
-      series: [ "SC" ],
-      notwiki: false
+      series: [ "SC" ]
     }
   },
   {
@@ -294,8 +273,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Uriel",
     img: "tIYGcfp.png",
     opts: {
-      series: [ "SC" ],
-      notwiki: false
+      series: [ "SC" ]
     }
   },
   {
@@ -310,8 +288,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Jophiel",
     img: "AktH9Js.png",
     opts: {
-      series: [ "SC" ],
-      notwiki: false
+      series: [ "SC" ]
     }
   },
   {
@@ -326,16 +303,14 @@ dataSet[dataSetVersion].characterData = [
     name: "Raphael",
     img: "2gJr08M.png",
     opts: {
-      series: [ "SC" ],
-      notwiki: false
+      series: [ "SC" ]
     }
   },
   {
     name: "Yaldabaoth",
     img: "SXrNNYO.png",
     opts: {
-      series: [ "SC" ],
-      notwiki: false
+      series: [ "SC" ]
     }
   },
 
@@ -343,32 +318,28 @@ dataSet[dataSetVersion].characterData = [
     name: "Sophia",
     img: "fh0XvPt.png",
     opts: {
-      series: [ "SC" ],
-      notwiki: false
+      series: [ "SC" ]
     }
   },
   {
     name: "Synthesizer Logos",
     img: "DW4eEMx.png",
     opts: {
-      series: [ "SC" ],
-      notwiki: false
+      series: [ "SC" ]
     }
   },
   {
     name: "Logos Prime",
     img: "FJegplh.png",
     opts: {
-      series: [ "SC" ],
-      notwiki: false
+      series: [ "SC" ]
     }
   },
   {
     name: "Iris Widow",
     img: "yjrvPwD.png",
     opts: {
-      series: [ "BW" ],
-      notwiki: false
+      series: [ "BW" ]
     }
   },
   {
@@ -391,8 +362,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Annis Doyle",
     img: "HeOut1S.png",
     opts: {
-      series: [ "BW" ],
-      notwiki: false
+      series: [ "BW" ]
     }
   },
   {
@@ -415,8 +385,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Trespasser",
     img: "Ur1CCfC.png",
     opts: {
-      series: [ "BW" ],
-      notwiki: false
+      series: [ "BW" ]
     }
   },
   
@@ -424,8 +393,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Roxanne Royale",
     img: "6Frsmmh.png",
     opts: {
-      series: [ "SK" ],
-      notwiki: false
+      series: [ "SK" ]
     }
   },
   {
@@ -512,24 +480,21 @@ dataSet[dataSetVersion].characterData = [
     name: "Sidney Lynch",
     img: "ba7W4Un.png",
     opts: {
-      series: [ "RP" ],
-      notwiki: false
+      series: [ "RP" ]
     }
   },
   {
     name: "Mia Lynch",
     img: "5JAjn4N.png",
     opts: {
-      series: [ "RP" ],
-      notwiki: false
+      series: [ "RP" ]
     }
   },
   {
-    name: "Lili Király",
+    name: "Lili Kiraly",
     img: "xkzCQ4P.png",
     opts: {
-      series: [ "RP" ],
-      notwiki: false
+      series: [ "RP" ]
     }
   },
   {
