@@ -13,7 +13,7 @@ dataSet[dataSetVersion].options = [
       { name: "Suicide Kings", tooltip: "Local Tomboy Forced to Gamble Soul", key: "SK" },
       { name: "Sweet Malus", tooltip: "Gods Go on Road Trip, Catastrophe Ensues", key: "SM" },
       { name: "Roleplays and etc.", tooltip: "Characters made for roleplays or for some other person's setting", key: "RP" },     
-      { name: "Rafflesia", tooltip: "Rafflesia", key: "RN" }     
+      { name: "Rafflesia", tooltip: "Rafflesia / Miscellaneous bullshit", key: "RN" }     
     ]
   },
  {
@@ -504,5 +504,14 @@ dataSet[dataSetVersion].characterData = [
       series: [ "RN" ],
       notwiki: true
     }
+  },
+  {
+    name: "Suicide Taker",
+    img: "3b3xEQZ.png",
+    opts: {
+      series: [ "RN" ],
+      notwiki: true
+    }
   }  
+
 ];
