@@ -12,7 +12,7 @@ dataSet[dataSetVersion].options = [
       { name: "Black Widow", tooltip: "Stupid Occult Detective Bullshit", key: "BW" },
       { name: "Suicide Kings", tooltip: "Local Tomboy Forced to Gamble Soul", key: "SK" },
       { name: "Sweet Malus", tooltip: "Gods Go on Road Trip, Catastrophe Ensues", key: "SM" },
-      { name: "Roleplays and etc.", tooltip: "Characters made for roleplays or for some other person's setting", key: "RP" },     
+      { name: "Roleplays and etc.", tooltip: "Characters made for roleplays or for some other setting", key: "RP" },     
       { name: "Rafflesia", tooltip: "Rafflesia / Miscellaneous bullshit", key: "RN" }     
     ]
   },
@@ -496,7 +496,14 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "RP" ]
     }
-  },
+  },  
+  {
+    name: "Akira Kogure (Drowning Pool)",
+    img: "wp1KrEP.png",
+    opts: {
+      series: [ "RP" ],
+    }
+  },  
   {
     name: "Rafflesia Nightingale",
     img: "LuFZaak.png",
