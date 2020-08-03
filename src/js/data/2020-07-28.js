@@ -104,6 +104,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Condor",
+    img: "hPWTHVf.png",
+    opts: {
+      series: [ "SC" ],
+      notwiki: true
+    }
+  },
+  {
     name: "Instant",
     img: "pKtTaV4.png",
     opts: {
@@ -359,6 +367,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Finn Schrieve",
+    img: "hNBgn7h.png",
+    opts: {
+      series: [ "BW" ],
+      notwiki: true
+    }
+  },  
+  {
     name: "Annis Doyle",
     img: "HeOut1S.png",
     opts: {
@@ -387,8 +403,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "BW" ]
     }
-  },
-  
+  },  
   {
     name: "Roxanne Royale",
     img: "d9zX9K3.png",
@@ -455,6 +470,14 @@ dataSet[dataSetVersion].characterData = [
   {
     name: "Momo",
     img: "08xvyoJ.png",
+    opts: {
+      series: [ "SM" ],
+      notwiki: true
+    }
+  },
+  {
+    name: "Yan",
+    img: "aR8jGVc.png",
     opts: {
       series: [ "SM" ],
       notwiki: true
