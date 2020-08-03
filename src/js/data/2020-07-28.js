@@ -13,7 +13,8 @@ dataSet[dataSetVersion].options = [
       { name: "Suicide Kings", tooltip: "Local Tomboy Forced to Gamble Soul", key: "SK" },
       { name: "Sweet Malus", tooltip: "Gods Go on Road Trip, Catastrophe Ensues", key: "SM" },
       { name: "Roleplays and etc.", tooltip: "Characters made for roleplays or for some other setting", key: "RP" },     
-      { name: "Rafflesia", tooltip: "Rafflesia / Miscellaneous bullshit", key: "RN" }     
+      { name: "Nightmare Creatures", tooltip: "Things I Saw In My Dreams", key: "NC" },               
+      { name: "Rafflesia", tooltip: "Rafflesia", key: "RN" }     
     ]
   },
  {
@@ -528,19 +529,43 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Suicide Taker",
+    img: "3b3xEQZ.png",
+    opts: {
+      series: [ "NC" ],
+      notwiki: true
+    }
+  },  
+  {
+    name: "Fisher Perry",
+    img: "gCTlOdJ.png",
+    opts: {
+      series: [ "NC" ],
+      notwiki: true
+    }
+  },  
+  {
+    name: "Anglermouth",
+    img: "8eXEb12.png",
+    opts: {
+      series: [ "NC" ],
+      notwiki: true
+    }
+  },  
+  {
+    name: "Peek",
+    img: "wNMKG0z.png",
+    opts: {
+      series: [ "NC" ],
+      notwiki: true
+    }
+  },  
+  {
     name: "Rafflesia Nightingale",
     img: "LuFZaak.png",
     opts: {
       series: [ "RN" ],
       notwiki: true
     }
-  },
-  {
-    name: "Suicide Taker",
-    img: "3b3xEQZ.png",
-    opts: {
-      series: [ "RN" ],
-      notwiki: true
-    }
-  }  
+  }
 ];
