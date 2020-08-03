@@ -520,5 +520,4 @@ dataSet[dataSetVersion].characterData = [
       notwiki: true
     }
   }  
-
 ];
