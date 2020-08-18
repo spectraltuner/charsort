@@ -27,7 +27,7 @@ dataSet[dataSetVersion].options = [
   name: 'Filter Boys',
   key: 'boy',
   tooltip: 'Check this to get the boys out of there.',
-  checked: true
+  checked: false
   }
 ];
 
