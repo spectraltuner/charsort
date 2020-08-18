@@ -22,6 +22,12 @@ dataSet[dataSetVersion].options = [
   key: 'notwiki',
   tooltip: 'Check this to get the characters not on the wiki yet out of there.',
   checked: true
+  },
+ {
+  name: 'Filter Boys',
+  key: 'boy',
+  tooltip: 'Check this to get the boys out of there.',
+  checked: true
   }
 ];
 
@@ -341,7 +347,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Logos Prime",
     img: "l0CuGXp.png",
     opts: {
-      series: [ "SC" ]
+      series: [ "SC" ],
+      boy: true
     }
   },
   {
@@ -372,7 +379,8 @@ dataSet[dataSetVersion].characterData = [
     img: "hNBgn7h.png",
     opts: {
       series: [ "BW" ],
-      notwiki: true
+      notwiki: true,
+      boy: true     
     }
   },  
   {
@@ -452,6 +460,14 @@ dataSet[dataSetVersion].characterData = [
       notwiki: true
     }
   },
+  {
+    name: "Justine Royale",
+    img: "eunKzz3.png",
+    opts: {
+      series: [ "SK" ],
+      notwiki: true
+    }
+  },  
   {
     name: "Nemesis Cain",
     img: "YvDFd0z.png",
@@ -541,7 +557,8 @@ dataSet[dataSetVersion].characterData = [
     img: "gCTlOdJ.png",
     opts: {
       series: [ "NC" ],
-      notwiki: true
+      notwiki: true,
+      boy: true    
     }
   },  
   {
