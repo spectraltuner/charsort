@@ -119,6 +119,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Toya Pastore (Trance)",
+    img: "aS7JM2P.png",
+    opts: {
+      series: [ "SC" ],
+      notwiki: true
+    }
+  },  
+  {
     name: "Instant",
     img: "pKtTaV4.png",
     opts: {
