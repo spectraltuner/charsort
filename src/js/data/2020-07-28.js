@@ -276,7 +276,6 @@ dataSet[dataSetVersion].characterData = [
       notwiki: true
     }
   },  
-  
   {
     name: "Mastema",
     img: "0KCKfO7.png",
@@ -382,6 +381,14 @@ dataSet[dataSetVersion].characterData = [
       notwiki: true
     }
   },
+  {
+    name: "Dorothy",
+    img: "0NLww72.png",
+    opts: {
+      series: [ "BW" ],
+      notwiki: true
+    }
+  },  
   {
     name: "Finn Schrieve",
     img: "hNBgn7h.png",
