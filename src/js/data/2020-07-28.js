@@ -524,7 +524,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Anastasia",
+    name: "Anastasia Friede Ende",
     img: "orUwyaM.png",
     opts: {
       series: [ "RP" ],
