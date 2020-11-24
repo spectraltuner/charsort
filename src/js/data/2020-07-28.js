@@ -359,6 +359,31 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Zoe",
+    img: "KsuXSol.png",
+    opts: {
+      series: [ "SC" ],
+      notwiki: true      
+    }
+  },  
+  {
+    name: "Sige",
+    img: "WP2oweu.png",
+    opts: {
+      series: [ "SC" ],
+      notwiki: true      
+    }
+  },    
+  {
+    name: "Horos Astaphe",
+    img: "6va41xY.png",
+    opts: {
+      series: [ "SC" ],
+      notwiki: true,
+      boy: true
+    }
+  },  
+  {
     name: "Iris Widow",
     img: "yjrvPwD.png",
     opts: {
@@ -429,6 +454,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Monika Čierny",
+    img: "WhBGMWX.png",
+    opts: {
+      series: [ "BW" ],
+      notwiki: true
+    }
+  },  
+  {
     name: "Roxanne Royale",
     img: "d9zX9K3.png",
     opts: {
@@ -481,6 +514,15 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SK" ],
       notwiki: true
+    }
+  },  
+  {
+    name: "Daniel Sharpe",
+    img: "DKtB6hv.png",
+    opts: {
+      series: [ "SK" ],
+      notwiki: true,
+      boy: true
     }
   },  
   {
