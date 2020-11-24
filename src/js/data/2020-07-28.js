@@ -485,6 +485,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Daniel Sharpe",
+    img: "DKtB6hv.png",
+    opts: {
+      series: [ "SK" ],
+      notwiki: true,
+      boy: true
+    }
+  },    
+  {
     name: "Noelle Germaine",
     img: "F2DfRbe.png",
     opts: {
@@ -501,6 +510,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "The Wild Card",
+    img: "0KmwDGp.png",
+    opts: {
+      series: [ "SK" ],
+      notwiki: true
+    }
+  },      
+  {
     name: "The Ace of Spades",
     img: "OSHj8eD.png",
     opts: {
@@ -514,15 +531,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SK" ],
       notwiki: true
-    }
-  },  
-  {
-    name: "Daniel Sharpe",
-    img: "DKtB6hv.png",
-    opts: {
-      series: [ "SK" ],
-      notwiki: true,
-      boy: true
     }
   },  
   {
