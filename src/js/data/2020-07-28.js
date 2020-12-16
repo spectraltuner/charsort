@@ -18,9 +18,9 @@ dataSet[dataSetVersion].options = [
     ]
   },
  {
-  name: 'Filter Losers Not on the Wiki',
+  name: 'Filter Irrelevant Characters',
   key: 'notwiki',
-  tooltip: 'Check this to get the characters not on the wiki yet out of there.',
+  tooltip: 'Check this to get the characters not on the wiki yet, or that are otherwise irrelevant to the FC/OC community, out of there.',
   checked: true
   },
  {
@@ -569,24 +569,21 @@ dataSet[dataSetVersion].characterData = [
     name: "Merche Ramón",
     img: "OG0v6Bm.png",
     opts: {
-      series: [ "RP" ],
-      notwiki: true
+      series: [ "RP" ]
     }
   },
   {
     name: "Anastasia Friede Ende",
     img: "orUwyaM.png",
     opts: {
-      series: [ "RP" ],
-      notwiki: true
+      series: [ "RP" ]
     }
   },
   {
     name: "Mirai Amachi",
     img: "OqQ1kWP.png",
     opts: {
-      series: [ "RP" ],
-      notwiki: true
+      series: [ "RP" ]
     }
   },
   {
