@@ -582,6 +582,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Mirai Amachi",
+    img: "OqQ1kWP.png",
+    opts: {
+      series: [ "RP" ],
+      notwiki: true
+    }
+  },
+  {
     name: "Sidney Lynch",
     img: "ba7W4Un.png",
     opts: {
