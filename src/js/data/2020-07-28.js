@@ -581,7 +581,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mirai Amachi",
-    img: "OqQ1kWP.png",
+    img: "9xUZZgp.png",
     opts: {
       series: [ "RP" ]
     }
