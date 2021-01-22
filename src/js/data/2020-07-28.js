@@ -587,6 +587,13 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Felicia Mink",
+    img: "yJ6tONE.png",
+    opts: {
+      series: [ "RP" ],
+    }
+  },    
+  {
     name: "Sidney Lynch",
     img: "ba7W4Un.png",
     opts: {
