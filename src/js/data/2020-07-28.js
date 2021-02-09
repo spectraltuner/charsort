@@ -608,6 +608,13 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Isabelle White",
+    img: "ExB7J8C.png",
+    opts: {
+      series: [ "RP" ]
+    }
+  },
+  {
     name: "Lili Kiraly",
     img: "xkzCQ4P.png",
     opts: {
