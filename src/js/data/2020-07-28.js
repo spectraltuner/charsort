@@ -609,7 +609,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Isabelle White",
-    img: "ExB7J8C.png",
+    img: "S1yRjDs.png",
     opts: {
       series: [ "RP" ]
     }
