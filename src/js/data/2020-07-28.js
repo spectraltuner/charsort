@@ -14,7 +14,7 @@ dataSet[dataSetVersion].options = [
       { name: "Sweet Malus", tooltip: "Gods Go on Road Trip, Catastrophe Ensues", key: "SM" },
       { name: "Roleplays and etc.", tooltip: "Characters made for roleplays or for some other setting", key: "RP" },     
       { name: "Nightmare Creatures", tooltip: "Things I Saw In My Dreams", key: "NC" },               
-      { name: "Rafflesia", tooltip: "Rafflesia", key: "RN" }     
+      { name: "Rafflesia", tooltip: "Useless Vampire Shotguns Bloodbag", key: "RN" }     
     ]
   },
  {
