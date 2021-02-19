@@ -18,25 +18,25 @@ dataSet[dataSetVersion].options = [
     ]
   },
  {
-  name: 'Filter out Irrelevant Characters',
+  name: 'Remove Irrelevant Characters',
   key: 'notwiki',
   tooltip: 'Check this to get the characters not on the wiki yet, or that are otherwise irrelevant to the FC/OC community, out of there.',
   checked: true
   },
  {
-  name: 'Filter out Boys',
+  name: 'Remove Boys',
   key: 'boy',
   tooltip: 'Check this to get the boys out of there.',
   checked: false
   },
  {
-  name: 'Filter out Girls',
+  name: 'Remove Girls',
   key: 'girl',
   tooltip: 'Check this to get the girls out of there for some reason.',
   checked: false
   },
  {
-  name: 'Filter out Misc.',
+  name: 'Remove Misc.',
   key: 'nb',
   tooltip: 'Check this to get the miscellaneously gendered characters out of there.',
   checked: false
