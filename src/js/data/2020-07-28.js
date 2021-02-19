@@ -102,6 +102,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Shrike",
+    img: "pblpBOS.png",
+    opts: {
+      series: [ "SC" ],
+      nb: true
+    }
+  },
+  {
     name: "Alice Kang (SOLSTICE)",
     img: "a6FIIqG.png",
     opts: {
