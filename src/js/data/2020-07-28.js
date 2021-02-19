@@ -36,7 +36,7 @@ dataSet[dataSetVersion].options = [
   checked: false
   },
  {
-  name: 'Filter Miscellaneous',
+  name: 'Filter Misc.',
   key: 'nb',
   tooltip: 'Check this to get the miscellaneously gendered characters out of there.',
   checked: false
