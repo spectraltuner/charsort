@@ -28,6 +28,18 @@ dataSet[dataSetVersion].options = [
   key: 'boy',
   tooltip: 'Check this to get the boys out of there.',
   checked: false
+  },
+ {
+  name: 'Filter Girls',
+  key: 'girl',
+  tooltip: 'Check this to get the girls out of there for some reason.',
+  checked: false
+  },
+ {
+  name: 'Filter Etcetera',
+  key: 'nb',
+  tooltip: 'Check this to get the miscellaneously gendered characters out of there.',
+  checked: false
   }
 ];
 
@@ -36,28 +48,32 @@ dataSet[dataSetVersion].characterData = [
     name: "Minna Yamane",
     img: "kuM1zBQ.png",
     opts: {
-      series: [ "SC" ]
+      series: [ "SC" ],
+      girl: true
     }
   },
   {
     name: "EQUINOX",
     img: "AJbXI4b.png",
     opts: {
-      series: [ "SC" ]
+      series: [ "SC" ],
+      girl: true
     }
   },
   {
     name: "Kyarne",
     img: "92JxBkP.png",
     opts: {
-      series: [ "SC" ]
+      series: [ "SC" ],
+      girl: true
     }
   },
   {
     name: "Anya Kimura",
     img: "uAGnMJT.png",
     opts: {
-      series: [ "SC" ]
+      series: [ "SC" ],
+      girl: true
     }
   },
   {
@@ -65,49 +81,56 @@ dataSet[dataSetVersion].characterData = [
     img: "Ao4FKEf.png",
     opts: {
       series: [ "SC" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   },
   {
     name: "Milky Way",
     img: "vp33NDQ.png",
     opts: {
-      series: [ "SC" ]
+      series: [ "SC" ],
+      girl: true
     }
   },
   {
     name: "Mariposa",
     img: "3Vz0Vrf.png",
     opts: {
-      series: [ "SC" ]
+      series: [ "SC" ],
+      girl: true
     }
   },
   {
     name: "Alice Kang (SOLSTICE)",
     img: "a6FIIqG.png",
     opts: {
-      series: [ "SC" ]
+      series: [ "SC" ],
+      girl: true
     }
   },
   {
     name: "Venus Kang",
     img: "IEniRrn.png",
     opts: {
-      series: [ "SC" ]
+      series: [ "SC" ],
+      girl: true
     }
   },
   {
     name: "Neptune",
     img: "9ZsujHY.png",
     opts: {
-      series: [ "SC" ]
+      series: [ "SC" ],
+      girl: true
     }
   },  
   {
     name: "Sabrina Trenchard (Ceres)",
     img: "Mmgnyz5.png",
     opts: {
-      series: [ "SC" ]
+      series: [ "SC" ],
+      girl: true
     }
   },
   {
@@ -115,7 +138,8 @@ dataSet[dataSetVersion].characterData = [
     img: "hPWTHVf.png",
     opts: {
       series: [ "SC" ],
-      notwiki: true
+      notwiki: true,
+      nb: true
     }
   },
   {
@@ -123,63 +147,72 @@ dataSet[dataSetVersion].characterData = [
     img: "aS7JM2P.png",
     opts: {
       series: [ "SC" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   },  
   {
     name: "Instant",
     img: "pKtTaV4.png",
     opts: {
-      series: [ "SC" ]
+      series: [ "SC" ],
+      girl: true
     }
   },
   {
     name: "Kalaziel (Terror)",
     img: "qR8rLrg.png",
     opts: {
-      series: [ "SC" ]
+      series: [ "SC" ],
+      girl: true
     }
   },
   {
     name: "Warden",
     img: "XcYXVhN.png",
     opts: {
-      series: [ "SC" ]
+      series: [ "SC" ],
+      girl: true
     }
   },
   {
     name: "Langosta",
     img: "R0mabWt.png",
     opts: {
-      series: [ "SC" ]
+      series: [ "SC" ],
+      girl: true
     }
   },
   {
     name: "Deleter",
     img: "nh5yCGO.png",
     opts: {
-      series: [ "SC" ]
+      series: [ "SC" ],
+      girl: true
     }
   },
   {
     name: "Hanael (Observer)",
     img: "LxeuXeB.png",
     opts: {
-      series: [ "SC" ]
+      series: [ "SC" ],
+      girl: true
     }
   }, 
   {
     name: "Harahel",
     img: "gIVffti.png",
     opts: {
-      series: [ "SC" ]
+      series: [ "SC" ],
+      nb: true
     }
   },
   {
     name: "Raziel",
     img: "N96ekTR.png",
     opts: {
-      series: [ "SC" ]
+      series: [ "SC" ],
+      nb: true
     }
   },
   {
@@ -187,7 +220,8 @@ dataSet[dataSetVersion].characterData = [
     img: "QQY4NxY.png",
     opts: {
       series: [ "SC" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   },
   {
@@ -195,7 +229,8 @@ dataSet[dataSetVersion].characterData = [
     img: "cLfQC3U.png",
     opts: {
       series: [ "SC" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   },
   {
@@ -203,7 +238,8 @@ dataSet[dataSetVersion].characterData = [
     img: "MA98fF2.png",
     opts: {
       series: [ "SC" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   },
   {
@@ -211,14 +247,16 @@ dataSet[dataSetVersion].characterData = [
     img: "SrwQxHN.png",
     opts: {
       series: [ "SC" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   },
   {
     name: "Lucifer",
     img: "Vcd4Fo0.png",
     opts: {
-      series: [ "SC" ]
+      series: [ "SC" ],
+      girl: true
     }
   },
   {
@@ -226,7 +264,8 @@ dataSet[dataSetVersion].characterData = [
     img: "ayRlyPs.png",
     opts: {
       series: [ "SC" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   },
   {
@@ -234,7 +273,8 @@ dataSet[dataSetVersion].characterData = [
     img: "9YBTuIl.png",
     opts: {
       series: [ "SC" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   }, 
   {
@@ -242,7 +282,8 @@ dataSet[dataSetVersion].characterData = [
     img: "fN5wrFD.png",
     opts: {
       series: [ "SC" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   },
   {
@@ -250,7 +291,8 @@ dataSet[dataSetVersion].characterData = [
     img: "m3iYl4U.png",
     opts: {
       series: [ "SC" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   },
   {
@@ -258,14 +300,16 @@ dataSet[dataSetVersion].characterData = [
     img: "TpsqFBk.png",
     opts: {
       series: [ "SC" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   },
   {
     name: "Beelzebub",
     img: "7n81hHu.png",
     opts: {
-      series: [ "SC" ]
+      series: [ "SC" ],
+      girl: true
     }
   },
   {
@@ -273,14 +317,16 @@ dataSet[dataSetVersion].characterData = [
     img: "it9jzWs.png",
     opts: {
       series: [ "SC" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   },  
   {
     name: "Mastema",
     img: "0KCKfO7.png",
     opts: {
-      series: [ "SC" ]
+      series: [ "SC" ],
+      girl: true
     }
   },
   {
@@ -288,14 +334,16 @@ dataSet[dataSetVersion].characterData = [
     img: "PLUhF85.png",
     opts: {
       series: [ "SC" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   },
   {
     name: "Uriel",
     img: "tIYGcfp.png",
     opts: {
-      series: [ "SC" ]
+      series: [ "SC" ],
+      girl: true
     }
   },
   {
@@ -303,14 +351,16 @@ dataSet[dataSetVersion].characterData = [
     img: "OZ8LA4q.png",
     opts: {
       series: [ "SC" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   },
   {
     name: "Jophiel",
     img: "AktH9Js.png",
     opts: {
-      series: [ "SC" ]
+      series: [ "SC" ],
+      girl: true
     }
   },
   {
@@ -318,21 +368,24 @@ dataSet[dataSetVersion].characterData = [
     img: "K80sWZ1.png",
     opts: {
       series: [ "SC" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   },
   {
     name: "Raphael",
     img: "2gJr08M.png",
     opts: {
-      series: [ "SC" ]
+      series: [ "SC" ],
+      girl: true
     }
   },
   {
     name: "Yaldabaoth",
     img: "SXrNNYO.png",
     opts: {
-      series: [ "SC" ]
+      series: [ "SC" ],
+      girl: true
     }
   },
 
@@ -340,14 +393,16 @@ dataSet[dataSetVersion].characterData = [
     name: "Sophia Astaphe",
     img: "fh0XvPt.png",
     opts: {
-      series: [ "SC" ]
+      series: [ "SC" ],
+      girl: true
     }
   },
   {
     name: "Synthesizer Logos",
     img: "DW4eEMx.png",
     opts: {
-      series: [ "SC" ]
+      series: [ "SC" ],
+      nb: true
     }
   },
   {
@@ -363,7 +418,8 @@ dataSet[dataSetVersion].characterData = [
     img: "KsuXSol.png",
     opts: {
       series: [ "SC" ],
-      notwiki: true      
+      notwiki: true,
+      girl: true
     }
   },  
   {
@@ -371,7 +427,8 @@ dataSet[dataSetVersion].characterData = [
     img: "WP2oweu.png",
     opts: {
       series: [ "SC" ],
-      notwiki: true      
+      notwiki: true,
+      girl: true
     }
   },    
   {
@@ -387,7 +444,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Iris Widow",
     img: "yjrvPwD.png",
     opts: {
-      series: [ "BW" ]
+      series: [ "BW" ],
+      girl: true
     }
   },
   {
@@ -395,7 +453,8 @@ dataSet[dataSetVersion].characterData = [
     img: "R1TGVOx.png",
     opts: {
       series: [ "BW" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   },
   {
@@ -403,7 +462,8 @@ dataSet[dataSetVersion].characterData = [
     img: "phzxd54.png",
     opts: {
       series: [ "BW" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   },
   {
@@ -411,7 +471,8 @@ dataSet[dataSetVersion].characterData = [
     img: "0NLww72.png",
     opts: {
       series: [ "BW" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   },  
   {
@@ -427,7 +488,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Annis Doyle",
     img: "HeOut1S.png",
     opts: {
-      series: [ "BW" ]
+      series: [ "BW" ],
+      girl: true
     }
   },
   {
@@ -435,7 +497,8 @@ dataSet[dataSetVersion].characterData = [
     img: "FBLka2q.png",
     opts: {
       series: [ "BW" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   },
   {
@@ -443,14 +506,16 @@ dataSet[dataSetVersion].characterData = [
     img: "jNjZX24.png",
     opts: {
       series: [ "BW" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   },
   {
     name: "Trespasser",
     img: "Ur1CCfC.png",
     opts: {
-      series: [ "BW" ]
+      series: [ "BW" ],
+      nb: true
     }
   },  
   {
@@ -458,14 +523,16 @@ dataSet[dataSetVersion].characterData = [
     img: "WhBGMWX.png",
     opts: {
       series: [ "BW" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   },  
   {
     name: "Roxanne Royale",
     img: "d9zX9K3.png",
     opts: {
-      series: [ "SK" ]
+      series: [ "SK" ],
+      girl: true
     }
   },
   {
@@ -473,7 +540,8 @@ dataSet[dataSetVersion].characterData = [
     img: "rNBgOjx.png",
     opts: {
       series: [ "SK" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   },
   {
@@ -481,7 +549,8 @@ dataSet[dataSetVersion].characterData = [
     img: "4HCPHq3.png",
     opts: {
       series: [ "SK" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   },
   {
@@ -498,7 +567,8 @@ dataSet[dataSetVersion].characterData = [
     img: "F2DfRbe.png",
     opts: {
       series: [ "SK" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   },
   {
@@ -506,7 +576,8 @@ dataSet[dataSetVersion].characterData = [
     img: "cb6kOD1.png",
     opts: {
       series: [ "SK" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   },
   {
@@ -514,7 +585,8 @@ dataSet[dataSetVersion].characterData = [
     img: "0KmwDGp.png",
     opts: {
       series: [ "SK" ],
-      notwiki: true
+      notwiki: true,
+      nb: true
     }
   },      
   {
@@ -522,7 +594,8 @@ dataSet[dataSetVersion].characterData = [
     img: "OSHj8eD.png",
     opts: {
       series: [ "SK" ],
-      notwiki: true
+      notwiki: true,
+      nb: true
     }
   },
   {
@@ -530,7 +603,8 @@ dataSet[dataSetVersion].characterData = [
     img: "eunKzz3.png",
     opts: {
       series: [ "SK" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   },  
   {
@@ -538,7 +612,8 @@ dataSet[dataSetVersion].characterData = [
     img: "YvDFd0z.png",
     opts: {
       series: [ "SM" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   },
   {
@@ -546,7 +621,8 @@ dataSet[dataSetVersion].characterData = [
     img: "vrokAWb.png",
     opts: {
       series: [ "SM" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   },
   {
@@ -554,7 +630,8 @@ dataSet[dataSetVersion].characterData = [
     img: "08xvyoJ.png",
     opts: {
       series: [ "SM" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   },
   {
@@ -571,28 +648,32 @@ dataSet[dataSetVersion].characterData = [
     img: "aR8jGVc.png",
     opts: {
       series: [ "SM" ],
-      notwiki: true
+      notwiki: true,
+      nb: true
     }
   },
   {
     name: "Merche Ramón",
     img: "OG0v6Bm.png",
     opts: {
-      series: [ "RP" ]
+      series: [ "RP" ],
+      girl: true
     }
   },
   {
     name: "Anastasia Friede Ende",
     img: "orUwyaM.png",
     opts: {
-      series: [ "RP" ]
+      series: [ "RP" ],
+      girl: true
     }
   },
   {
     name: "Mirai Amachi",
     img: "9xUZZgp.png",
     opts: {
-      series: [ "RP" ]
+      series: [ "SK", "RP" ],
+      girl: true
     }
   },
   {
@@ -600,34 +681,39 @@ dataSet[dataSetVersion].characterData = [
     img: "yJ6tONE.png",
     opts: {
       series: [ "RP" ],
+      girl: true
     }
   },    
   {
     name: "Sidney Lynch",
     img: "ba7W4Un.png",
     opts: {
-      series: [ "RP" ]
+      series: [ "RP" ],
+      girl: true
     }
   },
   {
     name: "Mia Lynch",
     img: "5JAjn4N.png",
     opts: {
-      series: [ "RP" ]
+      series: [ "RP" ],
+      girl: true
     }
   },
   {
     name: "Isabelle White",
     img: "S1yRjDs.png",
     opts: {
-      series: [ "RP" ]
+      series: [ "RP" ],
+      girl: true
     }
   },
   {
     name: "Lili Kiraly",
     img: "xkzCQ4P.png",
     opts: {
-      series: [ "RP" ]
+      series: [ "RP" ],
+      girl: true
     }
   },  
   {
@@ -635,6 +721,7 @@ dataSet[dataSetVersion].characterData = [
     img: "wp1KrEP.png",
     opts: {
       series: [ "RP" ],
+      girl: true
     }
   },  
   {
@@ -642,7 +729,8 @@ dataSet[dataSetVersion].characterData = [
     img: "3b3xEQZ.png",
     opts: {
       series: [ "NC" ],
-      notwiki: true
+      notwiki: true,
+      nb: true
     }
   },  
   {
@@ -651,7 +739,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "NC" ],
       notwiki: true,
-      boy: true    
+      boy: true
     }
   },  
   {
@@ -659,7 +747,8 @@ dataSet[dataSetVersion].characterData = [
     img: "8eXEb12.png",
     opts: {
       series: [ "NC" ],
-      notwiki: true
+      notwiki: true,
+      nb: true
     }
   },  
   {
@@ -667,7 +756,8 @@ dataSet[dataSetVersion].characterData = [
     img: "wNMKG0z.png",
     opts: {
       series: [ "NC" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   },  
   {
@@ -675,7 +765,8 @@ dataSet[dataSetVersion].characterData = [
     img: "LuFZaak.png",
     opts: {
       series: [ "RN" ],
-      notwiki: true
+      notwiki: true,
+      girl: true
     }
   }
 ];
