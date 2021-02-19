@@ -558,6 +558,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Momus",
+    img: "dqSyr9x.png",
+    opts: {
+      series: [ "SM" ],
+      notwiki: true,
+      boy: true
+    }
+  },  
+  {
     name: "Yan",
     img: "aR8jGVc.png",
     opts: {
