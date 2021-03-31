@@ -693,6 +693,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },    
   {
+    name: "Carolina Verus",
+    img: "3rjxqfd.png",
+    opts: {
+      series: [ "RP" ],
+      girl: true
+    }
+  },    
+  {
     name: "Sidney Lynch",
     img: "ba7W4Un.png",
     opts: {
