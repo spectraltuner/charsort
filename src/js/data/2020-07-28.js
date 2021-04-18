@@ -69,6 +69,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Ángeles Reyes",
+    img: "IUsg36q.png",
+    opts: {
+      series: [ "SC" ],
+      notwiki: true,
+      girl: true
+    }
+  },  
+  {
     name: "Anya Kimura",
     img: "uAGnMJT.png",
     opts: {
