@@ -458,6 +458,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "The White Knight",
+    img: "ktJe3B7.png",
+    opts: {
+      series: [ "SC" ],
+      notwiki: true,
+      boy: true
+    }
+  },  
+  {
     name: "Iris Widow",
     img: "yjrvPwD.png",
     opts: {
