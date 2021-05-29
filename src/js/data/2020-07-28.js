@@ -467,6 +467,24 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Doxa Astaphe",
+    img: "eQTbsnm.png",
+    opts: {
+      series: [ "SC" ],
+      notwiki: true,
+      girl: true
+    }
+  },      
+  {
+    name: "Tarache Hyle",
+    img: "Ry58Wmd.png",
+    opts: {
+      series: [ "SC" ],
+      notwiki: true,
+      boy: true
+    }
+  },     
+  {
     name: "Mona Hyle",
     img: "rPgnQwH.png",
     opts: {
