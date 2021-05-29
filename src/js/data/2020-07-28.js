@@ -243,7 +243,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Baphomet",
-    img: "xzsPoAV.png",
+    img: "VhM3dfd.png",
     opts: {
       series: [ "SC" ],
       notwiki: true,
