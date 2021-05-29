@@ -305,7 +305,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Musca",
-    img: "PYiHITH.png",
+    img: "5ddALba.png",
     opts: {
       series: [ "SC" ],
       notwiki: true,
