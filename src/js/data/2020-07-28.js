@@ -457,6 +457,15 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },    
+ {
+    name: "Saklas",
+    img: "uWVf6Gn.png",
+    opts: {
+      series: [ "SC" ],
+      notwiki: true,
+      boy: true
+    }
+  },    
   {
     name: "Horos Astaphe",
     img: "6va41xY.png",
