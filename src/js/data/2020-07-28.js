@@ -304,6 +304,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Musca",
+    img: "PYiHITH.png",
+    opts: {
+      series: [ "SC" ],
+      notwiki: true,
+      girl: true
+    }
+  },
+  {
     name: "Morsitans",
     img: "m3iYl4U.png",
     opts: {
@@ -311,7 +320,7 @@ dataSet[dataSetVersion].characterData = [
       notwiki: true,
       girl: true
     }
-  },
+  },  
   {
     name: "Murmur",
     img: "TpsqFBk.png",
@@ -457,6 +466,15 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   },  
+  {
+    name: "Mona Hyle",
+    img: "rPgnQwH.png",
+    opts: {
+      series: [ "SC" ],
+      notwiki: true,
+      girl: true
+    }
+  },    
   {
     name: "The White Knight",
     img: "ktJe3B7.png",
@@ -634,6 +652,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Guy Royale",
+    img: "tpscL6g.png",
+    opts: {
+      series: [ "SK" ],
+      notwiki: true,
+      boy: true
+    }
+  },    
+  {
     name: "Nemesis Cain",
     img: "YvDFd0z.png",
     opts: {
@@ -759,6 +786,24 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Saki Amachi",
+    img: "3N2uU0q.png",
+    opts: {
+      series: [ "RP", "SK" ],
+      notwiki: true,
+      girl: true
+    }
+  },    
+  {
+    name: "Satoru Amachi",
+    img: "k3Kbwn4.png",
+    opts: {
+      series: [ "RP", "SK" ],
+      notwiki: true,
+      boy: true
+    }
+  },      
+  {
     name: "Suicide Taker",
     img: "3b3xEQZ.png",
     opts: {
@@ -794,6 +839,15 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },  
+  {
+    name: "Scavenger",
+    img: "qBX0deO.png",
+    opts: {
+      series: [ "NC" ],
+      notwiki: true,
+      nb: true
+    }
+  },    
   {
     name: "Rafflesia Nightingale",
     img: "LuFZaak.png",
