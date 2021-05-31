@@ -70,7 +70,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ángeles Reyes",
-    img: "IUsg36q.png",
+    img: "uBz2Lhq.png",
     opts: {
       series: [ "SC" ],
       notwiki: true,
