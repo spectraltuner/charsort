@@ -531,8 +531,28 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Logos (Sentinel)",
+    img: "PAf6RMc.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "FC" ],      
+      notwiki: true,
+      nb: true
+    }
+  },    
+  {
+    name: "Logos (Seeker)",
+    img: "LiZH1rX.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "FC" ],      
+      notwiki: true,
+      nb: true
+    }
+  },  
+  {
     name: "Logos Prime",
-    img: "l0CuGXp.png",
+    img: "hHfcjrs.png",
     opts: {
       series: [ "SC" ],
       agency: [ "FC", "NS" ],      
@@ -732,6 +752,15 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
+  {
+    name: "David Bernier",
+    img: "KpvOv0Q.png",
+    opts: {
+      series: [ "SK" ],
+      notwiki: true,
+      boy: true
+    }
+  },  
   {
     name: "Daniel Sharpe",
     img: "DKtB6hv.png",
