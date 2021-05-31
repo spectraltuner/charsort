@@ -20,7 +20,7 @@ dataSet[dataSetVersion].options = [
  {
     name: "Filter Agency Characters",
     key: "agency",
-    tooltip: "Check this to restrict to certain Agency installments.",
+    tooltip: "Check this to restrict to certain Agency installments. Cuts out all non-Agency characters.",
     checked: false,
     sub: [
       { name: "Starcross", tooltip: "Earthling Saga; Ghost Girl Beats Wife, Instantly Regrets It", key: "SC" },
