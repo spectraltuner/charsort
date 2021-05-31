@@ -397,6 +397,46 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Hasdiel",
+    img: "DO3dska.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "HC", "FC" ],      
+      notwiki: true,
+      girl: true
+    }
+  },    
+  {
+    name: "Menadel",
+    img: "ZRzJYts.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "HC" ],      
+      notwiki: true,
+      girl: true
+    }
+  },        
+  {
+    name: "Raguel",
+    img: "2DZBcfa.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "HC", "FC" ],      
+      notwiki: true,
+      girl: true
+    }
+  },          
+  {
+    name: "Temeluchus",
+    img: "qEf9Uze.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "HC" ],      
+      notwiki: true,
+      girl: true
+    }
+  },      
+  {
     name: "Mastema",
     img: "0KCKfO7.png",
     opts: {
