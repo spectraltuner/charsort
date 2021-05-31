@@ -26,7 +26,7 @@ dataSet[dataSetVersion].options = [
       { name: "Starcross", tooltip: "Earthling Saga; Ghost Girl Beats Wife, Instantly Regrets It", key: "SC" },
       { name: "Killer Asp", tooltip: "Earthling Saga; Ghost Experiences Physical Contact For First Time in 10 Years (HEARTWARMING)", key: "KA" },
       { name: "Heavencross", tooltip: "Seraphic Saga; Introduction to Determinism", key: "HC" },
-      { name: "Fatecross", tooltip: "Seraphic Saga; Ship of Theseus But It's a Person", key: "FC" },
+      { name: "Fatecross", tooltip: "Seraphic Saga; But What If the Ship of Theseus Was A Person?", key: "FC" },
       { name: "Natural Sin", tooltip: "Seraphic Saga; So I Joined the Army (And Everything Got Worse From There)", key: "NS" } 
     ]
   },
