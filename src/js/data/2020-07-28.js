@@ -14,7 +14,7 @@ dataSet[dataSetVersion].options = [
       { name: "Sweet Malus", tooltip: "Gods Go on Road Trip, Catastrophe Ensues", key: "SM" },
       { name: "Roleplays and etc.", tooltip: "Characters made for roleplays or for some other setting", key: "RP" },     
       { name: "Nightmare Creatures", tooltip: "Things I Saw In My Dreams", key: "NC" },               
-      { name: "Rafflesia", tooltip: "Useless Vampire Shotguns Bloodbag", key: "RN" }     
+      { name: "Miscellaneous In-Jokes", tooltip: "Useless Vampire Shotguns Bloodbag / The Deathfuck Prophecies", key: "RN" }     
     ]
   },
  {
@@ -1050,7 +1050,16 @@ dataSet[dataSetVersion].characterData = [
       notwiki: true,
       nb: true
     }
-  },    
+  },  
+  {
+    name: "Deathfuck",
+    img: "lhihumh.png",
+    opts: {
+      series: [ "RN" ],
+      notwiki: true,
+      boy: true
+    }
+  },  
   {
     name: "Rafflesia Nightingale",
     img: "LuFZaak.png",
