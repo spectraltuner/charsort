@@ -328,6 +328,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Musca",
+    img: "5ddALba.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "HC" ],      
+      notwiki: true,
+      girl: true
+    }
+  },  
+  {
     name: "Asmodeus",
     img: "dyMb2dc.png",
     opts: {
@@ -380,16 +390,6 @@ dataSet[dataSetVersion].characterData = [
   {
     name: "Arista",
     img: "fN5wrFD.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "HC" ],      
-      notwiki: true,
-      girl: true
-    }
-  },
-  {
-    name: "Musca",
-    img: "5ddALba.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
