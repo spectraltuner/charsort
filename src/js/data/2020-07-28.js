@@ -510,7 +510,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
-      notwiki: true,
       girl: true
     }
   },
