@@ -318,6 +318,36 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Asmodeus",
+    img: "dyMb2dc.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "HC" ],
+      notwiki: true,
+      girl: true
+    }
+  },      
+  {
+    name: "Leviathan",
+    img: "PzlqU2e.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "HC" ],
+      notwiki: true,
+      girl: true
+    }
+  },
+  {
+    name: "Leviathan I",
+    img: "3e6Sew9.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "HC", "NS" ],
+      notwiki: true,
+      girl: true
+    }
+  },    
+  {
     name: "Hexenn",
     img: "ayRlyPs.png",
     opts: {
@@ -336,7 +366,7 @@ dataSet[dataSetVersion].characterData = [
       notwiki: true,
       girl: true
     }
-  }, 
+  },   
   {
     name: "Arista",
     img: "fN5wrFD.png",
