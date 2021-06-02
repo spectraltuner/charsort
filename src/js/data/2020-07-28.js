@@ -187,6 +187,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Verusha Matveyeva",
+    img: "S6VSubh.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "KA" ],      
+      notwiki: true,
+      girl: true
+    }
+  },  
+  {
     name: "Toya Pastore (Trance)",
     img: "aS7JM2P.png",
     opts: {
