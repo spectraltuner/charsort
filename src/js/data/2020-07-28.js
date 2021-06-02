@@ -934,7 +934,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Felicia Mink",
-    img: "yJ6tONE.png",
+    img: "BZre6GX.png",
     opts: {
       series: [ "RP" ],
       girl: true
@@ -942,7 +942,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Carolina Verus",
-    img: "3rjxqfd.png",
+    img: "XjYBXVy.png",
     opts: {
       series: [ "RP" ],
       girl: true
