@@ -27,7 +27,8 @@ dataSet[dataSetVersion].options = [
       { name: "Killer Asp", tooltip: "Earthling Saga; Ghost Experiences Physical Contact For First Time in 10 Years (HEARTWARMING)", key: "KA" },
       { name: "Heavencross", tooltip: "Seraphic Saga; Introduction to Determinism", key: "HC" },
       { name: "Fatecross", tooltip: "Seraphic Saga; But What If the Ship of Theseus Was A Person?", key: "FC" },
-      { name: "Natural Sin", tooltip: "Seraphic Saga; So I Joined the Army (And Everything Got Worse From There)", key: "NS" } 
+      { name: "Natural Sin", tooltip: "Seraphic Saga; So I Joined the Army (And Everything Got Worse From There)", key: "NS" },
+      { name: "Bonus Round", tooltip: "Extra characters that don't really fit anywhere else here I guess", key: "BR" }
     ]
   },
  {
@@ -181,7 +182,7 @@ dataSet[dataSetVersion].characterData = [
     img: "hPWTHVf.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "KA" ],      
+      agency: [ "BR" ],      
       notwiki: true,
       nb: true
     }
@@ -678,6 +679,36 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   },  
+  {
+    name: "Berith",
+    img: "mQrA8m8.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "BR" ],      
+      notwiki: true,
+      girl: true
+    }
+  },    
+  {
+    name: "Chamaris",
+    img: "QklYYyw.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "BR" ],      
+      notwiki: true,
+      nb: true
+    }
+  },      
+  {
+    name: "Noise",
+    img: "IvUSz8E.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "BR" ],      
+      notwiki: true,
+      nb: true
+    }
+  },        
   {
     name: "Iris Widow",
     img: "yjrvPwD.png",
