@@ -1021,7 +1021,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Saki Amachi",
-    img: "3N2uU0q.png",
+    img: "OA2dULL.png",
     opts: {
       series: [ "RP", "SK" ],
       notwiki: true,
@@ -1030,7 +1030,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Satoru Amachi",
-    img: "k3Kbwn4.png",
+    img: "S7P6Fj7.png",
     opts: {
       series: [ "RP", "SK" ],
       notwiki: true,
