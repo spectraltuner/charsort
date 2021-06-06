@@ -905,7 +905,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eris Strife",
-    img: "vrokAWb.png",
+    img: "Rkc7UH1.png",
     opts: {
       series: [ "SM" ],
       notwiki: true,
