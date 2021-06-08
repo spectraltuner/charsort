@@ -823,6 +823,24 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Damien Aubert",
+    img: "zsj7v7k.png",
+    opts: {
+      series: [ "SK" ],
+      notwiki: true,
+      boy: true
+    }
+  },     
+  {
+    name: "Daniel Sharpe",
+    img: "DKtB6hv.png",
+    opts: {
+      series: [ "SK" ],
+      notwiki: true,
+      boy: true
+    }
+  },      
+  {
     name: "David Bernier",
     img: "KpvOv0Q.png",
     opts: {
@@ -832,8 +850,8 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
-    name: "Daniel Sharpe",
-    img: "DKtB6hv.png",
+    name: "Jonathan Roshe",
+    img: "na8VpUr.png",
     opts: {
       series: [ "SK" ],
       notwiki: true,
