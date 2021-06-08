@@ -1101,7 +1101,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
-    name: "Deathfuck",
+    name: "Knifedick Deathfuck",
     img: "lhihumh.png",
     opts: {
       series: [ "RN" ],
