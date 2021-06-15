@@ -254,7 +254,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hanael (Observer)",
-    img: "XVnYufQ.png",
+    img: "OXQ2hlu.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC", "HC", "FC" ],      
