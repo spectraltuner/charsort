@@ -591,6 +591,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Logos (Slasher)",
+    img: "yU4QdQh.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "FC" ],      
+      notwiki: true,
+      nb: true
+    }
+  },    
+  {
     name: "Logos Prime",
     img: "hHfcjrs.png",
     opts: {
