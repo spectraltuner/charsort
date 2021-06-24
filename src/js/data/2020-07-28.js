@@ -1084,6 +1084,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Chicken Skin Demon",
+    img: "xXhqZRG.png",
+    opts: {
+      series: [ "NC" ],
+      notwiki: true,
+      boy: true
+    }
+  },  
+  {
     name: "Anglermouth",
     img: "8eXEb12.png",
     opts: {
