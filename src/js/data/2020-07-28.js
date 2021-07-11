@@ -992,6 +992,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Yumi Akechi",
+    img: "Srsf82N.png",
+    opts: {
+      series: [ "SC", "RP" ],
+      agency: [ "KA" ],      
+      notwiki: true,
+      girl: true
+    }
+  },  
+  {
     name: "Felicia Mink",
     img: "BZre6GX.png",
     opts: {
