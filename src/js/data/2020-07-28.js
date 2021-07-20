@@ -982,6 +982,7 @@ dataSet[dataSetVersion].characterData = [
     img: "OG0v6Bm.png",
     opts: {
       series: [ "RP" ],
+      notwiki: true,
       girl: true
     }
   },
