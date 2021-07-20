@@ -992,6 +992,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Shinobu Endou",
+    img: "yxFc4Uq.png",
+    opts: {
+      series: [ "SK", "RP" ],
+      notwiki: true,
+      girl: true
+    }
+  },    
+  {
     name: "Yumi Akechi",
     img: "8vp61kB.png",
     opts: {
