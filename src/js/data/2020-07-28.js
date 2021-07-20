@@ -188,6 +188,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Susanne Kay",
+    img: "5qlFbbK.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "KA" ],      
+      notwiki: true,
+      girl: true
+    }
+  },  
+  {
     name: "Verusha Matveyeva",
     img: "S6VSubh.png",
     opts: {
