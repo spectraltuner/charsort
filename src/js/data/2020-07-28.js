@@ -1078,6 +1078,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Shouko Mitsubayashi",
+    img: "lKe9h4o.png",
+    opts: {
+      series: [ "RP", "SK" ],
+      notwiki: true,
+      girl: true
+    }
+  },      
+  {
     name: "Saki Amachi",
     img: "OA2dULL.png",
     opts: {
