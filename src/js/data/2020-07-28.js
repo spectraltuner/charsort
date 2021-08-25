@@ -592,7 +592,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Logos (Seeker)",
-    img: "06pKqPc.png",
+    img: "AKHByS1.png",
     opts: {
       series: [ "SC" ],
       agency: [ "FC" ],      
