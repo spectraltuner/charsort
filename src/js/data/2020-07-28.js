@@ -12,8 +12,8 @@ dataSet[dataSetVersion].options = [
       { name: "Black Widow", tooltip: "Stupid Occult Detective Bullshit", key: "BW" },
       { name: "Suicide Kings", tooltip: "Local Tomboy Forced to Gamble Soul", key: "SK" },
       { name: "Sweet Malus", tooltip: "Gods Go on Road Trip, Catastrophe Ensues", key: "SM" },
-      { name: "Roleplays", tooltip: "Characters made for roleplays", key: "RP" },     
-      { name: "Other Settings", tooltip: "Characters I made for other settings, but not as part of roleplays", key: "OS" },
+      { name: "Roleplays", tooltip: "Characters made for roleplays.", key: "RP" },     
+      { name: "Other Settings", tooltip: "Characters I made for other settings, but not as part of roleplays.", key: "OS" },
       { name: "Nightmare Creatures", tooltip: "Things I Saw In My Dreams", key: "NC" },               
       { name: "Miscellaneous In-Jokes", tooltip: "Useless Vampire Shotguns Bloodbag / The Deathfuck Prophecies", key: "RN" }     
     ]
@@ -29,7 +29,7 @@ dataSet[dataSetVersion].options = [
       { name: "Heavencross", tooltip: "Seraphic Saga; Introduction to Determinism", key: "HC" },
       { name: "Fatecross", tooltip: "Seraphic Saga; But What If the Ship of Theseus Was A Person?", key: "FC" },
       { name: "Natural Sin", tooltip: "Seraphic Saga; So I Joined the Army (And Everything Got Worse From There)", key: "NS" },
-      { name: "Bonus Round", tooltip: "Extra characters that don't really fit anywhere else here I guess", key: "BR" }
+      { name: "Bonus Round", tooltip: "Extra characters that don't really fit anywhere else here I guess.", key: "BR" }
     ]
   },
  {
