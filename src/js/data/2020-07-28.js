@@ -12,7 +12,8 @@ dataSet[dataSetVersion].options = [
       { name: "Black Widow", tooltip: "Stupid Occult Detective Bullshit", key: "BW" },
       { name: "Suicide Kings", tooltip: "Local Tomboy Forced to Gamble Soul", key: "SK" },
       { name: "Sweet Malus", tooltip: "Gods Go on Road Trip, Catastrophe Ensues", key: "SM" },
-      { name: "Roleplays and etc.", tooltip: "Characters made for roleplays or for some other setting", key: "RP" },     
+      { name: "Roleplays", tooltip: "Characters made for roleplays", key: "RP" },     
+      { name: "Other Settings", tooltip: "Characters I made for other settings, but not as part of roleplays", key: "OS" },
       { name: "Nightmare Creatures", tooltip: "Things I Saw In My Dreams", key: "NC" },               
       { name: "Miscellaneous In-Jokes", tooltip: "Useless Vampire Shotguns Bloodbag / The Deathfuck Prophecies", key: "RN" }     
     ]
@@ -981,7 +982,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Merche Ramón",
     img: "OG0v6Bm.png",
     opts: {
-      series: [ "RP" ],
+      series: [ "SK", "RP" ],
       notwiki: true,
       girl: true
     }
@@ -1038,46 +1039,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },    
   {
-    name: "Sidney Lynch",
-    img: "ba7W4Un.png",
-    opts: {
-      series: [ "RP" ],
-      girl: true
-    }
-  },
-  {
-    name: "Mia Lynch",
-    img: "5JAjn4N.png",
-    opts: {
-      series: [ "RP" ],
-      girl: true
-    }
-  },
-  {
-    name: "Isabelle White",
-    img: "S1yRjDs.png",
-    opts: {
-      series: [ "RP" ],
-      girl: true
-    }
-  },
-  {
-    name: "Lili Kiraly",
-    img: "xkzCQ4P.png",
-    opts: {
-      series: [ "RP" ],
-      girl: true
-    }
-  },  
-  {
-    name: "Akira Kogure (Drowning Pool)",
-    img: "wp1KrEP.png",
-    opts: {
-      series: [ "RP" ],
-      girl: true
-    }
-  },  
-  {
     name: "Shouko Mitsubayashi",
     img: "LHG8sRG.png",
     opts: {
@@ -1104,6 +1065,46 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   },      
+  {
+    name: "Sidney Lynch",
+    img: "ba7W4Un.png",
+    opts: {
+      series: [ "OS" ],
+      girl: true
+    }
+  },
+  {
+    name: "Mia Lynch",
+    img: "5JAjn4N.png",
+    opts: {
+      series: [ "OS" ],
+      girl: true
+    }
+  },
+  {
+    name: "Isabelle White",
+    img: "S1yRjDs.png",
+    opts: {
+      series: [ "OS" ],
+      girl: true
+    }
+  },
+  {
+    name: "Lili Kiraly",
+    img: "xkzCQ4P.png",
+    opts: {
+      series: [ "OS" ],
+      girl: true
+    }
+  },  
+  {
+    name: "Akira Kogure (Drowning Pool)",
+    img: "wp1KrEP.png",
+    opts: {
+      series: [ "OS" ],
+      girl: true
+    }
+  },  
   {
     name: "Suicide Taker",
     img: "3b3xEQZ.png",
