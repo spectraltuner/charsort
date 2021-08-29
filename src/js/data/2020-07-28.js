@@ -631,6 +631,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Bythos",
+    img: "dv6IHZz.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "NS" ],     
+      notwiki: true,
+      girl: true
+    }
+  },    
+  {
     name: "Sige",
     img: "WP2oweu.png",
     opts: {
@@ -700,6 +710,26 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   },  
+  {
+    name: "Adoni Kenoma",
+    img: "Q2ZgMOs.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "NS" ],      
+      notwiki: true,
+      boy: true
+    }
+  },    
+  {
+    name: "Iaon Kenoma",
+    img: "FSDs9S2.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "NS" ],      
+      notwiki: true,
+      boy: true
+    }
+  },      
   {
     name: "Berith",
     img: "mQrA8m8.png",
