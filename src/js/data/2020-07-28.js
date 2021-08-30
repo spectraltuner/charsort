@@ -711,6 +711,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Aim",
+    img: "cPZO0h9.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "NS" ],      
+      notwiki: true,
+      boy: true
+    }
+  },      
+  {
     name: "Adoni Kenoma",
     img: "Q2ZgMOs.png",
     opts: {
