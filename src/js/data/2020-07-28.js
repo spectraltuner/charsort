@@ -711,7 +711,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
-    name: "Aim",
+    name: "Ain",
     img: "cPZO0h9.png",
     opts: {
       series: [ "SC" ],
