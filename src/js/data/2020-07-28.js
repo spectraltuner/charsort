@@ -400,6 +400,26 @@ dataSet[dataSetVersion].characterData = [
     }
   },   
   {
+    name: "Lancer Three",
+    img: "p2sOury.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "HC", "FC", "NS" ],      
+      notwiki: true,
+      girl: true
+    }
+  },   
+  {
+    name: "Shamsiel",
+    img: "1l5EHZ9.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "HC" ],      
+      notwiki: true,
+      girl: true
+    }
+  },     
+  {
     name: "Arista",
     img: "fN5wrFD.png",
     opts: {
