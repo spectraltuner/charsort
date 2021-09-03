@@ -380,6 +380,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },    
   {
+    name: "L16661",
+    img: "IYgfake.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "HC" ],      
+      notwiki: true,
+      nb: true
+    }
+  },
+  {
     name: "Hexenn",
     img: "ayRlyPs.png",
     opts: {
