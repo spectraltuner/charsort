@@ -400,6 +400,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "L50601",
+    img: "ECi2VDs.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "FC" ],      
+      notwiki: true,
+      nb: true
+    }
+  },  
+  {
     name: "Hexenn",
     img: "ayRlyPs.png",
     opts: {
