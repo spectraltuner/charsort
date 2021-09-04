@@ -390,6 +390,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "L1066601",
+    img: "vSkz1UB.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "FC" ],      
+      notwiki: true,
+      nb: true
+    }
+  },  
+  {
     name: "Hexenn",
     img: "ayRlyPs.png",
     opts: {
@@ -410,7 +420,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },   
   {
-    name: "Lancer Three",
+    name: "Lancer",
     img: "p2sOury.png",
     opts: {
       series: [ "SC" ],
