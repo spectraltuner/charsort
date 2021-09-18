@@ -821,6 +821,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },        
   {
+    name: "Unnamed Animal #1",
+    img: "m21Gz4L.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "BR" ],      
+      notwiki: true,
+      boy: true
+    }
+  },          
+  {
     name: "Iris Widow",
     img: "yjrvPwD.png",
     opts: {
@@ -1213,6 +1223,15 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   },  
+  {
+    name: "Close Combat Baby",
+    img: "0MS21S1.png",
+    opts: {
+      series: [ "NC" ],
+      notwiki: true,
+      boy: true
+    }
+  },    
   {
     name: "Chicken Skin Demon",
     img: "xXhqZRG.png",
