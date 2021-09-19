@@ -642,6 +642,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },    
   {
+    name: "Logos (Silhouette)",
+    img: "Spn4AS1.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "FC" ],      
+      notwiki: true,
+      nb: true
+    }
+  },    
+  {
     name: "Logos (Seeker)",
     img: "AKHByS1.png",
     opts: {
