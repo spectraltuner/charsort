@@ -1118,7 +1118,6 @@ dataSet[dataSetVersion].characterData = [
     img: "yxFc4Uq.png",
     opts: {
       series: [ "SK", "RP" ],
-      notwiki: true,
       girl: true
     }
   },    
@@ -1128,7 +1127,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC", "RP" ],
       agency: [ "KA" ],      
-      notwiki: true,
       girl: true
     }
   },  
