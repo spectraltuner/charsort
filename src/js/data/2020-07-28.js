@@ -481,7 +481,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Beelzebub",
-    img: "7n81hHu.png",
+    img: "djHHFZz.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
