@@ -1038,7 +1038,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "The Ace of Spades",
-    img: "OSHj8eD.png",
+    img: "oENm2qU.png",
     opts: {
       series: [ "SK" ],
       notwiki: true,
