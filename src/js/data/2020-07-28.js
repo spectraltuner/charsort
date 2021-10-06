@@ -1035,6 +1035,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },        
   {
+    name: "Darcy Royale",
+    img: "0SDanpt.png",
+    opts: {
+      series: [ "SK" ],
+      notwiki: true,
+      girl: true
+    }
+  },        
+  {
     name: "Estelle Laurier",
     img: "Y0RvA2o.png",
     opts: {
