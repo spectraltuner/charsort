@@ -1156,6 +1156,25 @@ dataSet[dataSetVersion].characterData = [
     }
   },      
   {
+    name: "Jin Akechi",
+    img: "G9vBXNw.png",
+    opts: {
+      series: [ "RP", "SC" ],
+      agency: [ "BR" ],
+      notwiki: true,
+      boy: true
+    }
+  },      
+  {
+    name: "Katsue Endou",
+    img: "BjjSVX2.png",
+    opts: {
+      series: [ "RP", "SK" ],
+      notwiki: true,
+      girl: true
+    }
+  },
+  {
     name: "Saki Amachi",
     img: "OA2dULL.png",
     opts: {
@@ -1173,6 +1192,25 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   },      
+  {
+    name: "Seiji Endou",
+    img: "MqK0iHX.png",
+    opts: {
+      series: [ "RP", "SK" ],
+      notwiki: true,
+      boy: true
+    }
+  },        
+  {
+    name: "Yuno Akechi",
+    img: "VbzZTh2.png",
+    opts: {
+      series: [ "RP", "SC" ],
+      agency: [ "BR" ],
+      notwiki: true,
+      girl: true
+    }
+  },        
   {
     name: "Sidney Lynch",
     img: "ba7W4Un.png",
