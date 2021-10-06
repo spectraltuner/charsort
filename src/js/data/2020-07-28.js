@@ -741,6 +741,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },      
   {
+    name: "Duna Astaphe",
+    img: "zoGDM3I.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "NS" ],      
+      notwiki: true,
+      girl: true
+    }
+  },       
+  {
     name: "Tarache Hyle",
     img: "Ry58Wmd.png",
     opts: {
@@ -760,6 +770,16 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },    
+  {
+    name: "Arche Hyle",
+    img: "Upc4B3R.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "NS" ],      
+      notwiki: true,
+      girl: true
+    }
+  },         
   {
     name: "The White Knight",
     img: "ktJe3B7.png",
