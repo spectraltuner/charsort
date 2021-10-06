@@ -559,7 +559,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Uriel",
-    img: "tIYGcfp.png",
+    img: "DEurqgM.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
