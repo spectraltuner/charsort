@@ -1046,6 +1046,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Annette Gagne",
+    img: "PQjAhqC.png",
+    opts: {
+      series: [ "SK" ],
+      notwiki: true,
+      girl: true
+    }
+  },            
+  {
     name: "Daniel Reiss",
     img: "s0POihv.png",
     opts: {
@@ -1126,6 +1135,15 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },          
+  {
+    name: "Suzette Gagne",
+    img: "2Px1pwq.png",
+    opts: {
+      series: [ "SK" ],
+      notwiki: true,
+      girl: true
+    }
+  },              
   {
     name: "Nemesis Cain",
     img: "3JPTSuF.png",
@@ -1284,6 +1302,15 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   },      
+  {
+    name: "Satoshi Amachi",
+    img: "g0J0RFo.png",
+    opts: {
+      series: [ "RP", "SK" ],
+      notwiki: true,
+      boy: true
+    }
+  },        
   {
     name: "Seiji Endou",
     img: "MqK0iHX.png",
