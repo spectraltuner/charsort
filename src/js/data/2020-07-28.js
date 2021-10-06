@@ -1154,6 +1154,15 @@ dataSet[dataSetVersion].characterData = [
       notwiki: true,
       girl: true
     }
+  }, 
+  {
+    name: "Hitomi Amachi",
+    img: "Vh4wuZD.png",
+    opts: {
+      series: [ "RP", "SK" ],
+      notwiki: true,
+      girl: true
+    }
   },      
   {
     name: "Jin Akechi",
