@@ -1026,6 +1026,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Daniel Reiss",
+    img: "s0POihv.png",
+    opts: {
+      series: [ "SK" ],
+      notwiki: true,
+      boy: true
+    }
+  },          
+  {
     name: "Dante Marciano",
     img: "PkwZ5wX.png",
     opts: {
@@ -1070,6 +1079,33 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },  
+  {
+    name: "Reina Reiss",
+    img: "pn1JLMh.png",
+    opts: {
+      series: [ "SK" ],
+      notwiki: true,
+      girl: true
+    }
+  },        
+  {
+    name: "Samuel Aubert",
+    img: "7IIz1gU.png",
+    opts: {
+      series: [ "SK" ],
+      notwiki: true,
+      boy: true
+    }
+  },       
+  {
+    name: "Selene Aubert",
+    img: "pPpKaOw.png",
+    opts: {
+      series: [ "SK" ],
+      notwiki: true,
+      girl: true
+    }
+  },          
   {
     name: "Nemesis Cain",
     img: "3JPTSuF.png",
