@@ -88,7 +88,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ángeles Reyes",
-    img: "uBz2Lhq.png",
+    img: "maiDuD5.png",
     opts: {
       series: [ "SC" ],
       agency: [ "KA" ],      
