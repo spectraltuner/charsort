@@ -1026,14 +1026,23 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Justine Royale",
-    img: "eunKzz3.png",
+    name: "Dante Marciano",
+    img: "PkwZ5wX.png",
+    opts: {
+      series: [ "SK" ],
+      notwiki: true,
+      boy: true
+    }
+  },        
+  {
+    name: "Estelle Laurier",
+    img: "Y0RvA2o.png",
     opts: {
       series: [ "SK" ],
       notwiki: true,
       girl: true
     }
-  },  
+  },          
   {
     name: "Guy Royale",
     img: "tpscL6g.png",
@@ -1042,7 +1051,16 @@ dataSet[dataSetVersion].characterData = [
       notwiki: true,
       boy: true
     }
-  },    
+  },      
+  {
+    name: "Justine Royale",
+    img: "eunKzz3.png",
+    opts: {
+      series: [ "SK" ],
+      notwiki: true,
+      girl: true
+    }
+  },  
   {
     name: "Nemesis Cain",
     img: "3JPTSuF.png",
