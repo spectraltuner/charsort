@@ -292,7 +292,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Canace",
-    img: "QQY4NxY.png",
+    img: "IKrXiyy.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
@@ -341,7 +341,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Musca",
-    img: "5ddALba.png",
+    img: "pNioiOj.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
@@ -451,7 +451,7 @@ dataSet[dataSetVersion].characterData = [
   },     
   {
     name: "Arista",
-    img: "fN5wrFD.png",
+    img: "h0Sout1.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
@@ -461,7 +461,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Morsitans",
-    img: "m3iYl4U.png",
+    img: "di1xT93.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
