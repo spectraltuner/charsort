@@ -460,6 +460,26 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Diogma",
+    img: "v9oD2L1.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "HC" ],      
+      notwiki: true,
+      girl: true
+    }
+  },    
+  {
+    name: "Milichia",
+    img: "gRy877N.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "HC" ],      
+      notwiki: true,
+      girl: true
+    }
+  },      
+  {
     name: "Morsitans",
     img: "di1xT93.png",
     opts: {
@@ -469,6 +489,16 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },  
+  {
+    name: "Phora",
+    img: "dqpj2kZ.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "HC" ],      
+      notwiki: true,
+      girl: true
+    }
+  },        
   {
     name: "Murmur",
     img: "TpsqFBk.png",
