@@ -450,6 +450,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },     
   {
+    name: "Anopheles",
+    img: "nmtPkad.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "HC" ],      
+      notwiki: true,
+      girl: true
+    }
+  },  
+  {
     name: "Arista",
     img: "h0Sout1.png",
     opts: {
@@ -518,6 +528,16 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
+  {
+    name: "Orifiel",
+    img: "FcfgXgW.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "HC" ],      
+      notwiki: true,
+      nb: true
+    }
+  },    
   {
     name: "Azrael",
     img: "it9jzWs.png",
