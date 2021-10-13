@@ -834,7 +834,6 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SC" ],
       agency: [ "NS" ],      
       notwiki: true,
-      extra: true,
       girl: true
     }
   },    
