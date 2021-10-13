@@ -33,11 +33,17 @@ dataSet[dataSetVersion].options = [
     ]
   },
  {
-  name: 'Remove Irrelevant Characters',
+  name: 'Remove Non-FC/OC Characters',
   key: 'notwiki',
   tooltip: 'Check this to get the characters not on the wiki yet, or that are otherwise irrelevant to the FC/OC community, out of there.',
   checked: true
   },
+ {
+  name: 'Remove Minor Characters',
+  key: 'extra',
+  tooltip: 'Check this to get the minor characters out of there.',
+  checked: true
+  },  
  {
   name: 'Remove Boys',
   key: 'boy',
@@ -185,6 +191,7 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SC" ],
       agency: [ "BR" ],      
       notwiki: true,
+      extra: true,
       nb: true
     }
   },
@@ -346,6 +353,7 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SC" ],
       agency: [ "HC" ],      
       notwiki: true,
+      extra: true,
       girl: true
     }
   },  
@@ -396,6 +404,7 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SC" ],
       agency: [ "FC" ],      
       notwiki: true,
+      extra: true,
       nb: true
     }
   },  
@@ -476,6 +485,7 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SC" ],
       agency: [ "HC" ],      
       notwiki: true,
+      extra: true,
       girl: true
     }
   },    
@@ -486,6 +496,7 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SC" ],
       agency: [ "HC" ],      
       notwiki: true,
+      extra: true,
       girl: true
     }
   },      
@@ -506,6 +517,7 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SC" ],
       agency: [ "HC" ],      
       notwiki: true,
+      extra: true,
       girl: true
     }
   },        
@@ -698,6 +710,7 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SC" ],
       agency: [ "FC" ],      
       notwiki: true,
+      extra: true,
       nb: true
     }
   },    
@@ -718,6 +731,7 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SC" ],
       agency: [ "FC" ],      
       notwiki: true,
+      extra: true,
       nb: true
     }
   },    
@@ -787,6 +801,7 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SC" ],
       agency: [ "NS" ],      
       notwiki: true,
+      extra: true,
       girl: true
     }
   },      
@@ -797,6 +812,7 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SC" ],
       agency: [ "NS" ],      
       notwiki: true,
+      extra: true,
       girl: true
     }
   },       
@@ -807,6 +823,7 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SC" ],
       agency: [ "NS" ],      
       notwiki: true,
+      extra: true,
       boy: true
     }
   },     
@@ -817,6 +834,7 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SC" ],
       agency: [ "NS" ],      
       notwiki: true,
+      extra: true,
       girl: true
     }
   },    
@@ -827,6 +845,7 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SC" ],
       agency: [ "NS" ],      
       notwiki: true,
+      extra: true,
       girl: true
     }
   },         
@@ -907,6 +926,7 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SC" ],
       agency: [ "BR" ],      
       notwiki: true,
+      extra: true,
       boy: true
     }
   },          
@@ -1101,6 +1121,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SK" ],
       notwiki: true,
+      extra: true,
       girl: true
     }
   },            
@@ -1110,6 +1131,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SK" ],
       notwiki: true,
+      extra: true,
       boy: true
     }
   },          
@@ -1119,6 +1141,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SK" ],
       notwiki: true,
+      extra: true,
       boy: true
     }
   },        
@@ -1128,6 +1151,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SK" ],
       notwiki: true,
+      extra: true,
       girl: true
     }
   },        
@@ -1137,6 +1161,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SK" ],
       notwiki: true,
+      extra: true,
       girl: true
     }
   },          
@@ -1155,6 +1180,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SK" ],
       notwiki: true,
+      extra: true,
       boy: true
     }
   },          
@@ -1164,6 +1190,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SK" ],
       notwiki: true,
+      extra: true,
       girl: true
     }
   },              
@@ -1182,6 +1209,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SK" ],
       notwiki: true,
+      extra: true,
       boy: true
     }
   },    
@@ -1191,6 +1219,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SK" ],
       notwiki: true,
+      extra: true,
       boy: true
     }
   },      
@@ -1200,6 +1229,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SK" ],
       notwiki: true,
+      extra: true,
       girl: true
     }
   },          
@@ -1209,6 +1239,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SK" ],
       notwiki: true,
+      extra: true,
       girl: true
     }
   },        
@@ -1218,6 +1249,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SK" ],
       notwiki: true,
+      extra: true,
       boy: true
     }
   },       
@@ -1227,6 +1259,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SK" ],
       notwiki: true,
+      extra: true,
       girl: true
     }
   },          
@@ -1236,6 +1269,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SK" ],
       notwiki: true,
+      extra: true,
       girl: true
     }
   },              
@@ -1357,6 +1391,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "RP", "SK" ],
       notwiki: true,
+      extra: true,
       girl: true
     }
   },      
@@ -1367,6 +1402,7 @@ dataSet[dataSetVersion].characterData = [
       series: [ "RP", "SC" ],
       agency: [ "BR" ],
       notwiki: true,
+      extra: true,
       boy: true
     }
   },      
@@ -1376,6 +1412,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "RP", "SK" ],
       notwiki: true,
+      extra: true,
       girl: true
     }
   },
@@ -1403,6 +1440,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "RP", "SK" ],
       notwiki: true,
+      extra: true,
       boy: true
     }
   },        
@@ -1412,6 +1450,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "RP", "SK" ],
       notwiki: true,
+      extra: true,
       boy: true
     }
   },        
@@ -1422,6 +1461,7 @@ dataSet[dataSetVersion].characterData = [
       series: [ "RP", "SC" ],
       agency: [ "BR" ],
       notwiki: true,
+      extra: true,
       girl: true
     }
   },        
