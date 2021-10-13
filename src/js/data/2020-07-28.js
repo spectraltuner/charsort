@@ -1148,7 +1148,25 @@ dataSet[dataSetVersion].characterData = [
       notwiki: true,
       boy: true
     }
-  },      
+  }, 
+  {
+    name: "Isaac Reiss",
+    img: "EtEDvOz.png",
+    opts: {
+      series: [ "SK" ],
+      notwiki: true,
+      boy: true
+    }
+  },          
+  {
+    name: "Jessica Reiss",
+    img: "2zmFS3T.png",
+    opts: {
+      series: [ "SK" ],
+      notwiki: true,
+      girl: true
+    }
+  },              
   {
     name: "Justine Royale",
     img: "eunKzz3.png",
@@ -1158,6 +1176,33 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },  
+  {
+    name: "Paul Laurier",
+    img: "y5kItF0.png",
+    opts: {
+      series: [ "SK" ],
+      notwiki: true,
+      boy: true
+    }
+  },    
+  {
+    name: "Quincy Laurier",
+    img: "5He1aIE.png",
+    opts: {
+      series: [ "SK" ],
+      notwiki: true,
+      boy: true
+    }
+  },      
+  {
+    name: "Rebecca Reiss",
+    img: "8HkvYUB.png",
+    opts: {
+      series: [ "SK" ],
+      notwiki: true,
+      girl: true
+    }
+  },          
   {
     name: "Reina Reiss",
     img: "pn1JLMh.png",
