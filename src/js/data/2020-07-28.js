@@ -1559,6 +1559,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Pseudo-Nemesis",
+    img: "iv6Q1Ke.png",
+    opts: {
+      series: [ "NC" ],
+      notwiki: true,
+      boy: true
+    }
+  },    
+  {
     name: "Scavenger",
     img: "qBX0deO.png",
     opts: {
