@@ -1596,7 +1596,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Rafflesia Nightingale",
-    img: "LuFZaak.png",
+    img: "7IriYRZ.png",
     opts: {
       series: [ "RN" ],
       notwiki: true,
