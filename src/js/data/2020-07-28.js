@@ -244,8 +244,8 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Warden",
-    img: "XcYXVhN.png",
+    name: "Satariel (Warden)",
+    img: "HfNMqF1.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC" ],      
