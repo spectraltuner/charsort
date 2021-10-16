@@ -85,7 +85,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kyarne",
-    img: "92JxBkP.png",
+    img: "jbLsJer.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC" ],     
@@ -123,7 +123,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Milky Way",
-    img: "vp33NDQ.png",
+    img: "Tv3dQFt.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC" ],      
