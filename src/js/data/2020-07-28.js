@@ -1243,6 +1243,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },        
   {
+    name: "Ren Mitsubayashi",
+    img: "3LiLz0t.png",
+    opts: {
+      series: [ "SK" ],
+      notwiki: true,
+      extra: true,
+      boy: true
+    }
+  },          
+  {
     name: "Samuel Aubert",
     img: "7IIz1gU.png",
     opts: {
