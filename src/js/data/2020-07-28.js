@@ -103,6 +103,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Eun-Jae Baek",
+    img: "w8IVUvF.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "KA" ],      
+      notwiki: true,
+      girl: true
+    }
+  },    
+  {
     name: "Anya Kimura",
     img: "YlOuW9X.png",
     opts: {
