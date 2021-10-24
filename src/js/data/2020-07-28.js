@@ -10,6 +10,7 @@ dataSet[dataSetVersion].options = [
     sub: [
       { name: "Agency", tooltip: "Starcross, Heavencross, and Fatecross", key: "SC" },
       { name: "Black Widow", tooltip: "Stupid Occult Detective Bullshit", key: "BW" },
+      { name: "Monster Hunting & You", tooltip: "The Monster Hunter Diaries", key: "MH" },
       { name: "Suicide Kings", tooltip: "Local Tomboy Forced to Gamble Soul", key: "SK" },
       { name: "Sweet Malus", tooltip: "Gods Go on Road Trip, Catastrophe Ensues", key: "SM" },
       { name: "Roleplays", tooltip: "Characters made for roleplays.", key: "RP" },     
@@ -1027,6 +1028,23 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Anastasia",
+    img: "orUwyaM.png",
+    opts: {
+      series: [ "MH", "RP" ],
+      girl: true
+    }
+  },  
+  {
+    name: "Logan Ruskin",
+    img: "rEB3TgE.png",
+    opts: {
+      series: [ "MH" ],
+      notwiki: true,
+      girl: true
+    }
+  },    
+  {
     name: "Roxanne Royale",
     img: "DyMUEpR.png",
     opts: {
@@ -1343,14 +1361,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SK", "RP" ],
       notwiki: true,
-      girl: true
-    }
-  },
-  {
-    name: "Anastasia Friede Ende",
-    img: "orUwyaM.png",
-    opts: {
-      series: [ "RP" ],
       girl: true
     }
   },
