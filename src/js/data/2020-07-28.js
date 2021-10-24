@@ -103,7 +103,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
-    name: "Eun-Jae Baek",
+    name: "Eun-jae Baek",
     img: "w8IVUvF.png",
     opts: {
       series: [ "SC" ],
