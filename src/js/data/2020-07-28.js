@@ -207,6 +207,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Jade Huo",
+    img: "zWOOl23.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "KA" ],      
+      notwiki: true,
+      girl: true
+    }
+  },     
+  {
     name: "Susanne Kay",
     img: "5qlFbbK.png",
     opts: {
