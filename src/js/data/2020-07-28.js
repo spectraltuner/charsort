@@ -1545,6 +1545,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Charlotte Doucet (Grand Guignol)",
+    img: "vFnRxtX.png",
+    opts: {
+      series: [ "OS" ],
+      notwiki: true,
+      girl: true
+    }
+  },    
+  {
     name: "Suicide Taker",
     img: "3b3xEQZ.png",
     opts: {
