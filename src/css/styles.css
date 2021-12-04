@@ -41,7 +41,7 @@ body {
 .sorter {
   margin: 0px auto;
   display: grid;
-  grid-template-columns: 180px 1fr 180px;
+  grid-template-columns: 150px 1fr 150px;
   grid-gap: 5px;
   width: 420px;
 }
@@ -111,15 +111,15 @@ body {
 }
 
 .sorter > .image {
-  width: 180px;
-  height: 180px;
+  width: 150px;
+  height: 150px;
   margin: auto;
   grid-row: 1 / 7;
   cursor: pointer;
 }
 
 .sorter > .text {
-  width: 180px;
+  width: 150px;
   height: 60px;
   display: none;
 }
