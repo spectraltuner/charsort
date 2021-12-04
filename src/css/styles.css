@@ -43,7 +43,7 @@ body {
   display: grid;
   grid-template-columns: 120px 1fr 120px;
   grid-gap: 5px;
-  width: 500px;
+  width: 420px;
 }
 
 .button {
@@ -111,15 +111,15 @@ body {
 }
 
 .sorter > .image {
-  width: 200px;
-  height: 200px;
+  width: 120px;
+  height: 180px;
   margin: auto;
   grid-row: 1 / 7;
   cursor: pointer;
 }
 
 .sorter > .text {
-  width: 200px;
+  width: 120px;
   height: 60px;
   display: none;
 }
