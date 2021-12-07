@@ -851,7 +851,7 @@ dataSet[dataSetVersion].characterData = [
   },    
  {
     name: "Saklas",
-    img: "uWVf6Gn.png",
+    img: "o7F3USM.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
