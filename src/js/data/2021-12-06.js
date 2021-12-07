@@ -1096,7 +1096,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Trespasser",
-    img: "Ur1CCfC.png",
+    img: "5QRl2oF.png",
     opts: {
       series: [ "BW" ],
       nb: true
