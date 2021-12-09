@@ -893,7 +893,7 @@ dataSet[dataSetVersion].characterData = [
   },       
   {
     name: "Tarache Hyle",
-    img: "Ry58Wmd.png",
+    img: "486kMvM.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
@@ -904,7 +904,7 @@ dataSet[dataSetVersion].characterData = [
   },     
   {
     name: "Mona Hyle",
-    img: "rPgnQwH.png",
+    img: "ro0tPEB.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
