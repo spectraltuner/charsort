@@ -861,7 +861,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Horos Astaphe",
-    img: "6va41xY.png",
+    img: "md8m9zo.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
