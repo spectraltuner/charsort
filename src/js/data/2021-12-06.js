@@ -871,7 +871,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Doxa Astaphe",
-    img: "eQTbsnm.png",
+    img: "D6bXEvw.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
