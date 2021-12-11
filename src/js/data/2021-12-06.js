@@ -800,6 +800,17 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Logos (Stalker)",
+    img: "VDwnrgJ.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "FC" ],      
+      notwiki: true,
+      extra: true,
+      nb: true
+    }
+  },      
+  {
     name: "Logos (Slasher)",
     img: "yU4QdQh.png",
     opts: {
