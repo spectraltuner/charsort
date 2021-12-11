@@ -1396,7 +1396,7 @@ dataSet[dataSetVersion].characterData = [
   },              
   {
     name: "Nemesis Cain",
-    img: "3JPTSuF.png",
+    img: "nfmOYf8.png",
     opts: {
       series: [ "SM" ],
       notwiki: true,
