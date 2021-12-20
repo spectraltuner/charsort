@@ -849,7 +849,7 @@ dataSet[dataSetVersion].characterData = [
       notwiki: true,
       girl: true
     }
-  },    
+  },      
   {
     name: "Sige",
     img: "fx70JoQ.png",
@@ -859,7 +859,17 @@ dataSet[dataSetVersion].characterData = [
       notwiki: true,
       girl: true
     }
-  },    
+  },  
+  {
+    name: "Iao",
+    img: "onboQSH.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "NS" ],      
+      notwiki: true,
+      girl: true
+    }
+  },      
  {
     name: "Saklas",
     img: "o7F3USM.png",
