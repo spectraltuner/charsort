@@ -1472,24 +1472,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
-    name: "Sayuri Kobayashi",
-    img: "AYDJmQB.png",
-    opts: {
-      series: [ "OS" ],
-      notwiki: true,
-      girl: true
-    }
-  },    
-  {
-    name: "Youko Kobayashi",
-    img: "aPD22yu.png",
-    opts: {
-      series: [ "OS" ],
-      notwiki: true,
-      girl: true
-    }
-  },      
-  {
     name: "Dragon",
     img: "OG0v6Bm.png",
     opts: {
