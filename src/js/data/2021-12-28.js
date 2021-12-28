@@ -47,12 +47,6 @@ dataSet[dataSetVersion].options = [
   checked: true
   },  
  {
-  name: 'Remove Nostalgia Characters',
-  key: 'old',
-  tooltip: 'Check this to get the deprecated characters out of there.',
-  checked: true
-  },    
- {
   name: 'Remove Boys',
   key: 'boy',
   tooltip: 'Check this to get the boys out of there.',
@@ -1477,6 +1471,42 @@ dataSet[dataSetVersion].characterData = [
       nb: true
     }
   },  
+  {
+    name: "Sayuri Kobayashi",
+    img: "AYDJmQB.png",
+    opts: {
+      series: [ "OS" ],
+      notwiki: true,
+      girl: true
+    }
+  },    
+  {
+    name: "Youko Kobayashi",
+    img: "aPD22yu.png",
+    opts: {
+      series: [ "OS" ],
+      notwiki: true,
+      girl: true
+    }
+  },      
+  {
+    name: "Dragon",
+    img: "OG0v6Bm.png",
+    opts: {
+      series: [ "RP" ],
+      notwiki: true,
+      girl: true
+    }
+  },  
+  {
+    name: "Violet Hudson",
+    img: "ODpMXhP.png",
+    opts: {
+      series: [ "RP" ],
+      notwiki: true,
+      girl: true
+    }
+  },    
   {
     name: "Merche Ramón",
     img: "OG0v6Bm.png",
