@@ -1608,7 +1608,16 @@ dataSet[dataSetVersion].characterData = [
       extra: true,
       girl: true
     }
-  },        
+  }, 
+  {
+    name: "Sage",
+    img: "sSupD5h.png",
+    opts: {
+      series: [ "OS" ],
+      notwiki: true,
+      boy: true
+    }
+  },      
   {
     name: "Sidney Lynch",
     img: "ba7W4Un.png",
