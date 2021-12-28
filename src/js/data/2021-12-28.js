@@ -1472,24 +1472,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
-    name: "Dragon",
-    img: "OG0v6Bm.png",
-    opts: {
-      series: [ "RP" ],
-      notwiki: true,
-      girl: true
-    }
-  },  
-  {
-    name: "Violet Hudson",
-    img: "ODpMXhP.png",
-    opts: {
-      series: [ "RP" ],
-      notwiki: true,
-      girl: true
-    }
-  },    
-  {
     name: "Merche Ramón",
     img: "OG0v6Bm.png",
     opts: {
