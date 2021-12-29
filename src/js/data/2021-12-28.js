@@ -761,7 +761,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Logos (Synthesizer)",
+    name: "Logos",
     img: "DW4eEMx.png",
     opts: {
       series: [ "SC" ],
