@@ -753,7 +753,7 @@ dataSet[dataSetVersion].characterData = [
 
   {
     name: "Sophia Astaphe",
-    img: "TyUfUHH.png",
+    img: "I1t8Eg8.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC", "NS" ],      
@@ -824,7 +824,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Logos Prime",
-    img: "hHfcjrs.png",
+    img: "PqDKUWW.png",
     opts: {
       series: [ "SC" ],
       agency: [ "FC", "NS" ],      
