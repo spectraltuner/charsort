@@ -986,7 +986,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },            
   {
-    name: "Ain",
+    name: "Ain Koth",
     img: "cPZO0h9.png",
     opts: {
       series: [ "SC" ],
@@ -994,7 +994,17 @@ dataSet[dataSetVersion].characterData = [
       notwiki: true,
       boy: true
     }
-  },      
+  }, 
+  {
+    name: "Asher Sark",
+    img: "h7hiern.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "NS" ],      
+      notwiki: true,
+      boy: true
+    }
+  },       
   {
     name: "Adoni Kenoma",
     img: "Q2ZgMOs.png",
