@@ -832,7 +832,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Zoe",
+    name: "Zoe Aima",
     img: "KsuXSol.png",
     opts: {
       series: [ "SC" ],
@@ -852,7 +852,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },      
   {
-    name: "Sige",
+    name: "Sige Lenore",
     img: "fx70JoQ.png",
     opts: {
       series: [ "SC" ],
@@ -872,7 +872,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },      
  {
-    name: "Saklas",
+    name: "Saklas Lenore",
     img: "o7F3USM.png",
     opts: {
       series: [ "SC" ],
@@ -966,7 +966,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
-    name: "Sabal",
+    name: "Sabal Sciène",
     img: "MGvIMP1.png",
     opts: {
       series: [ "SC" ],
@@ -976,7 +976,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },          
   {
-    name: "Sion",
+    name: "Sion Ariel",
     img: "sUUsgNS.png",
     opts: {
       series: [ "SC" ],
