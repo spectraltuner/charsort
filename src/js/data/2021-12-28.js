@@ -871,16 +871,6 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },      
- {
-    name: "Saklas Lenore",
-    img: "o7F3USM.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "NS" ],      
-      notwiki: true,
-      boy: true
-    }
-  },    
   {
     name: "Horos Astaphe",
     img: "md8m9zo.png",
@@ -955,16 +945,16 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   },  
-  {
-    name: "Horkos",
-    img: "Lcw7qWA.png",
+ {
+    name: "Saklas Lenore",
+    img: "o7F3USM.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
       notwiki: true,
       boy: true
     }
-  },  
+  },      
   {
     name: "Sabal Sciène",
     img: "MGvIMP1.png",
@@ -1005,6 +995,16 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   },       
+   {
+    name: "Horkos",
+    img: "Lcw7qWA.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "NS" ],      
+      notwiki: true,
+      boy: true
+    }
+  },   
   {
     name: "Adoni Kenoma",
     img: "Q2ZgMOs.png",
