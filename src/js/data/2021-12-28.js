@@ -535,6 +535,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },     
   {
+    name: "Wormwood",
+    img: "8i1SKon.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "HC", "FC" ],      
+      notwiki: true,
+      girl: true
+    }
+  },       
+  {
     name: "Anopheles",
     img: "nmtPkad.png",
     opts: {
