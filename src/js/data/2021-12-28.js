@@ -405,7 +405,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Metatron",
-    img: "SrwQxHN.png",
+    img: "Z87U1LK.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
