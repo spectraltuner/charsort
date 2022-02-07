@@ -394,7 +394,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Belphegor",
-    img: "MA98fF2.png",
+    img: "Vt9ZPyk.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -1230,6 +1230,15 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
+  {
+    name: "Rose Compere",
+    img: "YeoRvhY.png",
+    opts: {
+      series: [ "SK" ],
+      notwiki: true,
+      girl: true
+    }
+  },      
   {
     name: "Giselle Glamour",
     img: "cb6kOD1.png",
