@@ -1187,7 +1187,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Anastasia",
-    img: "orUwyaM.png",
+    img: "NmDLHHS.png",
     opts: {
       series: [ "MH", "RP" ],
       girl: true
@@ -1661,6 +1661,15 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },   
+  {
+    name: "Zebel Chance",
+    img: "4PnJ1ZJ.png",
+    opts: {
+      series: [ "OS" ],
+      notwiki: true,
+      girl: true
+    }
+  },          
   {
     name: "Sage",
     img: "sSupD5h.png",
