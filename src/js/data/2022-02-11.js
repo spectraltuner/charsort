@@ -1230,7 +1230,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Damien Aubert",
-    img: "zsj7v7k.png",
+    img: "VwTykhq.png",
     opts: {
       series: [ "SK" ],
       notwiki: true,
