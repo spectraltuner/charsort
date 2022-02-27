@@ -9,8 +9,8 @@ dataSet[dataSetVersion].options = [
     checked: false,
     sub: [
       { name: "Agency", tooltip: "Starcross, Heavencross, and Fatecross", key: "SC" },
+      { name: "Backwoods Bestiary", tooltip: "The Monster Hunter Diaries", key: "BB" },      
       { name: "Black Widow", tooltip: "Stupid Occult Detective Bullshit", key: "BW" },
-      { name: "Monster Hunting & You", tooltip: "The Monster Hunter Diaries", key: "MH" },
       { name: "Suicide Kings", tooltip: "Local Tomboy Forced to Gamble Soul", key: "SK" },
       { name: "Sweet Malus", tooltip: "Gods Go on Road Trip, Catastrophe Ensues", key: "SM" },
       { name: "Other Settings", tooltip: "Characters from other, deprecated or minor settings.", key: "OS" },
@@ -295,7 +295,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Mahine Avci",
     img: "vPPnU2s.png",
     opts: {
-      series: [ "SC", "MH" ],
+      series: [ "SC", "BB" ],
       agency: [ "BR" ],      
       notwiki: true,
       nb: true
@@ -1099,6 +1099,23 @@ dataSet[dataSetVersion].characterData = [
     }
   },          
   {
+    name: "Anastasia Eryomina",
+    img: "sUYoW27.png",
+    opts: {
+      series: [ "BB", "RP" ],
+      girl: true
+    }
+  },  
+  {
+    name: "Logan Ruskin",
+    img: "rEB3TgE.png",
+    opts: {
+      series: [ "BB" ],
+      notwiki: true,
+      girl: true
+    }
+  },      
+  {
     name: "Iris Widow",
     img: "yjrvPwD.png",
     opts: {
@@ -1185,23 +1202,6 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },  
-  {
-    name: "Anastasia Eryomina",
-    img: "sUYoW27.png",
-    opts: {
-      series: [ "MH", "RP" ],
-      girl: true
-    }
-  },  
-  {
-    name: "Logan Ruskin",
-    img: "rEB3TgE.png",
-    opts: {
-      series: [ "MH" ],
-      notwiki: true,
-      girl: true
-    }
-  },    
   {
     name: "Roxanne Royale",
     img: "DyMUEpR.png",
