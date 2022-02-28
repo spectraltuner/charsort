@@ -281,6 +281,17 @@ dataSet[dataSetVersion].characterData = [
     }
   },      
   {
+    name: "Teresa Delgado",
+    img: "aQyzfZ0.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "KA" ],      
+      notwiki: true,
+      extra: true,
+      girl: true
+    }
+  },        
+  {
     name: "Condor",
     img: "hPWTHVf.png",
     opts: {
