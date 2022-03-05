@@ -1127,6 +1127,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },      
   {
+    name: "Ilya Bakhtin",
+    img: "ldiE0eH.png",
+    opts: {
+      series: [ "BB" ],
+      notwiki: true,
+      boy: true
+    }
+  },        
+  {
     name: "Iris Widow",
     img: "yjrvPwD.png",
     opts: {
