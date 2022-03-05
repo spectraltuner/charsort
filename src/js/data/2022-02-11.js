@@ -96,7 +96,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ángeles Reyes",
-    img: "maiDuD5.png",
+    img: "rC22wop.png",
     opts: {
       series: [ "SC" ],
       agency: [ "KA" ],      
@@ -171,7 +171,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Venus Kang",
-    img: "IEniRrn.png",
+    img: "7xLC3Ln.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC", "KA" ],     
@@ -189,7 +189,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Sabrina Trenchard (Ceres)",
-    img: "Mmgnyz5.png",
+    img: "9HKMBfo.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC", "HC", "FC" ],      
@@ -228,7 +228,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Toya Pastore (Trance)",
-    img: "aS7JM2P.png",
+    img: "cblPUgY.png",
     opts: {
       series: [ "SC" ],
       agency: [ "KA" ],      
@@ -323,7 +323,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kalaziel (Terror)",
-    img: "qR8rLrg.png",
+    img: "O2LAsvt.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC" ],      
@@ -341,7 +341,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Deleter",
-    img: "nh5yCGO.png",
+    img: "veLrgVC.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC" ],      
@@ -350,7 +350,7 @@ dataSet[dataSetVersion].characterData = [
   },   
   {
     name: "Langosta",
-    img: "R0mabWt.png",
+    img: "NyD3ixu.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC" ],      
@@ -786,10 +786,10 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Yaldabaoth",
-    img: "SXrNNYO.png",
+    img: "dOVctGu.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC", "NS" ],      
+      agency: [ "HC", "FC", "NS" ],      
       girl: true
     }
   },
@@ -1259,7 +1259,7 @@ dataSet[dataSetVersion].characterData = [
   },     
   {
     name: "Daniel Sharpe",
-    img: "DKtB6hv.png",
+    img: "gvBsNQI.png",
     opts: {
       series: [ "SK" ],
       notwiki: true,
@@ -1304,7 +1304,7 @@ dataSet[dataSetVersion].characterData = [
   },       
   {
     name: "Giselle Glamour",
-    img: "cb6kOD1.png",
+    img: "VYGnrDN.png",
     opts: {
       series: [ "SK" ],
       notwiki: true,
@@ -1701,7 +1701,7 @@ dataSet[dataSetVersion].characterData = [
   },        
   {
     name: "Sidney Lynch",
-    img: "ba7W4Un.png",
+    img: "oGXJgND.png",
     opts: {
       series: [ "FAN" ],
       girl: true
@@ -1759,7 +1759,7 @@ dataSet[dataSetVersion].characterData = [
   },     
   {
     name: "Suicide Taker",
-    img: "3b3xEQZ.png",
+    img: "S39N0Xj.png",
     opts: {
       series: [ "NC", "OS" ],
       notwiki: true,
