@@ -1134,7 +1134,25 @@ dataSet[dataSetVersion].characterData = [
       notwiki: true,
       boy: true
     }
-  },        
+  },    
+  {
+    name: "Sage",
+    img: "sSupD5h.png",
+    opts: {
+      series: [ "BB", "FAN" ],
+      notwiki: true,
+      boy: true
+    }
+  },          
+  {
+    name: "The Burnt King",
+    img: "0sxoBOu.png",
+    opts: {
+      series: [ "BB" ],
+      notwiki: true,
+      boy: true
+    }
+  },            
   {
     name: "Iris Widow",
     img: "yjrvPwD.png",
@@ -1690,15 +1708,6 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },          
-  {
-    name: "Sage",
-    img: "sSupD5h.png",
-    opts: {
-      series: [ "FAN", "OS" ],
-      notwiki: true,
-      boy: true
-    }
-  },        
   {
     name: "Sidney Lynch",
     img: "oGXJgND.png",
