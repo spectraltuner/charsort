@@ -69,7 +69,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
    {
     name: "Minna Yamane",
-    img: "kuM1zBQ.png",
+    img: "ofun9pd.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC" ],
@@ -1544,7 +1544,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Momo",
-    img: "08xvyoJ.png",
+    img: "x9HcTbm.png",
     opts: {
       series: [ "SM" ],
       notwiki: true,
@@ -1571,7 +1571,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Merche Ramón",
-    img: "OG0v6Bm.png",
+    img: "vw5ofUL.png",
     opts: {
       series: [ "SK", "RP", "FAN" ],
       notwiki: true,
@@ -1580,7 +1580,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mirai Amachi",
-    img: "9xUZZgp.png",
+    img: "S74tQIr.png",
     opts: {
       series: [ "SK", "RP", "FAN" ],
       girl: true
@@ -1727,7 +1727,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mia Lynch",
-    img: "5JAjn4N.png",
+    img: "c6oCBSB.png",
     opts: {
       series: [ "FAN" ],
       girl: true
