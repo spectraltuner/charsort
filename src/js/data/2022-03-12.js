@@ -144,7 +144,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mariposa",
-    img: "3Vz0Vrf.png",
+    img: "h6zqnbE.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC" ],      
@@ -448,7 +448,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Lucifer",
-    img: "hVQZLq9.png",
+    img: "OReVtpg.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -539,7 +539,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Lamiet",
-    img: "9YBTuIl.png",
+    img: "qwwBPO0.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
@@ -721,7 +721,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "Mastema",
-    img: "0KCKfO7.png",
+    img: "k7xY9Ij.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -758,7 +758,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Jophiel",
-    img: "AktH9Js.png",
+    img: "mwKpFBW.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -1164,7 +1164,7 @@ dataSet[dataSetVersion].characterData = [
   },            
   {
     name: "Iris Widow",
-    img: "yjrvPwD.png",
+    img: "VVWpy6O.png",
     opts: {
       series: [ "BW" ],
       girl: true
@@ -1181,7 +1181,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ivy Branwen",
-    img: "phzxd54.png",
+    img: "SUTOhr9.png",
     opts: {
       series: [ "BW" ],
       notwiki: true,
@@ -1268,7 +1268,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Jack Leblanc",
-    img: "HNS53Su.png",
+    img: "x9Ee1Zl.png",
     opts: {
       series: [ "SK" ],
       notwiki: true,
@@ -1735,15 +1735,15 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Isabelle White",
-    img: "S1yRjDs.png",
+    img: "h1xGYVY.png",
     opts: {
       series: [ "FAN" ],
       girl: true
     }
   },  
   {
-    name: "Lili Kiraly",
-    img: "xkzCQ4P.png",
+    name: "Lili Király",
+    img: "XkfNL9Z.png",
     opts: {
       series: [ "FAN" ],
       girl: true
