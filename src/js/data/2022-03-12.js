@@ -359,7 +359,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hanael (Observer)",
-    img: "OXQ2hlu.png",
+    img: "DwouPF8.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC", "HC", "FC" ],      
@@ -777,7 +777,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Raphael",
-    img: "vlPpE5r.png",
+    img: "vu4WqfZ.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -1251,7 +1251,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Roxanne Royale",
-    img: "DyMUEpR.png",
+    img: "nj13kh9.png",
     opts: {
       series: [ "SK" ],
       girl: true
@@ -1313,7 +1313,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Noelle Germaine",
-    img: "F2DfRbe.png",
+    img: "9KBKFED.png",
     opts: {
       series: [ "SK" ],
       notwiki: true,
