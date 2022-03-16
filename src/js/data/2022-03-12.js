@@ -749,7 +749,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Sariel",
-    img: "yx5s0a0.png",
+    img: "bDttO3i.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -835,7 +835,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Logos (Seeker)",
-    img: "5kyfwqx.png",
+    img: "3cQ5NxU.png",
     opts: {
       series: [ "SC" ],
       agency: [ "FC" ],      
@@ -1259,7 +1259,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Rachel Reiss",
-    img: "wkhx6JN.png",
+    img: "MnNtMv5.png",
     opts: {
       series: [ "SK" ],
       notwiki: true,
