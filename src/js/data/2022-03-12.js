@@ -1251,7 +1251,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Roxanne Royale",
-    img: "nj13kh9.png",
+    img: "0Leoioy.png",
     opts: {
       series: [ "SK" ],
       girl: true
@@ -1580,7 +1580,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mirai Amachi",
-    img: "Bna56pS.png",
+    img: "xReWm9E.png",
     opts: {
       series: [ "SK", "RP", "FAN" ],
       girl: true
