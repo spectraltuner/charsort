@@ -740,7 +740,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Uriel",
-    img: "DEurqgM.png",
+    img: "Vm2ohrt.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -856,7 +856,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "Logos (Slasher)",
-    img: "yU4QdQh.png",
+    img: "pYuIPGs.png",
     opts: {
       series: [ "SC" ],
       agency: [ "FC" ],      
@@ -1172,7 +1172,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Sherry Watson",
-    img: "R1TGVOx.png",
+    img: "J7c95Kr.png",
     opts: {
       series: [ "BW" ],
       notwiki: true,
@@ -1588,7 +1588,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shinobu Endou",
-    img: "yxFc4Uq.png",
+    img: "IQsfPcI.png",
     opts: {
       series: [ "SK", "RP", "FAN" ],
       girl: true
@@ -1621,7 +1621,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Shouko Mitsubayashi",
-    img: "LHG8sRG.png",
+    img: "6C7b4cU.png",
     opts: {
       series: [ "RP", "SK", "FAN" ],
       notwiki: true,
