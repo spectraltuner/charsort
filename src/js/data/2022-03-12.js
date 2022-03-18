@@ -1849,7 +1849,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Knifedick Deathfuck",
-    img: "lhihumh.png",
+    img: "N6WiU35.png",
     opts: {
       series: [ "RN" ],
       notwiki: true,
