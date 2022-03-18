@@ -980,7 +980,7 @@ dataSet[dataSetVersion].characterData = [
   },         
   {
     name: "The White Knight",
-    img: "ktJe3B7.png",
+    img: "8Otfxaw.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
@@ -1225,7 +1225,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hanami Yako",
-    img: "jNjZX24.png",
+    img: "vTod2eR.png",
     opts: {
       series: [ "BW" ],
       notwiki: true,
@@ -1596,7 +1596,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Yumi Akechi",
-    img: "N6XsCqd.png",
+    img: "xzhMaiZ.png",
     opts: {
       series: [ "SC", "RP", "FAN" ],
       agency: [ "KA" ],      
