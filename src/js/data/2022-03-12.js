@@ -116,7 +116,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Anya Kimura",
-    img: "YlOuW9X.png",
+    img: "id7xUXW.png",
     opts: {
       series: [ "SC" ],
       agency: [ "KA" ],      
@@ -671,7 +671,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Azrael",
-    img: "it9jzWs.png",
+    img: "rHqiLL3.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
@@ -730,7 +730,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Abaddon",
-    img: "PLUhF85.png",
+    img: "VqcaVpE.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -1349,7 +1349,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "The Ace of Spades",
-    img: "oENm2qU.png",
+    img: "Z8nKeyg.png",
     opts: {
       series: [ "SK" ],
       notwiki: true,
