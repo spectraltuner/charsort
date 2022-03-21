@@ -418,7 +418,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Baphomet",
-    img: "VhM3dfd.png",
+    img: "aXOL7SO.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
@@ -428,7 +428,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Belphegor",
-    img: "Vt9ZPyk.png",
+    img: "99RqBE3.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -652,7 +652,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Beelzebub",
-    img: "9rdeZVK.png",
+    img: "BfQgsnq.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
