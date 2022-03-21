@@ -238,7 +238,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Lucy Cardoza",
-    img: "uoTnkBG.png",
+    img: "utWqIyq.png",
     opts: {
       series: [ "SC" ],
       agency: [ "KA" ],      
@@ -341,7 +341,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Deleter",
-    img: "veLrgVC.png",
+    img: "zNEszKD.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC" ],      
@@ -549,7 +549,7 @@ dataSet[dataSetVersion].characterData = [
   },   
   {
     name: "Lancer",
-    img: "p2sOury.png",
+    img: "ORjVzC2.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC", "NS" ],      
@@ -1277,7 +1277,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Damien Aubert",
-    img: "VwTykhq.png",
+    img: "vfih4t6.png",
     opts: {
       series: [ "SK" ],
       notwiki: true,
@@ -1535,7 +1535,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eris Strife",
-    img: "Rkc7UH1.png",
+    img: "1iY8vFt.png",
     opts: {
       series: [ "SM" ],
       notwiki: true,
