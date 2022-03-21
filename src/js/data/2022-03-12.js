@@ -428,7 +428,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Belphegor",
-    img: "99RqBE3.png",
+    img: "Ljv0Zkn.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -652,7 +652,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Beelzebub",
-    img: "BfQgsnq.png",
+    img: "x7tF9pS.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
