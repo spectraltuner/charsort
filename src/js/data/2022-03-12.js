@@ -642,7 +642,7 @@ dataSet[dataSetVersion].characterData = [
   },        
   {
     name: "Murmur",
-    img: "TpsqFBk.png",
+    img: "cl1tfRi.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
@@ -1242,7 +1242,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Monika Čierny",
-    img: "WhBGMWX.png",
+    img: "dOhvhJe.png",
     opts: {
       series: [ "BW" ],
       notwiki: true,
