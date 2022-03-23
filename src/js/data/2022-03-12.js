@@ -96,7 +96,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ángeles Reyes",
-    img: "rC22wop.png",
+    img: "oclA7NC.png",
     opts: {
       series: [ "SC" ],
       agency: [ "KA" ],      
@@ -180,7 +180,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Neptune",
-    img: "9ZsujHY.png",
+    img: "5najzMZ.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC", "KA" ],      
@@ -814,7 +814,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Logos (Sentinel)",
-    img: "Zw6jybv.png",
+    img: "xFfY5cG.png",
     opts: {
       series: [ "SC" ],
       agency: [ "FC" ],      
