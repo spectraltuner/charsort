@@ -153,7 +153,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shrike",
-    img: "pblpBOS.png",
+    img: "ooQevFK.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC" ],      
@@ -332,7 +332,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Satariel (Warden)",
-    img: "HfNMqF1.png",
+    img: "bBgAmdk.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC" ],      
@@ -824,7 +824,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Logos (Silhouette)",
-    img: "Spn4AS1.png",
+    img: "QOL7Eh5.png",
     opts: {
       series: [ "SC" ],
       agency: [ "FC" ],      
@@ -845,7 +845,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Logos (Stalker)",
-    img: "VDwnrgJ.png",
+    img: "YZARVOF.png",
     opts: {
       series: [ "SC" ],
       agency: [ "FC" ],      
