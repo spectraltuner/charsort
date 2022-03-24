@@ -876,7 +876,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Zoe Aima",
-    img: "KsuXSol.png",
+    img: "EPVlC79.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],     
@@ -1340,7 +1340,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Wild Card",
-    img: "0KmwDGp.png",
+    img: "HbceA4v.png",
     opts: {
       series: [ "SK" ],
       notwiki: true,
