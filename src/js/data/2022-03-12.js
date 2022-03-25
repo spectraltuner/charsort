@@ -162,7 +162,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alice Kang (SOLSTICE)",
-    img: "l3pnrzt.png",
+    img: "xgB4FgS.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC", "KA" ],      
@@ -589,7 +589,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Arista",
-    img: "h0Sout1.png",
+    img: "Tn9y2KK.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
@@ -1020,7 +1020,7 @@ dataSet[dataSetVersion].characterData = [
   },            
   {
     name: "Ain Koth",
-    img: "cPZO0h9.png",
+    img: "7m1RjII.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
@@ -1050,7 +1050,7 @@ dataSet[dataSetVersion].characterData = [
   },   
   {
     name: "Adoni Kenoma",
-    img: "Q2ZgMOs.png",
+    img: "5APYdXZ.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
