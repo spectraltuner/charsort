@@ -468,7 +468,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Asmodeus",
-    img: "dyMb2dc.png",
+    img: "0KX1pCr.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],
@@ -1030,7 +1030,7 @@ dataSet[dataSetVersion].characterData = [
   }, 
   {
     name: "Asher Sark",
-    img: "h7hiern.png",
+    img: "qiWxXiF.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
