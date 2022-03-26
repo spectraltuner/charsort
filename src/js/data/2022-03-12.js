@@ -408,7 +408,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Canace",
-    img: "IKrXiyy.png",
+    img: "gddp1pe.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
@@ -681,7 +681,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Hasdiel",
-    img: "1odmSsZ.png",
+    img: "J26n1BY.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -1060,7 +1060,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Iaon Kenoma",
-    img: "FSDs9S2.png",
+    img: "J3QLwE8.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
@@ -1768,7 +1768,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Charlotte Doucet (Grand Guignol)",
-    img: "vFnRxtX.png",
+    img: "5uFnSO9.png",
     opts: {
       series: [ "FAN" ],
       notwiki: true,
@@ -1813,7 +1813,7 @@ dataSet[dataSetVersion].characterData = [
   }, 
   {
     name: "Chicken Skin Demon",
-    img: "xXhqZRG.png",
+    img: "PtM4KrQ.png",
     opts: {
       series: [ "NC" ],
       notwiki: true,
