@@ -589,7 +589,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Arista",
-    img: "Tn9y2KK.png",
+    img: "WZNyljm.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
@@ -886,7 +886,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Bythos",
-    img: "dv6IHZz.png",
+    img: "OOAIsX8.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],     
