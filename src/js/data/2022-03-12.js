@@ -198,7 +198,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Jade Huo",
-    img: "zWOOl23.png",
+    img: "pxTxuMQ.png",
     opts: {
       series: [ "SC" ],
       agency: [ "KA" ],      
@@ -1268,7 +1268,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Jack Leblanc",
-    img: "x9Ee1Zl.png",
+    img: "Rm0rlXx.png",
     opts: {
       series: [ "SK" ],
       notwiki: true,
