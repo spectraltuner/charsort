@@ -350,7 +350,7 @@ dataSet[dataSetVersion].characterData = [
   },   
   {
     name: "Langosta",
-    img: "NyD3ixu.png",
+    img: "SpA6F7j.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC" ],      
@@ -478,7 +478,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "Leviathan",
-    img: "PzlqU2e.png",
+    img: "1RMA7rv.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],
@@ -488,7 +488,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Leviathan I",
-    img: "3e6Sew9.png",
+    img: "JLnHAod.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "NS" ],
@@ -621,7 +621,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "Morsitans",
-    img: "di1xT93.png",
+    img: "8S0rV8v.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
@@ -805,7 +805,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Logos",
-    img: "oQ0xBEr.png",
+    img: "6wMccHS.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -1553,7 +1553,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Momus",
-    img: "dqSyr9x.png",
+    img: "qkY1oSY.png",
     opts: {
       series: [ "SM" ],
       notwiki: true,
