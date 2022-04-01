@@ -457,7 +457,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Musca",
-    img: "pNioiOj.png",
+    img: "xmfrEam.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
@@ -701,7 +701,7 @@ dataSet[dataSetVersion].characterData = [
   },        
   {
     name: "Raguel",
-    img: "2DZBcfa.png",
+    img: "DUGMykW.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -1090,7 +1090,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "Noise",
-    img: "IvUSz8E.png",
+    img: "vuD6KCM.png",
     opts: {
       series: [ "SC" ],
       agency: [ "BR" ],      
@@ -1526,7 +1526,7 @@ dataSet[dataSetVersion].characterData = [
   },              
   {
     name: "Nemesis Cain",
-    img: "nfmOYf8.png",
+    img: "3ceu8Zw.png",
     opts: {
       series: [ "SM" ],
       notwiki: true,
