@@ -796,7 +796,7 @@ dataSet[dataSetVersion].characterData = [
 
   {
     name: "Sophia Astaphe",
-    img: "2OUL9LV.png",
+    img: "37wSBOK.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC", "NS" ],      
