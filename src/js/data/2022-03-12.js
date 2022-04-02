@@ -796,7 +796,7 @@ dataSet[dataSetVersion].characterData = [
 
   {
     name: "Sophia Astaphe",
-    img: "ZPMTC1m.png",
+    img: "2OUL9LV.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC", "NS" ],      
@@ -1661,7 +1661,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Saki Amachi",
-    img: "OA2dULL.png",
+    img: "UlgL9UM.png",
     opts: {
       series: [ "RP", "SK" ],
       notwiki: true,
@@ -1670,7 +1670,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Satoru Amachi",
-    img: "S7P6Fj7.png",
+    img: "af8Xzx9.png",
     opts: {
       series: [ "RP", "SK" ],
       notwiki: true,
@@ -1679,7 +1679,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "Satoshi Amachi",
-    img: "g0J0RFo.png",
+    img: "BXNJBjP.png",
     opts: {
       series: [ "RP", "SK" ],
       notwiki: true,
@@ -1719,7 +1719,7 @@ dataSet[dataSetVersion].characterData = [
   },          
   {
     name: "Sidney Lynch",
-    img: "oGXJgND.png",
+    img: "V3OQrJs.png",
     opts: {
       series: [ "FAN" ],
       girl: true
