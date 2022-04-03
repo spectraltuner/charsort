@@ -189,7 +189,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Sabrina Trenchard (Ceres)",
-    img: "9HKMBfo.png",
+    img: "Nqo1x4v.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC", "HC", "FC" ],      
@@ -293,7 +293,7 @@ dataSet[dataSetVersion].characterData = [
   },        
   {
     name: "Condor",
-    img: "hPWTHVf.png",
+    img: "73dMpyg.png",
     opts: {
       series: [ "SC" ],
       agency: [ "BR" ],      
@@ -1070,7 +1070,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "Berith",
-    img: "mQrA8m8.png",
+    img: "KP2FUeQ.png",
     opts: {
       series: [ "SC" ],
       agency: [ "BR" ],      
@@ -1080,7 +1080,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Chamaris",
-    img: "QklYYyw.png",
+    img: "7lzrVtR.png",
     opts: {
       series: [ "SC" ],
       agency: [ "BR" ],      
@@ -1786,7 +1786,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Fisher Perry",
-    img: "gCTlOdJ.png",
+    img: "JlQYgmL.png",
     opts: {
       series: [ "NC", "OS" ],
       notwiki: true,
@@ -1795,7 +1795,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Close Combat Baby",
-    img: "0MS21S1.png",
+    img: "v1Um3Gm.png",
     opts: {
       series: [ "NC", "OS" ],
       notwiki: true,
