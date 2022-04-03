@@ -208,7 +208,7 @@ dataSet[dataSetVersion].characterData = [
   },     
   {
     name: "Susanne Kay",
-    img: "5qlFbbK.png",
+    img: "lNVwJzY.png",
     opts: {
       series: [ "SC" ],
       agency: [ "KA" ],      
@@ -569,7 +569,7 @@ dataSet[dataSetVersion].characterData = [
   },     
   {
     name: "Wormwood",
-    img: "8i1SKon.png",
+    img: "qQYwMd4.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -711,7 +711,7 @@ dataSet[dataSetVersion].characterData = [
   },          
   {
     name: "Temeluchus",
-    img: "qEf9Uze.png",
+    img: "LII2iIu.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
@@ -1111,7 +1111,7 @@ dataSet[dataSetVersion].characterData = [
   },          
   {
     name: "Anastasia Eryomina",
-    img: "sUYoW27.png",
+    img: "jcWqjvt.png",
     opts: {
       series: [ "BB", "RP" ],
       girl: true
@@ -1804,7 +1804,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Anglermouth",
-    img: "8eXEb12.png",
+    img: "LX6FBup.png",
     opts: {
       series: [ "NC" ],
       notwiki: true,
