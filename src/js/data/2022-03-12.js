@@ -896,7 +896,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "Sige Lenore",
-    img: "fx70JoQ.png",
+    img: "bN8haUb.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC", "NS" ],      
@@ -906,7 +906,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Iao",
-    img: "onboQSH.png",
+    img: "uBhkgeP.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
@@ -926,7 +926,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Doxa Astaphe",
-    img: "D6bXEvw.png",
+    img: "SY1kl3m.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
@@ -948,7 +948,7 @@ dataSet[dataSetVersion].characterData = [
   },       
   {
     name: "Tarache Hyle",
-    img: "486kMvM.png",
+    img: "2JEJRdc.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
@@ -959,7 +959,7 @@ dataSet[dataSetVersion].characterData = [
   },     
   {
     name: "Mona Hyle",
-    img: "ro0tPEB.png",
+    img: "O1EI1Gy.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
@@ -990,7 +990,7 @@ dataSet[dataSetVersion].characterData = [
   },  
  {
     name: "Saklas Lenore",
-    img: "o7F3USM.png",
+    img: "oS3Whs3.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
@@ -1000,7 +1000,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "Sabal Sciène",
-    img: "MGvIMP1.png",
+    img: "ypdms0Q.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
@@ -1408,7 +1408,7 @@ dataSet[dataSetVersion].characterData = [
   },          
   {
     name: "Guy Royale",
-    img: "tpscL6g.png",
+    img: "fcQpNQt.png",
     opts: {
       series: [ "SK" ],
       notwiki: true,
@@ -1437,7 +1437,7 @@ dataSet[dataSetVersion].characterData = [
   },              
   {
     name: "Justine Royale",
-    img: "eunKzz3.png",
+    img: "6mn93qL.png",
     opts: {
       series: [ "SK" ],
       notwiki: true,
@@ -1777,7 +1777,7 @@ dataSet[dataSetVersion].characterData = [
   },     
   {
     name: "Suicide Taker",
-    img: "S39N0Xj.png",
+    img: "jQr4Xvp.png",
     opts: {
       series: [ "NC", "OS" ],
       notwiki: true,
@@ -1822,7 +1822,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Peek",
-    img: "wNMKG0z.png",
+    img: "qerFH1n.png",
     opts: {
       series: [ "NC" ],
       notwiki: true,
@@ -1840,7 +1840,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Scavenger",
-    img: "qBX0deO.png",
+    img: "ix9At7C.png",
     opts: {
       series: [ "NC", "OS" ],
       notwiki: true,
