@@ -559,7 +559,7 @@ dataSet[dataSetVersion].characterData = [
   },   
   {
     name: "Shamsiel",
-    img: "1l5EHZ9.png",
+    img: "xlyGkIi.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
