@@ -641,6 +641,17 @@ dataSet[dataSetVersion].characterData = [
     }
   },        
   {
+    name: "Sabethes",
+    img: "KtbdiZW.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "HC" ],      
+      notwiki: true,
+      extra: true,
+      girl: true
+    }
+  },          
+  {
     name: "Murmur",
     img: "cl1tfRi.png",
     opts: {
@@ -896,7 +907,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "Sige Lenore",
-    img: "bN8haUb.png",
+    img: "7sOVhGV.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC", "NS" ],      
@@ -1038,9 +1049,19 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   },       
-   {
+  {
     name: "Horkos",
     img: "Lcw7qWA.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "NS" ],      
+      notwiki: true,
+      boy: true
+    }
+  },   
+  {
+    name: "Prigh Castel",
+    img: "JoF9Tyk.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
@@ -1295,7 +1316,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "David Bernier",
-    img: "KpvOv0Q.png",
+    img: "4nx8j00.png",
     opts: {
       series: [ "SK" ],
       notwiki: true,
