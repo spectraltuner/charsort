@@ -1307,7 +1307,7 @@ dataSet[dataSetVersion].characterData = [
   },     
   {
     name: "Daniel Sharpe",
-    img: "lQdQM9Y.png",
+    img: "0uotkKu.png",
     opts: {
       series: [ "SK" ],
       notwiki: true,
