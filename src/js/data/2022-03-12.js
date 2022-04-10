@@ -134,8 +134,8 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Milky Way",
-    img: "Tv3dQFt.png",
+    name: "Milky Way (Wren)",
+    img: "OqcvJcs.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC" ],      
@@ -1307,7 +1307,7 @@ dataSet[dataSetVersion].characterData = [
   },     
   {
     name: "Daniel Sharpe",
-    img: "gvBsNQI.png",
+    img: "lQdQM9Y.png",
     opts: {
       series: [ "SK" ],
       notwiki: true,
