@@ -161,6 +161,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Remnant",
+    img: "gAKFWAo.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "SC" ],      
+      nb: true
+    }
+  },  
+  {
     name: "Alice Kang (SOLSTICE)",
     img: "xgB4FgS.png",
     opts: {
@@ -292,6 +301,17 @@ dataSet[dataSetVersion].characterData = [
     }
   },        
   {
+    name: "Secretarybird",
+    img: "Unzzcvl.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "KA" ],      
+      notwiki: true,
+      extra: true,
+      nb: true
+    }
+  },
+  {
     name: "Condor",
     img: "73dMpyg.png",
     opts: {
@@ -301,7 +321,7 @@ dataSet[dataSetVersion].characterData = [
       extra: true,
       nb: true
     }
-  },  
+  },
   {
     name: "Mahine Avci",
     img: "vPPnU2s.png",
