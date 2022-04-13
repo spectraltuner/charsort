@@ -162,7 +162,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Remnant",
-    img: "gAKFWAo.png",
+    img: "WWrymjh.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC" ],      
