@@ -397,7 +397,7 @@ dataSet[dataSetVersion].characterData = [
   },   
   {
     name: "Mihr (Heat Death)",
-    img: "iECyZPc.png",
+    img: "ROXtmtk.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC" ],      
