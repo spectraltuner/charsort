@@ -1925,6 +1925,33 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Blue",
+    img: "ZNApdqy.png",
+    opts: {
+      series: [ "NC", "OS" ],
+      notwiki: true,
+      girl: true
+    }
+  },    
+  {
+    name: "Purple",
+    img: "nYcfgce.png",
+    opts: {
+      series: [ "NC", "OS" ],
+      notwiki: true,
+      girl: true
+    }
+  },      
+  {
+    name: "Red",
+    img: "lhWmXPO.png",
+    opts: {
+      series: [ "NC", "OS" ],
+      notwiki: true,
+      girl: true
+    }
+  },        
+  {
     name: "Knifedick Deathfuck",
     img: "N6WiU35.png",
     opts: {
