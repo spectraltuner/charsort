@@ -44,7 +44,7 @@ dataSet[dataSetVersion].options = [
   name: 'Remove Tertiary Characters',
   key: 'tri',
   tooltip: 'Check this to get the tertiary characters out of there.',
-  checked: false
+  checked: true
   },  
  {
   name: 'Remove Secondary Characters',
