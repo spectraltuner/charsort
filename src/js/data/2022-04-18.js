@@ -93,7 +93,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kyarne",
-    img: "JnHZLkr.png",
+    img: "w0u9wLl.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC" ],     
@@ -209,7 +209,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Venus Kang",
-    img: "7xLC3Ln.png",
+    img: "oLJHckY.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC", "KA" ],     
@@ -267,7 +267,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Toya Pastore (Trance)",
-    img: "cblPUgY.png",
+    img: "3trVtBK.png",
     opts: {
       series: [ "SC" ],
       agency: [ "KA" ],      
@@ -1208,7 +1208,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Sage",
-    img: "sSupD5h.png",
+    img: "Yc2yomg.png",
     opts: {
       series: [ "BB", "FAN" ],
       sec: true,
@@ -1598,7 +1598,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Yan",
-    img: "aR8jGVc.png",
+    img: "XNts25Y.png",
     opts: {
       series: [ "SM" ],
       sec: true,
