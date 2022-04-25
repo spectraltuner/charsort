@@ -16,7 +16,7 @@ dataSet[dataSetVersion].options = [
       { name: "Other Settings", tooltip: "Characters from other, deprecated or minor settings.", key: "OS" },
       { name: "Roleplays", tooltip: "Characters made for roleplays.", key: "RP" },     
       { name: "Fan Characters", tooltip: "Characters made for other established settings, not my own.", key: "FAN" },        
-      { name: "Nightmare Creatures", tooltip: "Things I Saw In My Dreams", key: "NC" },               
+      { name: "Nightmare Creatures", tooltip: "Notable things I saw in my dreams", key: "NC" },               
       { name: "Miscellaneous In-Jokes", tooltip: "Useless Vampire Shotguns Bloodbag / The Deathfuck Prophecies", key: "RN" }     
     ]
   },
@@ -30,7 +30,7 @@ dataSet[dataSetVersion].options = [
       { name: "Heavencross", tooltip: "Seraphic Saga; Introduction to Determinism", key: "HC" },
       { name: "Fatecross", tooltip: "Seraphic Saga; But What If the Ship of Theseus Was A Person?", key: "FC" },
       { name: "Killer Asp", tooltip: "Earthling Saga; Ghost Experiences Physical Contact For First Time in 10 Years (HEARTWARMING)", key: "KA" },    
-      { name: "Natural Sin", tooltip: "Seraphic Saga; So I Joined the Army (And Everything Got Worse From There)", key: "NS" },
+      { name: "Natural Sin", tooltip: "Seraphic Saga; 10 Signs You Might Be An Enneagram Type 1", key: "NS" },
       { name: "Bonus Round", tooltip: "Extra characters that don't really fit anywhere else here I guess.", key: "BR" }
     ]
   },
