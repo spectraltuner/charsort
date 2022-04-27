@@ -758,7 +758,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Menadel",
-    img: "ZRzJYts.png",
+    img: "vsxd0Un.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
@@ -1094,7 +1094,7 @@ dataSet[dataSetVersion].characterData = [
   },       
   {
     name: "Horkos",
-    img: "Lcw7qWA.png",
+    img: "BkqY3kk.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
@@ -1377,8 +1377,8 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Rose Compere",
-    img: "YeoRvhY.png",
+    name: "Rose Compère",
+    img: "d8Xp8E2.png",
     opts: {
       series: [ "SK" ],
       sec: true,
@@ -1641,7 +1641,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Felicia Mink",
-    img: "dmogwnU.png",
+    img: "1zf8fy8.png",
     opts: {
       series: [ "RP", "FAN" ],
       girl: true
