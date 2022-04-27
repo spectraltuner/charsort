@@ -593,7 +593,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
-      tri: true,
+      sec: true,
       girl: true
     }
   },
@@ -603,7 +603,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
-      tri: true,
+      sec: true,
       girl: true
     }
   },   
