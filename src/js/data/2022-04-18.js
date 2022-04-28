@@ -257,7 +257,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Verusha Matveyeva",
-    img: "S6VSubh.png",
+    img: "8kdz8Jh.png",
     opts: {
       series: [ "SC" ],
       agency: [ "KA" ],      
@@ -377,7 +377,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kalaziel (Terror)",
-    img: "HHrcjrh.png",
+    img: "314NuH5.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC" ],
@@ -1360,7 +1360,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Jonathan Roshe",
-    img: "na8VpUr.png",
+    img: "xOriTpU.png",
     opts: {
       series: [ "SK" ],
       sec: true,
@@ -1598,7 +1598,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Yan",
-    img: "XNts25Y.png",
+    img: "IOYRdOm.png",
     opts: {
       series: [ "SM" ],
       sec: true,
