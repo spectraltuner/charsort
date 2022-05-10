@@ -929,7 +929,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Logos Prime",
-    img: "c0VieQt.png",
+    img: "bPv9ehA.png",
     opts: {
       series: [ "SC" ],
       agency: [ "FC", "NS" ],      
