@@ -558,6 +558,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },    
   {
+    name: "Hydra",
+    img: "bbZgsj4.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "HC" ],
+      tri: true,
+      girl: true
+    }
+  },  
+  {
     name: "L16661",
     img: "IYgfake.png",
     opts: {
@@ -1132,6 +1142,16 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   },      
+  {
+    name: "Dagon Ciamus",
+    img: "4DBo0Wh.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "NS" ],      
+      sec: true,
+      boy: true
+    }
+  },       
   {
     name: "Berith",
     img: "KP2FUeQ.png",
