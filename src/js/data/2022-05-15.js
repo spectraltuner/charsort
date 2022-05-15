@@ -1732,7 +1732,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Satoru Amachi",
-    img: "af8Xzx9.png",
+    img: "wvmwePe.png",
     opts: {
       series: [ "RP", "SK" ],
       tri: true,
