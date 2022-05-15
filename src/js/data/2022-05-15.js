@@ -966,7 +966,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "Sige Lenore",
-    img: "7sOVhGV.png",
+    img: "3KYQ6g2.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC", "NS" ],      
