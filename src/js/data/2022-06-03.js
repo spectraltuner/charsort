@@ -1703,6 +1703,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },   
   {
+    name: "Suzu Igarashi",
+    img: "yUTRQS3.png",
+    opts: {
+      series: [ "RP", "FAN" ],
+      girl: true
+    }
+  },     
+  {
     name: "Hitomi Amachi",
     img: "Vh4wuZD.png",
     opts: {
