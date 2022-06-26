@@ -618,6 +618,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },   
   {
+    name: "Cerviel",
+    img: "uT0AZAV.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "HC", "FC" ],      
+      sec: true,
+      girl: true
+    }
+  },     
+  {
     name: "Lancer",
     img: "ORjVzC2.png",
     opts: {
@@ -777,6 +787,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },        
   {
+    name: "Mumiah",
+    img: "djCiaRX.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "HC" ],      
+      sec: true,
+      girl: true
+    }
+  },          
+  {
     name: "Raguel",
     img: "DUGMykW.png",
     opts: {
@@ -795,7 +815,17 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       girl: true
     }
-  },      
+  },
+  {
+    name: "Vasariah",
+    img: "pCowlDz.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "HC" ],      
+      sec: true,
+      girl: true
+    }
+  },        
   {
     name: "Mastema",
     img: "k7xY9Ij.png",
@@ -1092,6 +1122,16 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   }, 
+  {
+    name: "Blinder",
+    img: "x5Z1jSg.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "NS" ],      
+      tri: true,
+      nb: true
+    }
+  },      
   {
     name: "Asher Sark",
     img: "qiWxXiF.png",
