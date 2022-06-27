@@ -501,7 +501,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Metatron",
-    img: "Z87U1LK.png",
+    img: "dEl7gKO.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -1250,7 +1250,7 @@ dataSet[dataSetVersion].characterData = [
   },     
   {
     name: "Ekaterina Bakhtin",
-    img: "HDeCn8B.png",
+    img: "3IBKaNp.png",
     opts: {
       series: [ "BB" ],
       sec: true,
