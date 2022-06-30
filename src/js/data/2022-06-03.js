@@ -1274,7 +1274,16 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       boy: true
     }
-  },          
+  },       
+  {
+    name: "Cal Campbell",
+    img: "EWjWBcp.png",
+    opts: {
+      series: [ "BB" ],
+      sec: true,
+      boy: true
+    }
+  },  
   {
     name: "Mozu",
     img: "TkWuBcn.png",
