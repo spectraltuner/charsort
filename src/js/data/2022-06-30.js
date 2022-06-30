@@ -1242,7 +1242,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Logan Ruskin",
-    img: "UIM7mtP.png",
+    img: "3PRjiRy.png",
     opts: {
       series: [ "BB" ],
       girl: true
