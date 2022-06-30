@@ -969,7 +969,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Logos Prime",
-    img: "Z26SoeW.png",
+    img: "f0P3jgC.png",
     opts: {
       series: [ "SC" ],
       agency: [ "FC", "NS" ],      
@@ -1701,7 +1701,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shinobu Endou",
-    img: "IQsfPcI.png",
+    img: "ikV9qUe.png",
     opts: {
       series: [ "SK", "RP", "FAN" ],
       girl: true
