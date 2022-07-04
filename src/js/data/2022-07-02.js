@@ -882,7 +882,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Raphael",
-    img: "vu4WqfZ.png",
+    img: "X1eJTs0.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -1396,7 +1396,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Rachel Reiss",
-    img: "MnNtMv5.png",
+    img: "uegmVx8.png",
     opts: {
       series: [ "SK" ],
       girl: true
