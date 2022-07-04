@@ -1706,7 +1706,25 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SK", "RP", "FAN" ],
       girl: true
     }
-  },    
+  },
+  {
+    name: "Shouko Mitsubayashi",
+    img: "6C7b4cU.png",
+    opts: {
+      series: [ "SK" ],
+      sec: true,
+      girl: true
+    }
+  }, 
+  {
+    name: "Suzu Igarashi",
+    img: "yUTRQS3.png",
+    opts: {
+      series: [ "SK" ],
+      sec: true,
+      girl: true
+    }
+  },
   {
     name: "Yumi Akechi",
     img: "xzhMaiZ.png",
@@ -1734,15 +1752,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },    
   {
-    name: "Shouko Mitsubayashi",
-    img: "6C7b4cU.png",
-    opts: {
-      series: [ "RP", "SK", "FAN" ],
-      sec: true,
-      girl: true
-    }
-  }, 
-  {
     name: "Wendy Harron",
     img: "t13xy2O.png",
     opts: {
@@ -1751,14 +1760,6 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },   
-  {
-    name: "Suzu Igarashi",
-    img: "yUTRQS3.png",
-    opts: {
-      series: [ "RP", "FAN" ],
-      girl: true
-    }
-  },     
   {
     name: "Hitomi Amachi",
     img: "Vh4wuZD.png",
