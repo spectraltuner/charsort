@@ -1041,7 +1041,17 @@ dataSet[dataSetVersion].characterData = [
       tri: true,
       girl: true
     }
-  },       
+  },
+  {
+    name: "Daria Astaphe",
+    img: "aENYyzW.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "NS" ],      
+      sec: true,
+      girl: true
+    }
+  },         
   {
     name: "Tarache Hyle",
     img: "2JEJRdc.png",
