@@ -1234,7 +1234,7 @@ dataSet[dataSetVersion].characterData = [
   },          
   {
     name: "Anastasia Eryomina",
-    img: "jcWqjvt.png",
+    img: "OWVi672.png",
     opts: {
       series: [ "BB", "RP" ],
       girl: true
