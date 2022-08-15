@@ -1703,7 +1703,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mirai Amachi",
-    img: "xReWm9E.png",
+    img: "FFbD67W.png",
     opts: {
       series: [ "SK", "RP", "FAN" ],
       girl: true
@@ -1772,7 +1772,7 @@ dataSet[dataSetVersion].characterData = [
   },   
   {
     name: "Hitomi Amachi",
-    img: "Vh4wuZD.png",
+    img: "OPGlzSZ.png",
     opts: {
       series: [ "RP", "SK" ],
       extra: true,
@@ -1800,7 +1800,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Saki Amachi",
-    img: "UlgL9UM.png",
+    img: "ClWetum.png",
     opts: {
       series: [ "RP", "SK" ],
       tri: true,
