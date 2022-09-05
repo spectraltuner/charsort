@@ -808,7 +808,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ramiel",
-    img: "DUGMykW.png",
+    img: "CtBaZXt.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
@@ -1818,6 +1818,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },    
   {
+    name: "Ren Ōtori",
+    img: "czxUSVL.png",
+    opts: {
+      series: [ "RP" ],
+      extra: true,
+      boy: true
+    }
+  },        
+  {
     name: "Satoru Amachi",
     img: "wvmwePe.png",
     opts: {
@@ -1844,6 +1853,15 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   },        
+  {
+    name: "Shion Hagetaka",
+    img: "DqHXQeF.png",
+    opts: {
+      series: [ "RP" ],
+      extra: true,
+      girl: true
+    }
+  },          
   {
     name: "Yuno Akechi",
     img: "VbzZTh2.png",
