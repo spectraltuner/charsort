@@ -1613,7 +1613,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC", "RP", "FAN" ],
       agency: [ "BR" ],
-      sec: true,
       girl: true
     }
   },  
