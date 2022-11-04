@@ -1275,6 +1275,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Erlich Kacht",
+    img: "PWXzgGW.png",
+    opts: {
+      series: [ "BB" ],
+      sec: true,
+      boy: true
+    }
+  },  
+  {
     name: "Cornu",
     img: "xb1yGqj.png",
     opts: {
