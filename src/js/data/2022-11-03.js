@@ -881,7 +881,7 @@ dataSet[dataSetVersion].characterData = [
 
   {
     name: "Sophia Astaphe",
-    img: "hcgEBGC.png",
+    img: "k5HCHNY.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC", "NS" ],      
@@ -890,7 +890,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Logos",
-    img: "luXbcYS.png",
+    img: "03a1Iua.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
