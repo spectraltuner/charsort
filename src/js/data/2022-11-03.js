@@ -1232,7 +1232,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Logan Ruskin",
-    img: "3PRjiRy.png",
+    img: "qxmO9It.png",
     opts: {
       series: [ "BB" ],
       girl: true
@@ -1802,7 +1802,16 @@ dataSet[dataSetVersion].characterData = [
       tri: true,
       girl: true
     }
-  },  
+  },
+  {
+    name: "Ardeliu Gheata",
+    img: "p56RDRA.png",
+    opts: {
+      series: [ "FAN" ],
+      tri: true,   
+      girl: true
+    }
+  },   
   {
     name: "Akira Kogure",
     img: "malfpRq.png",
@@ -1820,7 +1829,7 @@ dataSet[dataSetVersion].characterData = [
       tri: true,
       girl: true
     }
-  },  
+  },
   {
     name: "Charlotte Doucet (Grand Guignol)",
     img: "5uFnSO9.png",
@@ -1829,7 +1838,7 @@ dataSet[dataSetVersion].characterData = [
       tri: true,
       girl: true
     }
-  },     
+  },
   {
     name: "Suicide Taker",
     img: "jQr4Xvp.png",
