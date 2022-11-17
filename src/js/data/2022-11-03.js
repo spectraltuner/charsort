@@ -102,7 +102,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ángeles Reyes",
-    img: "oclA7NC.png",
+    img: "PEDrv7u.png",
     opts: {
       series: [ "SC" ],
       agency: [ "KA" ],      
@@ -967,7 +967,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Bythos",
-    img: "OOAIsX8.png",
+    img: "YKli6jS.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],     
@@ -995,7 +995,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "Horos Astaphe",
-    img: "8LeE5Qq.png",
+    img: "KWiFoHl.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
@@ -1464,7 +1464,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Noelle Germaine",
-    img: "9KBKFED.png",
+    img: "FxLC1AA.png",
     opts: {
       series: [ "SK" ],
       tri: true,
@@ -1482,7 +1482,7 @@ dataSet[dataSetVersion].characterData = [
   },       
   {
     name: "Giselle Glamour",
-    img: "VYGnrDN.png",
+    img: "rO0mSw9.png",
     opts: {
       series: [ "SK" ],
       girl: true
@@ -1568,7 +1568,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Momo",
-    img: "x9HcTbm.png",
+    img: "R2vmkQi.png",
     opts: {
       series: [ "SM" ],
       girl: true
