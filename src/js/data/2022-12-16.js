@@ -1656,7 +1656,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Yumi Akechi",
-    img: "xzhMaiZ.png",
+    img: "sLbJWly.png",
     opts: {
       series: [ "SC", "RP", "FAN" ],
       agency: [ "BR" ],
