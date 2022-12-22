@@ -1244,7 +1244,7 @@ dataSet[dataSetVersion].characterData = [
   },          
   {
     name: "Anastasia Eryomina",
-    img: "OWVi672.png",
+    img: "w5zRsyD.png",
     opts: {
       series: [ "BB", "RP" ],
       girl: true
@@ -1441,7 +1441,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Jack Leblanc",
-    img: "bECh3bG.png",
+    img: "33YfnSq.png",
     opts: {
       series: [ "SK" ],
       girl: true
@@ -1656,7 +1656,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Yumi Akechi",
-    img: "sLbJWly.png",
+    img: "Enfxn0z.png",
     opts: {
       series: [ "SC", "RP", "FAN" ],
       agency: [ "BR" ],
