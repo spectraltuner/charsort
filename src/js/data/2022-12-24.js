@@ -384,9 +384,20 @@ dataSet[dataSetVersion].characterData = [
       agency: [ "BR" ],
       collab: true,
       sec: true,
-      nb: true
+      girl: true
     }
   },
+  {
+    name: "Audrey Hilt",
+    img: "j0gNjC4.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "BR" ],
+      collab: true,
+      sec: true,
+      girl: true
+    }
+  },  
   {
     name: "Emileigh Ruck",
     img: "VfRWJoD.png",
