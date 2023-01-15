@@ -1876,7 +1876,7 @@ dataSet[dataSetVersion].characterData = [
   },        
   {
     name: "Seiji Endou",
-    img: "4qakAqm.png",
+    img: "3QXErl7.png",
     opts: {
       series: [ "RP", "SK" ],
       tri: true,
