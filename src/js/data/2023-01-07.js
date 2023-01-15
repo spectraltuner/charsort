@@ -196,7 +196,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Alice Kang (SOLSTICE)",
-    img: "hdsQVkP.png",
+    img: "AIqEHU5.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC", "KA" ],      
@@ -1487,7 +1487,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Annis Doyle",
-    img: "Q4Ty1f2.png",
+    img: "yFaD8P5.png",
     opts: {
       series: [ "BW" ],
       girl: true
@@ -1822,7 +1822,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "Katsue Endou",
-    img: "BjjSVX2.png",
+    img: "Mibu8l9.png",
     opts: {
       series: [ "RP", "SK" ],
       tri: true,
@@ -1876,7 +1876,7 @@ dataSet[dataSetVersion].characterData = [
   },        
   {
     name: "Seiji Endou",
-    img: "MqK0iHX.png",
+    img: "4qakAqm.png",
     opts: {
       series: [ "RP", "SK" ],
       tri: true,
