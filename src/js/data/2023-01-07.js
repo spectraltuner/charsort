@@ -1139,7 +1139,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "Duna Astaphe",
-    img: "zoGDM3I.png",
+    img: "k2vXxpl.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
