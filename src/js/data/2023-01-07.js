@@ -1843,7 +1843,7 @@ dataSet[dataSetVersion].characterData = [
     img: "czxUSVL.png",
     opts: {
       series: [ "RP" ],
-      extra: true,
+      tri: true,
       boy: true
     }
   },        
