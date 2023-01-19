@@ -764,7 +764,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Arista",
-    img: "WZNyljm.png",
+    img: "kGX3iKu.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
@@ -1229,7 +1229,7 @@ dataSet[dataSetVersion].characterData = [
   },            
   {
     name: "Ain Koth",
-    img: "7m1RjII.png",
+    img: "3axlt7V.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
@@ -1817,7 +1817,8 @@ dataSet[dataSetVersion].characterData = [
     img: "mKP0SAC.png",
     opts: {
       series: [ "SK" ],
-      tri: true,
+      collab: true,
+      sec: true,
       girl: true
     }
   },        
