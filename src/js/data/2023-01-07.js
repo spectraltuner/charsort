@@ -303,7 +303,7 @@ dataSet[dataSetVersion].characterData = [
   },   
   {
     name: "Mahine Avci",
-    img: "vPPnU2s.png",
+    img: "vikJcqX.png",
     opts: {
       series: [ "SC" ],
       agency: [ "BR" ],      
@@ -452,7 +452,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Satariel (Warden)",
-    img: "bBgAmdk.png",
+    img: "FAv7aRv.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC" ],
@@ -492,7 +492,7 @@ dataSet[dataSetVersion].characterData = [
   },     
    {
     name: "Deleter",
-    img: "zNEszKD.png",
+    img: "6fHFzty.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC" ],
@@ -1461,7 +1461,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Ivy Branwen",
+    name: "Ivy Branwen (Mordred)",
     img: "SUTOhr9.png",
     opts: {
       series: [ "BW" ],
@@ -1530,7 +1530,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Roxanne Royale",
-    img: "0Leoioy.png",
+    img: "50OuhcQ.png",
     opts: {
       series: [ "SK" ],
       girl: true
