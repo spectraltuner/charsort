@@ -1246,7 +1246,7 @@ dataSet[dataSetVersion].characterData = [
       tri: true,
       nb: true
     }
-  },      
+  },  
   {
     name: "Asher Sark",
     img: "qiWxXiF.png",
@@ -1256,7 +1256,17 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       boy: true
     }
-  },       
+  },
+  {
+    name: "Nene Arugh",
+    img: "aeITVp2.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "NS" ],      
+      sec: true,
+      girl: true
+    }
+  }, 
   {
     name: "Horkos",
     img: "BkqY3kk.png",
