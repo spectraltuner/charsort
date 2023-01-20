@@ -624,7 +624,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Asmodeus",
-    img: "0KX1pCr.png",
+    img: "tpjhbrp.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],
@@ -853,7 +853,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Azrael",
-    img: "rHqiLL3.png",
+    img: "pq1Jg17.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
@@ -1393,7 +1393,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Burnt King",
-    img: "0sxoBOu.png",
+    img: "cyK4cCh.png",
     opts: {
       series: [ "BB" ],
       sec: true,
