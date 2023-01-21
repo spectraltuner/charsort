@@ -551,7 +551,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "Harahel",
-    img: "FQ8cJr7.png",
+    img: "4Lo2AYB.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -560,7 +560,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Raziel",
-    img: "l7vSvi7.png",
+    img: "TrEDpGo.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -1788,7 +1788,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Carolina Verus",
-    img: "IxPz8pw.png",
+    img: "HQJGOx2.png",
     opts: {
       series: [ "RP", "FAN" ],
       girl: true
