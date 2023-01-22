@@ -462,7 +462,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Instant",
-    img: "Fy6pENW.png",
+    img: "JtdsB7d.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC" ],
@@ -969,7 +969,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Jophiel",
-    img: "mwKpFBW.png",
+    img: "pTlZ4AW.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -1384,7 +1384,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "Ilya Bakhtin",
-    img: "ldiE0eH.png",
+    img: "H63914F.png",
     opts: {
       series: [ "BB" ],
       sec: true,
