@@ -694,7 +694,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Hexenn",
-    img: "eWiPbm8.png",
+    img: "rtkx3Op.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
@@ -863,7 +863,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Hasdiel",
-    img: "J26n1BY.png",
+    img: "80AIxLe.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -1299,7 +1299,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Iaon Kenoma",
-    img: "J3QLwE8.png",
+    img: "5frRf4a.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
