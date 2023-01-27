@@ -410,7 +410,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Jade Huo",
-    img: "pxTxuMQ.png",
+    img: "JKXgFo1.png",
     opts: {
       series: [ "SC" ],
       agency: [ "BR" ],
@@ -634,7 +634,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "Leviathan",
-    img: "1RMA7rv.png",
+    img: "IwfowrB.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],
@@ -724,7 +724,7 @@ dataSet[dataSetVersion].characterData = [
   },     
   {
     name: "Lancer",
-    img: "ORjVzC2.png",
+    img: "l1UUu5o.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC", "NS" ],      
@@ -1289,7 +1289,7 @@ dataSet[dataSetVersion].characterData = [
   },   
   {
     name: "Adoni Kenoma",
-    img: "5APYdXZ.png",
+    img: "7XTxVwo.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
