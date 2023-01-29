@@ -644,7 +644,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Leviathan I",
-    img: "JLnHAod.png",
+    img: "w1clZgq.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "NS" ],
