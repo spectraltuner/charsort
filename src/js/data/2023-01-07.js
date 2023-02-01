@@ -1219,7 +1219,7 @@ dataSet[dataSetVersion].characterData = [
   },          
   {
     name: "Sion Ariel",
-    img: "sUUsgNS.png",
+    img: "9B0DbOi.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
