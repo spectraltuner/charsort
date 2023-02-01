@@ -214,7 +214,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Neptune",
-    img: "5najzMZ.png",
+    img: "Po7Og19.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC", "KA" ],
@@ -263,7 +263,7 @@ dataSet[dataSetVersion].characterData = [
   },   
   {
     name: "Susanne Kay",
-    img: "HKsIZxO.png",
+    img: "JTDISSW.png",
     opts: {
       series: [ "SC" ],
       agency: [ "KA" ],      
@@ -1209,7 +1209,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "Sabal Sciène",
-    img: "ypdms0Q.png",
+    img: "RqCTQwJ.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
@@ -1438,7 +1438,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Sage",
-    img: "Yc2yomg.png",
+    img: "RegZsgC.png",
     opts: {
       series: [ "BB", "FAN" ],
       sec: true,
