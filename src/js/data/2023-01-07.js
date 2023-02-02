@@ -283,7 +283,7 @@ dataSet[dataSetVersion].characterData = [
   },          
   {
     name: "Toya Pastore (Trance)",
-    img: "3trVtBK.png",
+    img: "bJF5w0R.png",
     opts: {
       series: [ "SC" ],
       agency: [ "KA" ],      
@@ -1083,7 +1083,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Zoe Aima",
-    img: "EPVlC79.png",
+    img: "ZZMIk90.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],     
