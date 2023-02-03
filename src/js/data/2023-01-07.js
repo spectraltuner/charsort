@@ -754,7 +754,7 @@ dataSet[dataSetVersion].characterData = [
   },       
   {
     name: "Anopheles",
-    img: "nmtPkad.png",
+    img: "nHdqtsm.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
@@ -774,7 +774,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Diogma",
-    img: "v9oD2L1.png",
+    img: "jvC95d1.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
@@ -1179,7 +1179,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Arche Hyle",
-    img: "Upc4B3R.png",
+    img: "nZ9EmTV.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
