@@ -942,7 +942,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Abaddon",
-    img: "VqcaVpE.png",
+    img: "VsPXfoQ.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -1959,7 +1959,7 @@ dataSet[dataSetVersion].characterData = [
   },   
   {
     name: "Akira Kogure",
-    img: "malfpRq.png",
+    img: "hUUONjj.png",
     opts: {
       series: [ "FAN" ],
       tri: true,
