@@ -804,7 +804,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Phora",
-    img: "dqpj2kZ.png",
+    img: "bGuT9wm.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
@@ -1842,7 +1842,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ren Mitsubayashi",
-    img: "3LiLz0t.png",
+    img: "gBsSPRZ.png",
     opts: {
       series: [ "SK" ],
       tri: true,
@@ -2085,7 +2085,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Rafflesia Nightingale",
-    img: "7IriYRZ.png",
+    img: "qZWBj62.png",
     opts: {
       series: [ "RN" ],
       tri: true,
