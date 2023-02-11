@@ -531,7 +531,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Never",
-    img: "DZAuP4K.png",
+    img: "5KfygJO.png",
     opts: {
       series: [ "SC" ],
       agency: [ "BR" ],      
@@ -614,7 +614,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Musca",
-    img: "xmfrEam.png",
+    img: "mZVYiGh.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
@@ -784,7 +784,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Milichia",
-    img: "gRy877N.png",
+    img: "Cokr9R8.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
@@ -794,7 +794,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "Morsitans",
-    img: "8S0rV8v.png",
+    img: "iZOvgnU.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
@@ -843,7 +843,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Orifiel",
-    img: "FcfgXgW.png",
+    img: "5RX7dD3.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
