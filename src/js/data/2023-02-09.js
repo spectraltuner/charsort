@@ -1573,7 +1573,7 @@ dataSet[dataSetVersion].characterData = [
   },     
   {
     name: "Daniel Sharpe",
-    img: "0uotkKu.png",
+    img: "PIO7VHJ.png",
     opts: {
       series: [ "SK" ],
       boy: true
@@ -1914,7 +1914,7 @@ dataSet[dataSetVersion].characterData = [
   },          
   {
     name: "Sidney Lynch",
-    img: "V3OQrJs.png",
+    img: "p5uUe7A.png",
     opts: {
       series: [ "FAN" ],
       tri: true,   
