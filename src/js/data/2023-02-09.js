@@ -414,7 +414,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "BR" ],
-      tri: true,
+      sec: true,
       girl: true
     }
   },  
@@ -424,7 +424,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC", "RP", "FAN" ],
       agency: [ "BR" ],
-      tri: true,
+      sec: true,
       girl: true
     }
   },    
@@ -1764,7 +1764,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Suzu Igarashi",
     img: "yUTRQS3.png",
     opts: {
-      series: [ "SK", "RP" ],
+      series: [ "SK", "RP", "FAN" ],
       sec: true,
       girl: true
     }
