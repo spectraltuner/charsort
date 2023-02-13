@@ -1642,7 +1642,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Dante Marciano",
-    img: "PkwZ5wX.png",
+    img: "LmXiVe8.png",
     opts: {
       series: [ "SK" ],
       extra: true,
@@ -1651,7 +1651,7 @@ dataSet[dataSetVersion].characterData = [
   },        
   {
     name: "Darcy Royale",
-    img: "0SDanpt.png",
+    img: "TizvdsD.png",
     opts: {
       series: [ "SK" ],
       extra: true,
@@ -1905,7 +1905,7 @@ dataSet[dataSetVersion].characterData = [
   },          
   {
     name: "Zebel Chance",
-    img: "4PnJ1ZJ.png",
+    img: "oYppbmi.png",
     opts: {
       series: [ "OS" ],
       tri: true,
@@ -2076,7 +2076,7 @@ dataSet[dataSetVersion].characterData = [
   },        
   {
     name: "Knifedick Deathfuck",
-    img: "N6WiU35.png",
+    img: "Ysg7Rlx.png",
     opts: {
       series: [ "RN" ],
       tri: true,
