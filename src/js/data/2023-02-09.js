@@ -273,7 +273,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Teresa Delgado",
-    img: "aQyzfZ0.png",
+    img: "YXSDYrp.png",
     opts: {
       series: [ "SC" ],
       agency: [ "KA" ],      
@@ -541,7 +541,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Trapper Phantasm",
-    img: "7NjDiZQ.png",
+    img: "ygsPESI.png",
     opts: {
       series: [ "SC" ],
       agency: [ "BR" ],      
@@ -664,7 +664,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "L16661",
-    img: "IYgfake.png",
+    img: "3yj5p53.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
@@ -674,7 +674,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "L1066601",
-    img: "vSkz1UB.png",
+    img: "ajOrnez.png",
     opts: {
       series: [ "SC" ],
       agency: [ "FC" ],      
@@ -684,7 +684,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "L50601",
-    img: "ECi2VDs.png",
+    img: "tSv8zXb.png",
     opts: {
       series: [ "SC" ],
       agency: [ "FC" ],      
@@ -1349,7 +1349,7 @@ dataSet[dataSetVersion].characterData = [
   },        
   {
     name: "Unnamed Animal #1",
-    img: "m21Gz4L.png",
+    img: "MsBrS7x.png",
     opts: {
       series: [ "SC" ],
       agency: [ "BR" ],      
@@ -1660,7 +1660,7 @@ dataSet[dataSetVersion].characterData = [
   },        
   {
     name: "Estelle Laurier",
-    img: "Y0RvA2o.png",
+    img: "vKVzQ0D.png",
     opts: {
       series: [ "SK" ],
       extra: true,
@@ -2031,7 +2031,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Pseudo-Nemesis",
-    img: "iv6Q1Ke.png",
+    img: "CSFKUl7.png",
     opts: {
       series: [ "NC" ],
       tri: true,
