@@ -459,7 +459,18 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       girl: true
     }
-  },  
+  },
+  {
+    name: "Ronja",
+    img: "pSmcoD5.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "BR" ],      
+      collab: true,      
+      sec: true,
+      girl: true
+    }
+  }, 
   {
     name: "Satariel (Warden)",
     img: "FAv7aRv.png",
