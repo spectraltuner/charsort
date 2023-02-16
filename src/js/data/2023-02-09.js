@@ -1217,7 +1217,17 @@ dataSet[dataSetVersion].characterData = [
       tri: true,
       girl: true
     }
-  },         
+  },
+  {
+    name: "Blinder",
+    img: "x5Z1jSg.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "NS" ],      
+      tri: true,
+      nb: true
+    }
+  },  
   {
     name: "The White Knight",
     img: "8Otfxaw.png",
@@ -1268,16 +1278,6 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   }, 
-  {
-    name: "Blinder",
-    img: "x5Z1jSg.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "NS" ],      
-      tri: true,
-      nb: true
-    }
-  },  
   {
     name: "Asher Sark",
     img: "qiWxXiF.png",
