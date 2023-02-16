@@ -211,7 +211,7 @@ dataSet[dataSetVersion].characterData = [
       agency: [ "SC", "KA" ],     
       girl: true
     }
-  },
+  },  
   {
     name: "Neptune",
     img: "Po7Og19.png",
@@ -230,7 +230,7 @@ dataSet[dataSetVersion].characterData = [
       agency: [ "SC", "HC", "FC" ],      
       girl: true
     }
-  },
+  },  
   {
     name: "Eun-jae Baek",
     img: "HNTx5ir.png",
@@ -241,6 +241,16 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },   
+  {
+    name: "Lorraine Cofer",
+    img: "5qruKEz.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "KA" ],      
+      tri: true,
+      girl: true
+    }
+  },  
   {
     name: "Lucy Cardoza",
     img: "Gtow5po.png",
@@ -470,6 +480,16 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
+  {
+    name: "MARIA (Miracle)",
+    img: "2kJK1MX.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "SC", "KA" ],
+      sec: true,
+      nb: true
+    }
+  },    
   {
     name: "Kalaziel (Terror)",
     img: "314NuH5.png",
@@ -1258,15 +1278,25 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Nene Arugh",
-    img: "aeITVp2.png",
+    name: "Caru Cary",
+    img: "yIGAzXY.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
-      sec: true,
+      tri: true,
       girl: true
     }
-  }, 
+  },  
+  {
+    name: "Flecker Soides",
+    img: "faxIV74.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "NS" ],      
+      tri: true,
+      girl: true
+    }
+  },    
   {
     name: "Horkos",
     img: "BkqY3kk.png",
@@ -1276,7 +1306,17 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       boy: true
     }
-  },   
+  },     
+  {
+    name: "Nene Arugh",
+    img: "aeITVp2.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "NS" ],      
+      sec: true,
+      girl: true
+    }
+  }, 
   {
     name: "Prigh Castel",
     img: "JoF9Tyk.png",
@@ -1316,7 +1356,17 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       boy: true
     }
-  },       
+  },      
+  {
+    name: "Asta",
+    img: "xTzVQDd.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "BR" ],      
+      tri: true,
+      nb: true
+    }
+  },   
   {
     name: "Berith",
     img: "KP2FUeQ.png",
@@ -2073,7 +2123,16 @@ dataSet[dataSetVersion].characterData = [
       tri: true,
       girl: true
     }
-  },        
+  },
+  {
+    name: "Shorm Tower",
+    img: "BNdRQMO.png",
+    opts: {
+      series: [ "NC" ],
+      tri: true,
+      nb: true
+    }
+  },  
   {
     name: "Knifedick Deathfuck",
     img: "Ysg7Rlx.png",
