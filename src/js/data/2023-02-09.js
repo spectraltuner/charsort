@@ -1863,7 +1863,16 @@ dataSet[dataSetVersion].characterData = [
       sec: true,      
       girl: true  
     }
-  },      
+  },
+  {
+    name: "Wasphound",
+    img: "OoCeefV.png",
+    opts: {
+      series: [ "RP", "OS" ],
+      sec: true,      
+      girl: true  
+    }
+  },  
   {
     name: "Wendy Harron",
     img: "t13xy2O.png",
@@ -1963,7 +1972,16 @@ dataSet[dataSetVersion].characterData = [
       extra: true,
       girl: true
     }
-  },          
+  },
+  {
+    name: "Wataru Igarashi",
+    img: "mGZlW3q.png",
+    opts: {
+      series: [ "RP", "SK" ],
+      tri: true,
+      boy: true
+    }
+  },  
   {
     name: "Zebel Chance",
     img: "oYppbmi.png",
