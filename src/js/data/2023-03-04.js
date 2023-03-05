@@ -1289,6 +1289,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Spiram Lache",
+    img: "uBkWSUA.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "NS" ],      
+      sec: true,
+      boy: true
+    }
+  },  
+  {
     name: "Caru Cary",
     img: "yIGAzXY.png",
     opts: {
