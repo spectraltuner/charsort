@@ -1055,7 +1055,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Logos (Sentinel)",
-    img: "xFfY5cG.png",
+    img: "IWWSIIa.png",
     opts: {
       series: [ "SC" ],
       agency: [ "FC" ],      
@@ -1065,7 +1065,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Logos (Silhouette)",
-    img: "QOL7Eh5.png",
+    img: "pVlU5WT.png",
     opts: {
       series: [ "SC" ],
       agency: [ "FC" ],      
@@ -1084,18 +1084,8 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
-    name: "Logos (Stalker)",
-    img: "YZARVOF.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "FC" ],      
-      tri: true,
-      nb: true
-    }
-  },      
-  {
     name: "Logos (Slasher)",
-    img: "pYuIPGs.png",
+    img: "udS60NJ.png",
     opts: {
       series: [ "SC" ],
       agency: [ "FC" ],      
