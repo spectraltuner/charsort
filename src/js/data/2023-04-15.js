@@ -76,7 +76,7 @@ dataSet[dataSetVersion].options = [
   key: 'collab',
   tooltip: 'Check this to get collaboratively created characters out of there.',
   checked: true
-  }    
+  }
 ];
 
 dataSet[dataSetVersion].characterData = [
@@ -1814,7 +1814,15 @@ dataSet[dataSetVersion].characterData = [
       tri: true,      
       girl: true  
     }
-  },    
+  },
+  {
+    name: "Char Belladonna",
+    img: "beCZC79.png",
+    opts: {
+      series: [ "OS" ],
+      nb: true  
+    }
+  },
   {
     name: "Merche Ramón",
     img: "vw5ofUL.png",
