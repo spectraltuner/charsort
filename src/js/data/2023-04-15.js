@@ -17,8 +17,7 @@ dataSet[dataSetVersion].options = [
       { name: "Other Settings", tooltip: "Characters from other, deprecated or minor settings.", key: "OS" },
       { name: "Roleplays", tooltip: "Characters made for roleplays.", key: "RP" },     
       { name: "Fan Characters", tooltip: "Characters made for other established settings, not my own.", key: "FAN" },        
-      { name: "Nightmare Creatures", tooltip: "Notable things I saw in my dreams", key: "NC" },               
-      { name: "Miscellaneous In-Jokes", tooltip: "Useless Vampire Shotguns Bloodbag / The Deathfuck Prophecies", key: "RN" }     
+      { name: "Nightmare Creatures", tooltip: "Notable things I saw in my dreams", key: "NC" }
     ]
   },
  {
@@ -75,6 +74,12 @@ dataSet[dataSetVersion].options = [
   name: 'Remove Collaborative Characters',
   key: 'collab',
   tooltip: 'Check this to get collaboratively created characters out of there.',
+  checked: true
+  },
+ {
+  name: 'Remove Special Characters',
+  key: 'spec',
+  tooltip: 'Check this to get the weirdo in-joke characters out of there.',
   checked: true
   }
 ];
@@ -1820,7 +1825,8 @@ dataSet[dataSetVersion].characterData = [
     img: "beCZC79.png",
     opts: {
       series: [ "OS" ],
-      nb: true  
+      nb: true,
+      spec: true
     }
   },
   {
@@ -2191,18 +2197,20 @@ dataSet[dataSetVersion].characterData = [
     name: "Knifedick Deathfuck",
     img: "Ysg7Rlx.png",
     opts: {
-      series: [ "RN" ],
+      series: [ "OS" ],
       tri: true,
-      boy: true
+      boy: true,
+      spec: true
     }
   },  
   {
     name: "Rafflesia Nightingale",
     img: "qZWBj62.png",
     opts: {
-      series: [ "RN" ],
+      series: [ "OS" ],
       tri: true,
-      girl: true
+      girl: true,
+      spec: true
     }
   }
 ];
