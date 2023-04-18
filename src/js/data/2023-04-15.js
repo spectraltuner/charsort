@@ -1796,7 +1796,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Wasphound",
-    img: "OoCeefV.png",
+    img: "c9THPAT.png",
     opts: {
       series: [ "WW", "RP" ],
       girl: true  
