@@ -419,11 +419,12 @@ dataSet[dataSetVersion].characterData = [
     img: "VfRWJoD.png",
     opts: {
       series: [ "SC", "FAN" ],
-      agency: [ "BR" ],          
+      agency: [ "BR" ],
+      collab: true,
       sec: true,
       girl: true
     }
-  },
+  },  
   {
     name: "Jade Huo",
     img: "JKXgFo1.png",
@@ -477,6 +478,17 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   }, 
+  {
+    name: "Hanna Graeber",
+    img: "SqAQ8gN.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "BR" ],
+      collab: true,
+      sec: true,
+      girl: true
+    }
+  },  
   {
     name: "Satariel (Warden)",
     img: "FAv7aRv.png",
