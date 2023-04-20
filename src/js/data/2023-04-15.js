@@ -1920,11 +1920,20 @@ dataSet[dataSetVersion].characterData = [
     name: "Wendy Harron",
     img: "t13xy2O.png",
     opts: {
-      series: [ "RP" ],
+      series: [ "RP", "FAN" ],
       sec: true,
       girl: true
     }
-  },   
+  },
+  {
+    name: "Tsepha",
+    img: "2ZiWKVI.png",
+    opts: {
+      series: [ "RP", "FAN" ],
+      tri: true,
+      boy: true
+    }
+  },  
   {
     name: "Ageha Ōta",
     img: "mKP0SAC.png",
