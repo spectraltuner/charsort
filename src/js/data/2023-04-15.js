@@ -1927,7 +1927,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Tsepha",
-    img: "2ZiWKVI.png",
+    img: "wTFNCE7.png",
     opts: {
       series: [ "RP", "FAN" ],
       tri: true,
