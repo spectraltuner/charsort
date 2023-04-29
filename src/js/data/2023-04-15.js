@@ -627,7 +627,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Baphomet",
-    img: "aXOL7SO.png",
+    img: "plUiPmJ.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
@@ -661,6 +661,16 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
+  {
+    name: "Moloch",
+    img: "llMGytI.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "HC" ],      
+      tri: true,
+      girl: true
+    }
+  },    
   {
     name: "Musca",
     img: "mZVYiGh.png",
