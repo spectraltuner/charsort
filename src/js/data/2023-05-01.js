@@ -1857,7 +1857,8 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "OS" ],
       sec: true,
-      girl: true
+      girl: true,
+      spec: true
     }
   },  
   {
