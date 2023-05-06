@@ -1852,6 +1852,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Callie Lowe",
+    img: "w9dqriv.png",
+    opts: {
+      series: [ "OS" ],
+      sec: true,
+      girl: true
+    }
+  },  
+  {
     name: "Merche Ramón",
     img: "iFn7Cmj.png",
     opts: {
