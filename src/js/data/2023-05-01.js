@@ -1946,6 +1946,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Brie",
+    img: "BE7s0kg.png",
+    opts: {
+      series: [ "RP", "FAN" ],
+      sec: true,
+      girl: true
+    }
+  },   
+  {
     name: "Tsepha",
     img: "kvyQJ2S.png",
     opts: {
