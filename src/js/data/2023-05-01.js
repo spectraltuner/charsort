@@ -1481,6 +1481,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Mozu",
+    img: "9P1jSgE.png",
+    opts: {
+      series: [ "BB" ],
+      sec: true,
+      girl: true
+    }
+  },  
+  {
     name: "The Burnt King",
     img: "cUhApSo.png",
     opts: {
@@ -1499,8 +1508,8 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Erlich Kacht",
-    img: "nWb0uZF.png",
+    name: "The Captain",
+    img: "CGr50gd.png",
     opts: {
       series: [ "BB" ],
       sec: true,
@@ -1515,16 +1524,16 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       girl: true
     }
-  },
+  },  
   {
-    name: "Mozu",
-    img: "9P1jSgE.png",
+    name: "Erlich Kacht",
+    img: "nWb0uZF.png",
     opts: {
       series: [ "BB" ],
       sec: true,
-      girl: true
+      boy: true
     }
-  },
+  },  
   {
     name: "Sage",
     img: "l9bJ5aB.png",
