@@ -1941,7 +1941,7 @@ dataSet[dataSetVersion].characterData = [
     img: "oaqS2sF.png",
     opts: {
       series: [ "RP", "FAN" ],
-      sec: true,      
+      tri: true,      
       girl: true  
     }
   },
