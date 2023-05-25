@@ -1488,7 +1488,16 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       girl: true
     }
-  },  
+  }, 
+  {
+    name: "The Sculptor",
+    img: "nHRz8jV.png",
+    opts: {
+      series: [ "BB" ],
+      sec: true,
+      girl: true
+    }
+  },    
   {
     name: "The Burnt King",
     img: "cUhApSo.png",
