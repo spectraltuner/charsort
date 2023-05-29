@@ -1553,6 +1553,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Striver",
+    img: "A82F4qN.png",
+    opts: {
+      series: [ "BB" ],
+      sec: true,
+      girl: true
+    }
+  },  
+  {
     name: "Trema",
     img: "Klp2Gpw.png",
     opts: {
