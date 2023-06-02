@@ -1530,7 +1530,7 @@ dataSet[dataSetVersion].characterData = [
     img: "aHdwHhb.png",
     opts: {
       series: [ "BB", "NC" ],
-      sec: true,
+      tri: true,
       girl: true
     }
   },  
@@ -1566,10 +1566,19 @@ dataSet[dataSetVersion].characterData = [
     img: "Klp2Gpw.png",
     opts: {
       series: [ "BB", "NC" ],
-      sec: true,
+      tri: true,
       girl: true
     }
   },
+  {
+    name: "Yaku",
+    img: "IhAHohR.png",
+    opts: {
+      series: [ "BB" ],
+      sec: true,
+      girl: true
+    }
+  },  
   {
     name: "Iris Widow",
     img: "q5TEh9b.png",
