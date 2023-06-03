@@ -1482,7 +1482,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mozu",
-    img: "9P1jSgE.png",
+    img: "PgnFSCU.png",
     opts: {
       series: [ "BB" ],
       sec: true,
