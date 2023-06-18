@@ -1898,6 +1898,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Oleander",
+    img: "eSOSmnA.png",
+    opts: {
+      series: [ "OS" ],
+      girl: true,
+      spec: true
+    }
+  },    
+  {
     name: "Merche Ramón",
     img: "iFn7Cmj.png",
     opts: {
