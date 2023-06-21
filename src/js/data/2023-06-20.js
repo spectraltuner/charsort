@@ -17,7 +17,7 @@ dataSet[dataSetVersion].options = [
       { name: "Other Settings", tooltip: "Characters from other, deprecated or minor settings.", key: "OS" },
       { name: "Roleplays", tooltip: "Characters made for roleplays.", key: "RP" },     
       { name: "Fan Characters", tooltip: "Characters made for other established settings, not my own.", key: "FAN" },        
-      { name: "Nightmare Creatures", tooltip: "Notable things I saw in my dreams", key: "NC" }
+      { name: "Nightmare Creatures", tooltip: "Things I saw in my dreams.", key: "NC" }
     ]
   },
  {
