@@ -323,7 +323,7 @@ dataSet[dataSetVersion].characterData = [
     img: "NHWj5Eb.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "BR" ],      
+      agency: [ "EC" ],      
       tri: true,
       girl: true
     }
