@@ -1900,6 +1900,25 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Oleander",
+    img: "eSOSmnA.png",
+    opts: {
+      series: [ "OS" ],
+      girl: true,
+      spec: true
+    }
+  },      
+  {
+    name: "Bell",
+    img: "j3of39s.png",
+    opts: {
+      series: [ "OS" ],
+      sec: true,
+      girl: true,
+      spec: true
+    }
+  },    
+  {
     name: "Callie Hemlock",
     img: "w9dqriv.png",
     opts: {
@@ -1909,15 +1928,6 @@ dataSet[dataSetVersion].characterData = [
       spec: true
     }
   },  
-  {
-    name: "Oleander",
-    img: "eSOSmnA.png",
-    opts: {
-      series: [ "OS" ],
-      girl: true,
-      spec: true
-    }
-  },    
   {
     name: "Merche Ramón",
     img: "iFn7Cmj.png",
