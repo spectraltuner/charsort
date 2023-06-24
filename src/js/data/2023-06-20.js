@@ -500,7 +500,18 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       girl: true
     }
-  },    
+  },
+  {
+    name: "The White Rabbit",
+    img: "QeSNRbP.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      collab: true,
+      sec: true,
+      girl: true
+    }
+  },  
   {
     name: "Satariel (Warden)",
     img: "KGVqMqw.png",
