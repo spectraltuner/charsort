@@ -1965,10 +1965,9 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shouko Mitsubayashi",
-    img: "GaWFFwC.png",
+    img: "7knnWOf.png",
     opts: {
       series: [ "SK" ],
-      sec: true,
       girl: true
     }
   }, 
@@ -2019,7 +2018,7 @@ dataSet[dataSetVersion].characterData = [
     img: "gkbRkFK.png",
     opts: {
       series: [ "RP", "FAN" ],
-      sec: true,
+      tri: true,
       girl: true
     }
   },
@@ -2028,7 +2027,7 @@ dataSet[dataSetVersion].characterData = [
     img: "BE7s0kg.png",
     opts: {
       series: [ "RP", "FAN" ],
-      sec: true,
+      tri: true,
       girl: true
     }
   },   
