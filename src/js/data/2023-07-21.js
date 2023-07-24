@@ -1885,7 +1885,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Grizzly",
-    img: "wlkAfMN.png",
+    img: "LzsR6EU.png",
     opts: {
       series: [ "WW" ],
       tri: true,      
