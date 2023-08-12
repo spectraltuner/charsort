@@ -1696,7 +1696,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Rachel Reiss",
-    img: "HqlDCqD.png",
+    img: "x7wyeGJ.png",
     opts: {
       series: [ "SK" ],
       girl: true
