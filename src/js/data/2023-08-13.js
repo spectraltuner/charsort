@@ -531,6 +531,17 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Sakae Shindou",
+    img: "TPyqay3.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      collab: true,
+      sec: true,
+      girl: true
+    }
+  },  
+  {
     name: "The Phouka",
     img: "qawT0cl.png",
     opts: {
