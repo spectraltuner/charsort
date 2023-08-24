@@ -540,7 +540,17 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       girl: true
     }
-  },  
+  },
+  {
+    name: "Ignacia Abrego",
+    img: "Km46cYi.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      tri: true,
+      girl: true
+    }
+  },    
   {
     name: "The Phouka",
     img: "qawT0cl.png",
@@ -845,7 +855,7 @@ dataSet[dataSetVersion].characterData = [
   },   
   {
     name: "Cerviel",
-    img: "xIiBzcU.png",
+    img: "Wmor0Gy.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -1951,6 +1961,24 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Black Licorice (Edie Coster)",
+    img: "bDsTYaG.png",
+    opts: {
+      series: [ "OS" ],
+      tri: true,      
+      girl: true  
+    }
+  },
+  {
+    name: "Heroine",
+    img: "93pfn0y.png",
+    opts: {
+      series: [ "OS" ],
+      tri: true,      
+      boy: true  
+    }
+  },    
+  {
     name: "Char Belladonna",
     img: "mjOoSJY.png",
     opts: {
@@ -1996,6 +2024,14 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
+  {
+    name: "Celeste Veiga",
+    img: "QeoCokp.png",
+    opts: {
+      series: [ "SK" ],
+      girl: true
+    }
+  },  
   {
     name: "Mirai Amachi",
     img: "Bb8weCC.png",
