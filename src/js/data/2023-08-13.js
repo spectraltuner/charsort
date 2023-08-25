@@ -542,7 +542,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Ignacia Abrego",
+    name: "Lita Ignacia",
     img: "Km46cYi.png",
     opts: {
       series: [ "SC" ],
