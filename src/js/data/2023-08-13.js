@@ -465,7 +465,17 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       girl: true
     }
-  },    
+  },
+  {
+    name: "Báiyǔ",
+    img: "nEnIBAf.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      girl: true
+    }
+  },   
   {
     name: "Karin Rosander",
     img: "jDjsXH0.png",
@@ -544,6 +554,26 @@ dataSet[dataSetVersion].characterData = [
   {
     name: "Lita Ignacia",
     img: "Km46cYi.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      tri: true,
+      girl: true
+    }
+  },
+  {
+    name: "Jinjiao",
+    img: "qIqwMpQ.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      tri: true,
+      girl: true
+    }
+  },  
+  {
+    name: "Yinjiao",
+    img: "7aRknrD.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
@@ -2011,8 +2041,18 @@ dataSet[dataSetVersion].characterData = [
     img: "9jwTWJ3.png",
     opts: {
       series: [ "OS" ],
-      sec: true,
       girl: true,
+      spec: true
+    }
+  },
+  {
+    name: "Nobu Nogama",
+    img: "vOzQUDL.png",
+    opts: {
+      series: [ "OS" ],
+      collab: true,
+      sec: true,
+      nb: true,
       spec: true
     }
   },  
