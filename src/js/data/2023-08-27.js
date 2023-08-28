@@ -15,8 +15,8 @@ dataSet[dataSetVersion].options = [
       { name: "Suicide Kings", tooltip: "Local Tomboy Forced to Gamble Soul", key: "SK" },
       { name: "Sweet Malus", tooltip: "Gods Go on Road Trip, Catastrophe Ensues", key: "SM" },
       { name: "Waspworld", tooltip: "I'm Crazy About Yellowjackets", key: "WW" },
+      { name: "Fan Characters", tooltip: "Characters made for other settings, not my own.", key: "FAN" },
       { name: "Other Settings", tooltip: "Characters from other settings, be they minor or deprecated.", key: "OS" },
-      { name: "Fan Characters", tooltip: "Characters made for other settings, not my own.", key: "FAN" },        
       { name: "Nightmare Creatures", tooltip: "Things I saw in my dreams.", key: "NC" }
     ]
   },
