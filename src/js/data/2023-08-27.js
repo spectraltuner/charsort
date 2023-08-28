@@ -2193,6 +2193,15 @@ dataSet[dataSetVersion].characterData = [
       tri: true,      
       girl: true  
     }
+  },
+  {
+    name: "The Huntress",
+    img: "R6hvc2Y.png",
+    opts: {
+      series: [ "WW" ],
+      tri: true,      
+      girl: true  
+    }
   },  
   {
     name: "The Scribe",
