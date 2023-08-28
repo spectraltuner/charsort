@@ -86,7 +86,7 @@ dataSet[dataSetVersion].options = [
 ];
 
 dataSet[dataSetVersion].characterData = [
-  // AGENCY - EARTHLING SAGA
+
   { 
     name: "Minna Yamane",
     img: "vcG6yhd.png",
@@ -168,7 +168,7 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
-   // EARTHLING SAGA - SUPPORTING PROTAGS
+
   {
     name: "Enkh Khenbishiin",
     img: "3yZ3dpf.png",
@@ -219,8 +219,8 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
-   // EARTHLING SAGA - SUPPORTING ANTAGS
-   {
+
+  {
     name: "Deleter",
     img: "WkvWAa5.png",
     opts: {
@@ -320,7 +320,7 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },  
-   // EARTHLING SAGA - EARTHCROSS CORE
+
   {
     name: "Rose Caspian",
     img: "skYmsn6.png",
@@ -569,7 +569,7 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },  
-   // EARTHLING SAGA - EARTHCROSS MISCELLANY
+
   {
     name: "Báiyǔ",
     img: "nEnIBAf.png",
@@ -711,7 +711,7 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },  
-   // EARTHLING SAGA - STARCROSS MISCELLANY
+
   {
     name: "Free",
     img: "Lir7f6I.png",
@@ -772,7 +772,7 @@ dataSet[dataSetVersion].characterData = [
       nb: true
     }
   },
-  // AGENCY - SERAPHIC SAGA
+
   {
     name: "Harahel",
     img: "Rm8w40u.png",
@@ -962,7 +962,7 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },  
-   // SERAPHIC SAGA - HELL SUPPORT
+
   {
     name: "Anopheles",
     img: "Rwo8yA5.png",
@@ -1113,7 +1113,7 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
-   // SERAPHIC SAGA - GRIGORI SUPPORT
+
   {
     name: "Cerviel",
     img: "Wmor0Gy.png",
@@ -1194,7 +1194,7 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
-   // SERAPHIC SAGA - HEAVEN SUPPORT
+
   {
     name: "Azrael",
     img: "4r8wIUf.png",
@@ -1285,7 +1285,7 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
-   // SERAPHIC SAGA - MISCELLANY
+
   {
     name: "Moloch",
     img: "llMGytI.png",
@@ -1356,7 +1356,7 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   },
-   // SERAPHIC SAGA - NATURAL SIN CORE
+
   {
     name: "Bythos",
     img: "xoYO0DX.png",
@@ -1455,7 +1455,7 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   },      
-   // SERAPHIC SAGA - NATURAL SIN SUPPORT
+
   {
     name: "Asher Sark",
     img: "aQ9iHva.png",
@@ -1606,7 +1606,7 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   },
-   // SERAPHIC SAGA - NATURAL SIN MISCELLANY
+
   {
     name: "Arche Hyle",
     img: "xv16b2P.png",
@@ -1628,7 +1628,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   
-  // BACKWOODS BESTIARY
+
   {
     name: "Anastasia Eryomina",
     img: "1LlKP9G.png",
@@ -1661,7 +1661,7 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
-  // BACKWOODS BESTIARY - SUPPORT
+
   {
     name: "Brie",
     img: "BE7s0kg.png",
@@ -1761,7 +1761,7 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
-  // BACKWOODS BESTIARY - EXTRA
+
   {
     name: "Cornu",
     img: "aHdwHhb.png",
@@ -1781,7 +1781,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 
-  // SUICIDE KINGS
+
   {
     name: "Roxanne Royale",
     img: "LEUu7y9.png",
@@ -1882,7 +1882,7 @@ dataSet[dataSetVersion].characterData = [
       nb: true
     }
   },
-  // SUICIDE KINGS - NON-CONTESTANTS
+
   {
     name: "Ageha Ōta",
     img: "LSaCVNB.png",
@@ -2025,7 +2025,7 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   },  
-  // SUICIDE KINGS - MISCELLANY
+
   {
     name: "Darcy Royale",
     img: "ZNkwtkK.png",
@@ -2063,7 +2063,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 
-  // SWEET MALUS
+
   {
     name: "Nemesis Cain",
     img: "rnDjt80.png",
@@ -2097,7 +2097,7 @@ dataSet[dataSetVersion].characterData = [
       nb: true
     }
   },
-  // SWEET MALUS - MISCELLANY
+
   {
     name: "Momus",
     img: "sZoR9Bh.png",
@@ -2108,7 +2108,7 @@ dataSet[dataSetVersion].characterData = [
     }
   }, 
 
-  // STRAYS
+
   {
     name: "Char Belladonna",
     img: "mjOoSJY.png",
@@ -2156,7 +2156,7 @@ dataSet[dataSetVersion].characterData = [
       nb: true
     }
   }, 
-  // STRAYS - MISCELLANY
+
   {
     name: "Oleander",
     img: "eSOSmnA.png",
@@ -2177,7 +2177,7 @@ dataSet[dataSetVersion].characterData = [
     }
   }, 
 
-  // WASPWORLD
+
   {
     name: "Wasphound",
     img: "702NkHx.png",
@@ -2205,8 +2205,8 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 
-  // FAN CHARACTERS
- {
+
+  {
     name: "Felicia Mink",
     img: "LfNUF6B.png",
     opts: {
@@ -2313,7 +2313,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 
-  // OTHER SETTINGS
+
   {
     name: "Blake Corbet",
     img: "xokGTHj.png",
@@ -2396,7 +2396,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 
-  // NIGHTMARES
+
   {
     name: "Suicide Taker",
     img: "mjgrgie.png",
@@ -2506,7 +2506,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 
-  // ????
+
   {
     name: "Knifedick Deathfuck",
     img: "H9CJlsO.png",
