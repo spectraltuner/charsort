@@ -10,7 +10,6 @@ dataSet[dataSetVersion].options = [
     sub: [
       { name: "Agency", tooltip: "Starcross, Heavencross, and Fatecross", key: "SC" },
       { name: "Backwoods Bestiary", tooltip: "The Monster Hunter Diaries", key: "BB" },
-      { name: "Black Widow", tooltip: "Stupid Occult Detective Bullshit", key: "BW" },
       { name: "Strays", tooltip: "When It Comes To Pet...", key: "STR" },
       { name: "Suicide Kings", tooltip: "Local Tomboy Forced to Gamble Soul", key: "SK" },
       { name: "Sweet Malus", tooltip: "Gods Go on Road Trip, Catastrophe Ensues", key: "SM" },
