@@ -1661,7 +1661,7 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
-  \\ BACKWOODS BESTIARY - SUPPORT
+  // BACKWOODS BESTIARY - SUPPORT
   {
     name: "Brie",
     img: "BE7s0kg.png",
