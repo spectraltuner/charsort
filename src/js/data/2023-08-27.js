@@ -953,15 +953,6 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   }, 
-  {
-    name: "Zoe Aima",
-    img: "xc5l8yy.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "NS" ],     
-      girl: true
-    }
-  },  
    // SERAPHIC SAGA - HELL SUPPORT
   {
     name: "Anopheles",
@@ -1358,11 +1349,20 @@ dataSet[dataSetVersion].characterData = [
   },
    // SERAPHIC SAGA - NATURAL SIN CORE
   {
+    name: "Zoe Aima",
+    img: "xc5l8yy.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "NS" ],     
+      girl: true
+    }
+  },  
+  {
     name: "Bythos",
     img: "xoYO0DX.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],     
+      agency: [ "NS" ],
       girl: true
     }
   },
@@ -1371,7 +1371,7 @@ dataSet[dataSetVersion].characterData = [
     img: "aqPAmRF.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],      
+      agency: [ "NS" ],
       sec: true,
       girl: true
     }
@@ -1381,7 +1381,7 @@ dataSet[dataSetVersion].characterData = [
     img: "zlWDCby.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],      
+      agency: [ "NS" ],
       boy: true
     }
   }, 
