@@ -581,7 +581,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Blair Spall",
-    img: "4bGGDoZ.png",
+    img: "yPpR2yh.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
