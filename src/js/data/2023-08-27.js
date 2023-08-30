@@ -580,6 +580,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Blair Spall",
+    img: "4bGGDoZ.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      tri: true,
+      girl: true
+    }
+  },  
+  {
     name: "Condor",
     img: "U0wyFad.png",
     opts: {
@@ -594,7 +604,7 @@ dataSet[dataSetVersion].characterData = [
     img: "z88CW5h.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "KA" ],      
+      agency: [ "KA" ],
       tri: true,
       girl: true
     }
