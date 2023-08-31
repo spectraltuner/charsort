@@ -332,7 +332,7 @@ dataSet[dataSetVersion].characterData = [
   }, 
   {
     name: "Susanne Kay",
-    img: "j68vKYo.png",
+    img: "kfkG2vh.png",
     opts: {
       series: [ "SC" ],
       agency: [ "KA", "EC" ],      
