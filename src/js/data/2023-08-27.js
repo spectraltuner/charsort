@@ -469,6 +469,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Frankie Flick",
+    img: "0W2vUk6.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      girl: true
+    }
+  },  
+  {
     name: "Hanami Yako",
     img: "OXEBKqp.png",
     opts: {
