@@ -641,7 +641,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Lorraine Cofer",
-    img: "48XzhFg.png",
+    img: "Yu2Imnz.png",
     opts: {
       series: [ "SC" ],
       agency: [ "KA", "EC" ],      
@@ -1754,6 +1754,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Specter",
+    img: "tT20MTc.png",
+    opts: {
+      series: [ "BB", "OS" ],
+      sec: true,
+      girl: true
+    }
+  },  
+  {
     name: "Striver",
     img: "A82F4qN.png",
     opts: {
@@ -2156,6 +2165,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Daiya",
+    img: "sl8oVZE.png",
+    opts: {
+      series: [ "STR" ],
+      collab: true,
+      sec: true,
+      girl: true
+    }
+  },  
+  {
     name: "Evelyn Albright",
     img: "htwHNIg.png",
     opts: {
@@ -2174,7 +2193,17 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       nb: true
     }
-  }, 
+  },
+  {
+    name: "Sybaris",
+    img: "vfW2U6t.png",
+    opts: {
+      series: [ "STR" ],
+      collab: true,
+      sec: true,
+      girl: true
+    }
+  },    
   // STRAYS - MISCELLANY
   {
     name: "Oleander",
@@ -2405,6 +2434,15 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
+  {
+    name: "Bella",
+    img: "2kDxsuf.png",
+    opts: {
+      series: [ "OS" ],
+      tri: true,      
+      girl: true  
+    }
+  },  
   {
     name: "Black Licorice (Edie Coster)",
     img: "bDsTYaG.png",
