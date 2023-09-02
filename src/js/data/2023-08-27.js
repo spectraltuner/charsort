@@ -540,6 +540,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Maisie Hatchett",
+    img: "eElFrlG.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      girl: true
+    }
+  },  
+  {
     name: "The Phouka",
     img: "qawT0cl.png",
     opts: {
@@ -2194,6 +2204,16 @@ dataSet[dataSetVersion].characterData = [
       nb: true
     }
   },
+  {
+    name: "Sage the Qwine",
+    img: "sDrx4gY.png",
+    opts: {
+      series: [ "STR" ],
+      sec: true,
+      nb: true,
+      spec: true
+    }
+  },  
   {
     name: "Sybaris",
     img: "vfW2U6t.png",
