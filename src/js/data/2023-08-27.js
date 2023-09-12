@@ -477,6 +477,16 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       girl: true
     }
+  },
+  {
+    name: "The Grimm",
+    img: "GMG3hSx.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      girl: true
+    }
   },  
   {
     name: "Hanami Yako",
