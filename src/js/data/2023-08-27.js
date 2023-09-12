@@ -480,7 +480,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Grimm",
-    img: "GMG3hSx.png",
+    img: "hoLRZHl.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
