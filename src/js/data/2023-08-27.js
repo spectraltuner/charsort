@@ -458,6 +458,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Doris Austen",
+    img: "Sa2yjQI.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      girl: true
+    }
+  },  
+  {
     name: "Emileigh Ruck",
     img: "8iUUKUB.png",
     opts: {
@@ -579,6 +589,16 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
+  {
+    name: "The Watcher",
+    img: "jIcK1oR.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      girl: true
+    }
+  },  
   {
     name: "The White Rabbit",
     img: "QeSNRbP.png",
