@@ -458,6 +458,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Danika Crnčević Đavola",
+    img: "aSBDJac.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      girl: true
+    }
+  },  
+  {
     name: "Doris Austen",
     img: "Sa2yjQI.png",
     opts: {
