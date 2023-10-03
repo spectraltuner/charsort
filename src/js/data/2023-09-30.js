@@ -631,7 +631,7 @@ dataSet[dataSetVersion].characterData = [
    // EARTHLING SAGA - EARTHCROSS MISCELLANY
   {
     name: "Báiyǔ",
-    img: "nEnIBAf.png",
+    img: "eYtj43O.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
