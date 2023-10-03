@@ -635,7 +635,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
-      tri: true,
+      sec: true,
       girl: true
     }
   },
