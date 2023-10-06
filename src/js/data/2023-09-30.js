@@ -458,6 +458,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Báiyǔ",
+    img: "eYtj43O.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      girl: true
+    }
+  },  
+  {
     name: "Danika Crnčević Đavola",
     img: "aSBDJac.png",
     opts: {
@@ -578,7 +588,17 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       girl: true
     }
-  },  
+  }, 
+  {
+    name: "Majin",
+    img: "ve2hkqv.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      girl: true
+    }
+  }, 
   {
     name: "The Phouka",
     img: "qawT0cl.png",
@@ -629,16 +649,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
    // EARTHLING SAGA - EARTHCROSS MISCELLANY
-  {
-    name: "Báiyǔ",
-    img: "eYtj43O.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "EC" ],
-      sec: true,
-      girl: true
-    }
-  },
   {
     name: "Blair Spall",
     img: "yPpR2yh.png",
