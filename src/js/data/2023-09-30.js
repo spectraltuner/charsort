@@ -499,6 +499,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Ethel Hahn",
+    img: "dmWpeRi.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      girl: true
+    }
+  },  
+  {
     name: "Frankie Flick",
     img: "0W2vUk6.png",
     opts: {
@@ -649,6 +659,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
    // EARTHLING SAGA - EARTHCROSS MISCELLANY
+  {
+    name: "Agnes Hatchett",
+    img: "PYmPvTL.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      tri: true,
+      girl: true
+    }
+  },  
   {
     name: "Blair Spall",
     img: "yPpR2yh.png",
