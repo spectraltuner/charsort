@@ -620,6 +620,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "The Red Butcher (Harper Lorey)",
+    img: "KUiLKJg.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      boy: true
+    }
+  },    
+  {
     name: "Ume Maeda",
     img: "uciboXK.png",
     opts: {
