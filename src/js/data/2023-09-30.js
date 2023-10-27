@@ -591,7 +591,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Maisie Hatchett",
-    img: "eElFrlG.png",
+    img: "t3pp6XF.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
@@ -769,6 +769,16 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
+  {
+    name: "Měijìng Shěn",
+    img: "LYWzowA.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],      
+      tri: true,
+      girl: true
+    }
+  },  
   {
     name: "Ren Ōtori",
     img: "ZMNOaWo.png",
