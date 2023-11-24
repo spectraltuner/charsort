@@ -384,7 +384,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Teddy (Sense)",
+    name: "Teddy Worth (Sense)",
     img: "fJO8szS.png",
     opts: {
       series: [ "SC" ],
