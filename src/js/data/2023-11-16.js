@@ -445,7 +445,17 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       girl: true
     }
-  },  
+  }, 
+  {
+    name: "Aradia di Toscano",
+    img: "jRKnpTT.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      tri: true,
+      girl: true
+    }
+  },    
   {
     name: "Audrey Hilt",
     img: "Zic8puo.png",
@@ -639,6 +649,16 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
+  {
+    name: "Marina Petrou",
+    img: "OYW6DAv.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      girl: true
+    }
+  },  
   {
     name: "Měijìng Shěn",
     img: "LYWzowA.png",
