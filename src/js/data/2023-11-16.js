@@ -106,7 +106,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kyarne",
-    img: "fVUOfwo.png",
+    img: "6lwNIKv.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC" ],     
@@ -200,7 +200,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mariposa",
-    img: "mPIulCf.png",
+    img: "Gv6h9D9.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC" ],
@@ -210,7 +210,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Milky Way (Wren)",
-    img: "hUtbDo7.png",
+    img: "DbBxSdR.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC" ],
@@ -2254,7 +2254,7 @@ dataSet[dataSetVersion].characterData = [
   // SWEET MALUS
   {
     name: "Nemesis Cain",
-    img: "rnDjt80.png",
+    img: "r7Ha9Gh.png",
     opts: {
       series: [ "SM" ],
       girl: true
@@ -2262,7 +2262,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eris Strife",
-    img: "dmskswY.png",
+    img: "d0U3zSg.png",
     opts: {
       series: [ "SM" ],
       girl: true
