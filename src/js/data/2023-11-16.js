@@ -580,6 +580,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Hasu-douji",
+    img: "jMcuVb7.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      nb: true
+    }
+  },  
+  {
     name: "Iris Widow",
     img: "q5TEh9b.png",
     opts: {
