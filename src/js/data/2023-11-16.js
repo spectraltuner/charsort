@@ -620,6 +620,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Jarpa",
+    img: "bum16SA.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      tri: true,
+      nb: true
+    }
+  },  
+  {
     name: "Jiālù Móu",
     img: "Ubrr0zK.png",
     opts: {
