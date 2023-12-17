@@ -540,7 +540,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Frankie Flick",
-    img: "0W2vUk6.png",
+    img: "7kJ57YI.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
