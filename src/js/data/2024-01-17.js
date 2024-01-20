@@ -766,7 +766,7 @@ dataSet[dataSetVersion].characterData = [
       agency: [ "EC" ],
       girl: true
     }
-  }  
+  },
    // EARTHLING SAGA - EARTHCROSS MISCELLANY
   {
     name: "Agnes Hatchett",
