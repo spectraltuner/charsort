@@ -758,6 +758,15 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },  
+  {
+    name: "Zaleska VI",
+    img: "s8lJS7N.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      girl: true
+    }
+  }  
    // EARTHLING SAGA - EARTHCROSS MISCELLANY
   {
     name: "Agnes Hatchett",
