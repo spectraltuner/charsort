@@ -640,6 +640,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Lancaster Rye",
+    img: "S6uV0g3.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      girl: true
+    }
+  },    
+  {
     name: "Leakey Dawson",
     img: "rYgKxsm.png",
     opts: {
