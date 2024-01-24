@@ -680,6 +680,16 @@ dataSet[dataSetVersion].characterData = [
     }
   }, 
   {
+    name: "MAJESTIC",
+    img: "uUuvVDj.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      nb: true
+    }
+  },  
+  {
     name: "Majin",
     img: "ve2hkqv.png",
     opts: {
