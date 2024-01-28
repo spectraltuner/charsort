@@ -160,7 +160,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Anya Kimura",
-    img: "DR9ZxeP.png",
+    img: "7HB3Hkv.png",
     opts: {
       series: [ "SC" ],
       agency: [ "KA" ],      
@@ -540,7 +540,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Frankie Flick",
-    img: "H48vXPF.png",
+    img: "tnlGl9O.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
