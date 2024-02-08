@@ -88,7 +88,7 @@ dataSet[dataSetVersion].characterData = [
   // AGENCY - EARTHLING SAGA
   { 
     name: "Minna Yamane",
-    img: "vcG6yhd.png",
+    img: "jhC37Nv.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC" ],
@@ -124,7 +124,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Venus Kang",
-    img: "rguy5aj.png",
+    img: "ZtrMqQn.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC", "KA" ],     
