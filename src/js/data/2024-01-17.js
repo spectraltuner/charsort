@@ -437,6 +437,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Al Azif",
+    img: "otKjqTA.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      girl: true
+    }
+  },   
+  {
     name: "Annis Doyle",
     img: "OzweKXy.png",
     opts: {
