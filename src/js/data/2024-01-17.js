@@ -445,7 +445,17 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       girl: true
     }
-  },   
+  },
+  {
+    name: "Alhazred",
+    img: "BYaL9LE.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      nb: true
+    }
+  },  
   {
     name: "Annis Doyle",
     img: "OzweKXy.png",
