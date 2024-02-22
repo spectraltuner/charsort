@@ -660,6 +660,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Kuuko",
+    img: "u6ehRnt.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      girl: true
+    }
+  },  
+  {
     name: "Lancaster Rye",
     img: "S6uV0g3.png",
     opts: {
