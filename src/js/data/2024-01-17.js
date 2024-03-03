@@ -676,7 +676,7 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SC" ],
       agency: [ "EC" ],
       sec: true,
-      girl: true
+      nb: true
     }
   },    
   {
