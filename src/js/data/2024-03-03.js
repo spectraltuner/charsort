@@ -810,6 +810,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Ysabel Donnadieu",
+    img: "lDJXfb5.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      girl: true
+    }
+  },    
+  {
     name: "Yumi Akechi",
     img: "6SSMWiB.png",
     opts: {
