@@ -619,6 +619,16 @@ dataSet[dataSetVersion].characterData = [
       nb: true
     }
   },  
+    {
+    name: "The Houndsman (Gwyn)",
+    img: "ZW8ovpx.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      girl: true
+    }
+  },  
   {
     name: "Iris Widow",
     img: "q5TEh9b.png",
