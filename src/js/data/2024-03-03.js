@@ -2298,7 +2298,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Camile Veiga",
-    img: "yEAlpJP.png",
+    img: "AoFiJJD.png",
     opts: {
       series: [ "SK" ],
       tri: true,
