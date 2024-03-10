@@ -2295,7 +2295,16 @@ dataSet[dataSetVersion].characterData = [
       tri: true,
       boy: true
     }
-  },            
+  },
+  {
+    name: "Camile Veiga",
+    img: "yEAlpJP.png",
+    opts: {
+      series: [ "SK" ],
+      tri: true,
+      girl: true
+    }
+  },  
   {
     name: "Saki Amachi",
     img: "2ZibPXn.png",
