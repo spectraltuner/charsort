@@ -115,7 +115,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alice Kang (SOLSTICE)",
-    img: "c8y0ALJ.png",
+    img: "xD7BOp4.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC", "KA", "EC" ],      
