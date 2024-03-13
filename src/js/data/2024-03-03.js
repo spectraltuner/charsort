@@ -2750,6 +2750,15 @@ dataSet[dataSetVersion].characterData = [
       girl: true  
     }
   },  
+{
+    name: "Priscilla Bray",
+    img: "AnfhJAO.png",
+    opts: {
+      series: [ "OS" ],
+      tri: true,      
+      girl: true  
+    }
+  },  
   {
     name: "Black Licorice (Edie Coster)",
     img: "bDsTYaG.png",
