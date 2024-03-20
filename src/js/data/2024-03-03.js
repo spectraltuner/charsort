@@ -718,7 +718,17 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       girl: true
     }
-  },    
+  },
+  {
+    name: "Luka Hütchen",
+    img: "bU0gFpI.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      girl: true
+    }
+  },  
   {
     name: "Maisie Hatchett",
     img: "t3pp6XF.png",
