@@ -650,6 +650,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "The Jack Rabbit",
+    img: "Jy0ZcGu.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      girl: true
+    }
+  },    
+  {
     name: "Jade Huo",
     img: "mywgLPT.png",
     opts: {
@@ -898,6 +908,16 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
+  {
+    name: "The Headhunter",
+    img: "p7SZ4mx.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      tri: true,
+      boy: true
+    }
+  },  
   {
     name: "Jinjiao",
     img: "qIqwMpQ.png",
