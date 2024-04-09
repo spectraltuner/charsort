@@ -978,6 +978,16 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
+ {
+    name: "Mikaela Donner",
+    img: "zppbaZr.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      tri: true,
+      girl: true
+    }
+  }, 
   {
     name: "Ren Ōtori",
     img: "ZMNOaWo.png",
