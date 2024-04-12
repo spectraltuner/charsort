@@ -170,7 +170,7 @@ dataSet[dataSetVersion].characterData = [
    // EARTHLING SAGA - SUPPORTING PROTAGS
   {
     name: "Enkh Khenbishiin",
-    img: "3yZ3dpf.png",
+    img: "pQg4l7O.png",
     opts: {
       series: [ "SC" ],
       agency: [ "KA" ],      
