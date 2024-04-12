@@ -840,6 +840,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "The Witch of Ways",
+    img: "JLnUC5y.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      girl: true
+    }
+  },  
+  {
     name: "Ysabel Donnadieu",
     img: "lDJXfb5.png",
     opts: {
