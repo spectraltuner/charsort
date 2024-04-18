@@ -1141,7 +1141,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Canace",
-    img: "VQPjyNZ.png",
+    img: "UiH6CCU.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
@@ -1186,7 +1186,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Beelzebub",
-    img: "IcpDy75.png",
+    img: "ilWJqhd.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
@@ -1204,7 +1204,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Abaddon",
-    img: "Zb8JadH.png",
+    img: "PTHDHKH.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -1240,7 +1240,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Gabriel",
-    img: "TG7bBtn.png",
+    img: "pdOgWiL.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -1314,7 +1314,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Arista",
-    img: "3xmmgbo.png",
+    img: "kyO29nH.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
