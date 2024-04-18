@@ -1444,7 +1444,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Lamiet",
-    img: "4B2q8eW.png",
+    img: "30Xc4da.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
