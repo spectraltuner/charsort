@@ -1195,7 +1195,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mastema",
-    img: "5XdgAZ9.png",
+    img: "b4rzkye.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -1213,7 +1213,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Uriel",
-    img: "XJWSd2r.png",
+    img: "fAlzuPG.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],
