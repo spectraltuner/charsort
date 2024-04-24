@@ -1795,7 +1795,7 @@ dataSet[dataSetVersion].characterData = [
   },          
  {
     name: "Saklas Lenore",
-    img: "FAUa8uP.png",
+    img: "CzsLMJf.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
@@ -1886,7 +1886,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mona Hyle",
-    img: "oMpEqUr.png",
+    img: "pWHm3xt.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
