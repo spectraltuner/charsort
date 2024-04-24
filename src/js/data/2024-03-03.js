@@ -2181,7 +2181,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Damien Aubert",
-    img: "OJz26y9.png",
+    img: "76ATn7E.png",
     opts: {
       series: [ "SK" ],
       sec: true,
