@@ -2233,7 +2233,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Ace of Spades",
-    img: "vx6uOJ7.png",
+    img: "bDDLno9.png",
     opts: {
       series: [ "SK" ],
       nb: true
