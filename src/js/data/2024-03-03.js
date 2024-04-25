@@ -1995,7 +1995,7 @@ dataSet[dataSetVersion].characterData = [
   },     
   {
     name: "Ekaterina Bakhtin",
-    img: "a7sT6r0.png",
+    img: "FFVKdFW.png",
     opts: {
       series: [ "BB" ],
       girl: true
@@ -2198,7 +2198,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "David Bernier",
-    img: "bqNrN7m.png",
+    img: "K6b9BJg.png",
     opts: {
       series: [ "SK" ],
       sec: true,
