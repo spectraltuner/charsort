@@ -326,7 +326,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
-      sec: true,
       girl: true
     }
   }, 
@@ -346,7 +345,6 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SC" ],
       agency: [ "EC" ],
       collab: true,
-      sec: true,
       girl: true
     }
   },      
@@ -357,7 +355,6 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SC" ],
       agency: [ "EC" ],      
       collab: true,      
-      sec: true,
       girl: true
     }
   },
@@ -368,7 +365,6 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SC" ],
       agency: [ "EC" ],      
       collab: true,      
-      sec: true,
       girl: true
     }
   },  
@@ -379,7 +375,6 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SC" ],
       agency: [ "EC" ],
       collab: true,       
-      sec: true,
       girl: true
     }
   },
@@ -410,7 +405,6 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SC" ],
       agency: [ "EC" ],
       collab: true,
-      sec: true,
       girl: true
     }
   },
@@ -421,7 +415,6 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SC" ],
       agency: [ "EC" ],
       collab: true,
-      sec: true,
       girl: true
     }
   },
@@ -432,7 +425,6 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SC" ],
       agency: [ "EC" ],
       collab: true,
-      sec: true,
       girl: true
     }
   },
@@ -442,7 +434,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
-      sec: true,
       girl: true
     }
   },
@@ -452,7 +443,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
-      sec: true,
       nb: true
     }
   },  
@@ -584,7 +574,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
-      sec: true,
       girl: true
     }
   },  
@@ -725,7 +714,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
-      sec: true,
       girl: true
     }
   },
@@ -745,7 +733,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
-      sec: true,
       girl: true
     }
   }, 
@@ -755,7 +742,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
-      sec: true,
       nb: true
     }
   },  
@@ -765,7 +751,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
-      sec: true,
       girl: true
     }
   },
@@ -775,7 +760,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
-      sec: true,
       girl: true
     }
   },  
