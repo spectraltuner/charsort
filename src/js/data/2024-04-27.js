@@ -679,6 +679,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "The Kathardi Butcher (Harper Lorey)",
+    img: "KUiLKJg.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      boy: true
+    }
+  },      
+  {
     name: "Kuuko",
     img: "k9Z51QR.png",
     opts: {
@@ -783,16 +793,6 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },  
-  {
-    name: "The Red Butcher (Harper Lorey)",
-    img: "KUiLKJg.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "EC" ],
-      sec: true,
-      boy: true
-    }
-  },    
   {
     name: "Ume Maeda",
     img: "uciboXK.png",
