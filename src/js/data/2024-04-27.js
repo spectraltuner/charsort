@@ -2567,6 +2567,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Clockwork Twins",
+    img: "BnBNF4w.png",
+    opts: {
+      series: [ "WW" ],
+      tri: true,      
+      girl: true  
+    }
+  },  
+  {
     name: "Grizzly",
     img: "LzsR6EU.png",
     opts: {
@@ -2585,6 +2594,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "The Scribe",
+    img: "5WgOwRa.png",
+    opts: {
+      series: [ "WW" ],
+      tri: true,      
+      girl: true  
+    }
+  },  
+  {
     name: "Sister Sibling",
     img: "m76BHNH.png",
     opts: {
@@ -2593,15 +2611,6 @@ dataSet[dataSetVersion].characterData = [
       boy: true  
     }
   },  
-  {
-    name: "The Scribe",
-    img: "5WgOwRa.png",
-    opts: {
-      series: [ "WW" ],
-      tri: true,      
-      girl: true  
-    }
-  },
 
   // FAN CHARACTERS
  {
