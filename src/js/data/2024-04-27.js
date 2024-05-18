@@ -2527,6 +2527,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Suyasuya",
+    img: "ZB8VnEV.png",
+    opts: {
+      series: [ "STR" ],
+      collab: true,
+      sec: true,
+      girl: true
+    }
+  },    
+  {
     name: "Sybaris",
     img: "vfW2U6t.png",
     opts: {
