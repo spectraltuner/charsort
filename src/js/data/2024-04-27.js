@@ -728,6 +728,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Lorraine Cofer",
+    img: "Yu2Imnz.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "KA", "EC" ],      
+      sec: true,
+      girl: true
+    }
+  },  
+  {
     name: "Luka Hütchen",
     img: "bU0gFpI.png",
     opts: {
@@ -803,6 +813,16 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
+  {
+    name: "Voahangy",
+    img: "6kdEBa0.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      girl: true
+    }
+  },  
   {
     name: "The Watcher",
     img: "jIcK1oR.png",
@@ -928,16 +948,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
-      tri: true,
-      girl: true
-    }
-  },  
-  {
-    name: "Lorraine Cofer",
-    img: "Yu2Imnz.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "KA", "EC" ],      
       tri: true,
       girl: true
     }
