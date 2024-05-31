@@ -2822,6 +2822,15 @@ dataSet[dataSetVersion].characterData = [
       girl: true  
     }
   },  
+{
+    name: "The Rumbler",
+    img: "K6eQycv.png",
+    opts: {
+      series: [ "OS" ],
+      tri: true,      
+      girl: true  
+    }
+  },   
   {
     name: "Black Licorice (Edie Coster)",
     img: "bDsTYaG.png",
