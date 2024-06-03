@@ -2821,7 +2821,16 @@ dataSet[dataSetVersion].characterData = [
       tri: true,      
       girl: true  
     }
-  },  
+  },
+{
+    name: "Phone Voice",
+    img: "Cj4BIHS.png",
+    opts: {
+      series: [ "OS" ],
+      tri: true,      
+      nb: true  
+    }
+  },
 {
     name: "The Rumbler",
     img: "K6eQycv.png",
