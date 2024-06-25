@@ -2655,6 +2655,7 @@ dataSet[dataSetVersion].characterData = [
     img: "OsV1SMV.png",
     opts: {
       series: [ "FAN" ],
+      sec: true,
       girl: true
     }
   },
@@ -2672,10 +2673,19 @@ dataSet[dataSetVersion].characterData = [
     img: "gkbRkFK.png",
     opts: {
       series: [ "FAN" ],
-      sec: true,
+      tri: true,
       girl: true
     }
   },
+  {
+    name: "Sackhead Darkwraith",
+    img: "wuwc2Rx.png",
+    opts: {
+      series: [ "FAN" ],
+      tri: true,
+      girl: true
+    }
+  },  
   {
     name: "Sidney Lynch",
     img: "gPZsLXx.png",
