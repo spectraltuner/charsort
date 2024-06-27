@@ -746,7 +746,17 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       girl: true
     }
-  },  
+  }, 
+  {
+    name: "Lup",
+    img: "6gHT3Gz.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      boy: true
+    }
+  },      
   {
     name: "Maisie Hatchett",
     img: "t3pp6XF.png",
@@ -804,6 +814,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Trașcă",
+    img: "xekswSK.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      boy: true
+    }
+  },    
+  {
     name: "Ume Maeda",
     img: "uciboXK.png",
     opts: {
@@ -849,7 +869,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
-      sec: true,
+      tri: true,
       girl: true
     }
   },  
@@ -859,7 +879,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
-      sec: true,
+      tri: true,
       girl: true
     }
   },    
