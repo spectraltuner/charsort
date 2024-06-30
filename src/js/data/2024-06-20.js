@@ -2944,6 +2944,15 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   },    
+{
+    name: "Evil Dot",
+    img: "mB8UeKa.png",
+    opts: {
+      series: [ "NC" ],
+      tri: true,
+      nb: true
+    }
+  },     
   {
     name: "Peek",
     img: "JsiDaq9.png",
