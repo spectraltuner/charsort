@@ -2927,6 +2927,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },    
   {
+    name: "Computer God",
+    img: "ttkl8jg.png",
+    opts: {
+      series: [ "NC" ],
+      tri: true,
+      nb: true
+    }
+  },      
+  {
     name: "Anglermouth",
     img: "T407h71.png",
     opts: {
@@ -2944,6 +2953,15 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   },    
+  {
+    name: "Death Beetle",
+    img: "RAYyFdu.png",
+    opts: {
+      series: [ "NC" ],
+      tri: true,
+      nb: true
+    }
+  },      
 {
     name: "Evil Dot",
     img: "mB8UeKa.png",
