@@ -2901,7 +2901,7 @@ dataSet[dataSetVersion].characterData = [
   // NIGHTMARES
   {
     name: "Suicide Taker",
-    img: "mjgrgie.png",
+    img: "EZ2ZcQw.png",
     opts: {
       series: [ "NC" ],
       tri: true,
