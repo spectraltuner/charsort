@@ -2851,6 +2851,24 @@ dataSet[dataSetVersion].characterData = [
       tri: true,      
       girl: true  
     }
+  },
+  {
+    name: "Big Mama Brisket",
+    img: "RmXL14y.png",
+    opts: {
+      series: [ "OS" ],
+      tri: true,      
+      girl: true  
+    }
+  },
+  {
+    name: "Infinity Coil",
+    img: "NcNv5Oa.png",
+    opts: {
+      series: [ "OS" ],
+      tri: true,      
+      girl: true  
+    }
   },  
 {
     name: "Priscilla Bray",
@@ -3054,6 +3072,16 @@ dataSet[dataSetVersion].characterData = [
   },
 
   // ????
+  {
+    name: "Gaorb",
+    img: "8eWDBYz.png",
+    opts: {
+      series: [ "OS" ],
+      tri: true,
+      nb: true,
+      collab: true
+    }
+  },    
   {
     name: "Knifedick Deathfuck",
     img: "H9CJlsO.png",
