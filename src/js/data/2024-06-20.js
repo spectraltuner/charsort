@@ -2927,6 +2927,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },    
   {
+    name: "Swamp Demon",
+    img: "tIPbHDh.png",
+    opts: {
+      series: [ "NC" ],
+      tri: true,
+      nb: true
+    }
+  },        
+  {
     name: "Computer God",
     img: "ttkl8jg.png",
     opts: {
@@ -2944,6 +2953,15 @@ dataSet[dataSetVersion].characterData = [
       nb: true
     }
   }, 
+  {
+    name: "Bryn-1080",
+    img: "4TcNrae.png",
+    opts: {
+      series: [ "NC" ],
+      tri: true,
+      girl: true
+    }
+  },   
   {
     name: "Chicken Skin Demon",
     img: "AdRSodO.png",
