@@ -1012,6 +1012,16 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   }, 
+ {
+    name: "Ombramaniac",
+    img: "8ngUfp6.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      tri: true,
+      nb: true
+    }
+  },   
   {
     name: "Ren Ōtori",
     img: "ZMNOaWo.png",
@@ -2870,6 +2880,15 @@ dataSet[dataSetVersion].characterData = [
       girl: true  
     }
   },  
+  {
+    name: "Dead Princess",
+    img: "JrmCjkH.png",
+    opts: {
+      series: [ "OS" ],
+      tri: true,      
+      girl: true  
+    }
+  },    
 {
     name: "Priscilla Bray",
     img: "AnfhJAO.png",
@@ -2915,6 +2934,15 @@ dataSet[dataSetVersion].characterData = [
       boy: true  
     }
   },
+  {
+    name: "Crossroads Killer",
+    img: "2C9gE9r.png",
+    opts: {
+      series: [ "OS" ],
+      tri: true,      
+      boy: true  
+    }
+  },  
 
   // NIGHTMARES
   {
