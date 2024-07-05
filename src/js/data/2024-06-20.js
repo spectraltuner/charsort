@@ -2181,7 +2181,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Jack Leblanc",
-    img: "rM7Br5L.png",
+    img: "SkrrKFY.png",
     opts: {
       series: [ "SK" ],
       girl: true
@@ -2293,7 +2293,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shouko Mitsubayashi",
-    img: "7knnWOf.png",
+    img: "ziv92mZ.png",
     opts: {
       series: [ "SK", "FAN" ],
       girl: true
