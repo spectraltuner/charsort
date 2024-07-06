@@ -2888,7 +2888,16 @@ dataSet[dataSetVersion].characterData = [
       tri: true,      
       girl: true  
     }
-  },    
+  },
+  {
+    name: "Monantzin",
+    img: "lNJrJAg.png",
+    opts: {
+      series: [ "OS" ],
+      tri: true,      
+      girl: true  
+    }
+  },      
 {
     name: "Priscilla Bray",
     img: "AnfhJAO.png",
