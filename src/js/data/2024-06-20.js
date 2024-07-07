@@ -1013,7 +1013,7 @@ dataSet[dataSetVersion].characterData = [
     }
   }, 
  {
-    name: "Ombramaniac",
+    name: "Ombromaniac",
     img: "8ngUfp6.png",
     opts: {
       series: [ "SC" ],
