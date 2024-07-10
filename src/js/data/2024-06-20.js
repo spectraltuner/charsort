@@ -516,7 +516,17 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       girl: true
     }
-  },    
+  },
+  {
+    name: "Countess Gǔn",
+    img: "tFcreDC.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      girl: true
+    }
+  },      
   {
     name: "Danika Crnčević Đavola",
     img: "aSBDJac.png",
@@ -2626,15 +2636,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Clockwork Twins",
-    img: "BnBNF4w.png",
-    opts: {
-      series: [ "WW" ],
-      tri: true,      
-      girl: true  
-    }
-  },  
-  {
     name: "Grizzly",
     img: "LzsR6EU.png",
     opts: {
@@ -2670,6 +2671,24 @@ dataSet[dataSetVersion].characterData = [
       boy: true  
     }
   },  
+  {
+    name: "Clockwork Twins",
+    img: "BnBNF4w.png",
+    opts: {
+      series: [ "WW" ],
+      tri: true,      
+      girl: true  
+    }
+  },    
+  {
+    name: "Earthworks Scarab",
+    img: "MjH2QUc.png",
+    opts: {
+      series: [ "WW" ],
+      tri: true,      
+      boy: true  
+    }
+  },      
 
   // FAN CHARACTERS
  {
