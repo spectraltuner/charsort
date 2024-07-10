@@ -2685,7 +2685,8 @@ dataSet[dataSetVersion].characterData = [
     img: "MjH2QUc.png",
     opts: {
       series: [ "WW" ],
-      tri: true,      
+      tri: true,
+      collab: true,
       boy: true  
     }
   },      
