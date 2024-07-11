@@ -2681,6 +2681,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },    
   {
+    name: "Deepwater Angler",
+    img: "nog0RV6.png",
+    opts: {
+      series: [ "WW" ],
+      tri: true,      
+      nb: true  
+    }
+  },      
+  {
     name: "Earthworks Scarab",
     img: "MjH2QUc.png",
     opts: {
@@ -2690,6 +2699,15 @@ dataSet[dataSetVersion].characterData = [
       boy: true  
     }
   },      
+  {
+    name: "Wailing Old Foghorn",
+    img: "9uXmRbU.png",
+    opts: {
+      series: [ "WW" ],
+      tri: true,      
+      nb: true  
+    }
+  },        
 
   // FAN CHARACTERS
  {
