@@ -1064,6 +1064,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },    
   {
+    name: "Silen",
+    img: "VuyBqmV.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      tri: true,
+      nb: true
+    }
+  },      
+  {
     name: "Teresa Delgado",
     img: "sstQ9XY.png",
     opts: {
