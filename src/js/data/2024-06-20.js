@@ -1023,6 +1023,16 @@ dataSet[dataSetVersion].characterData = [
     }
   }, 
  {
+    name: "Nikolaos Petrou",
+    img: "Uwvyubo.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      tri: true,
+      boy: true
+    }
+  },   
+ {
     name: "Ombromaniac",
     img: "8ngUfp6.png",
     opts: {
