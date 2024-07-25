@@ -953,6 +953,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Free",
+    img: "TFuBcSe.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      tri: true,
+      girl: true
+    }
+  },  
+  {
     name: "The Headhunter",
     img: "p7SZ4mx.png",
     opts: {
@@ -1024,7 +1034,7 @@ dataSet[dataSetVersion].characterData = [
   }, 
  {
     name: "Nikolaos Petrou",
-    img: "Uwvyubo.png",
+    img: "8ceDxWW.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
@@ -1114,16 +1124,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
    // EARTHLING SAGA - STARCROSS MISCELLANY
-  {
-    name: "Free",
-    img: "Lir7f6I.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "BR" ],
-      tri: true,
-      girl: true
-    }
-  },
   {
     name: "Langosta",
     img: "fGz4TfE.png",
