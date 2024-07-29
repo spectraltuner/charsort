@@ -814,6 +814,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },    
   {
+    name: "The Once and Future King",
+    img: "dRQmZmY.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],      
+      sec: true,
+      girl: true
+    }
+  },      
+  {
     name: "The Phouka",
     img: "qawT0cl.png",
     opts: {
