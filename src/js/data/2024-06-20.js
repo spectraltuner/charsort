@@ -1135,8 +1135,18 @@ dataSet[dataSetVersion].characterData = [
   },  
    // EARTHLING SAGA - STARCROSS MISCELLANY
   {
+    name: "Bull",
+    img: "C7y3kb5.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "SC" ],
+      tri: true,
+      nb: true
+    }
+  },  
+  {
     name: "Langosta",
-    img: "fGz4TfE.png",
+    img: "nVSmqnK.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC" ],
