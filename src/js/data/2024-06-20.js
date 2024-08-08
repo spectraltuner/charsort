@@ -390,7 +390,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Nina Ruck (Big Sister)",
-    img: "vv8g145.png",
+    img: "YnAgljf.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
