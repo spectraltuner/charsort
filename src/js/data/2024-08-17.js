@@ -184,7 +184,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "SC", "KA", "EC" ],
-      sec: true,
       girl: true
     }
   },  
@@ -579,11 +578,22 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Galvani Zima",
+    img: "pqltnSS.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      boy: true
+    }
+  },  
+  {
     name: "The Grimm",
     img: "WkSLhfm.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
+      sec: true,
       girl: true
     }
   },  
@@ -654,7 +664,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
-      sec: true,
+      tri: true,
       girl: true
     }
   },    
@@ -763,7 +773,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
-      sec: true,
       boy: true
     }
   },      
@@ -791,6 +800,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
+      sec: true,
       girl: true
     }
   },
@@ -800,6 +810,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
+      sec: true,
       girl: true
     }
   },  
@@ -818,7 +829,7 @@ dataSet[dataSetVersion].characterData = [
     img: "dRQmZmY.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],      
+      agency: [ "EC" ],
       sec: true,
       girl: true
     }
@@ -839,7 +850,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
-      sec: true,
       boy: true
     }
   },    
@@ -862,7 +872,17 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       girl: true
     }
-  },  
+  },
+  {
+    name: "Vorpal",
+    img: "aglviXx.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      girl: true
+    }
+  },    
   {
     name: "The Watcher",
     img: "jIcK1oR.png",
