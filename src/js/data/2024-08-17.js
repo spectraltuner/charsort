@@ -1878,6 +1878,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Pariah",
+    img: "A5h3S13.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "NS" ],      
+      sec: true,
+      girl: true
+    }
+  },            
+  {
     name: "Sabal Sciène",
     img: "uQr56BB.png",
     opts: {
