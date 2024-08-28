@@ -769,7 +769,7 @@ dataSet[dataSetVersion].characterData = [
   }, 
   {
     name: "Lup",
-    img: "6gHT3Gz.png",
+    img: "cFwpYxZ.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
@@ -846,7 +846,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Trașcă",
-    img: "xekswSK.png",
+    img: "qKQlkV9.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
