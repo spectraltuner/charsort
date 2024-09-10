@@ -2611,7 +2611,6 @@ dataSet[dataSetVersion].characterData = [
     img: "sl8oVZE.png",
     opts: {
       series: [ "STR" ],
-      collab: true,
       sec: true,
       girl: true
     }
@@ -2626,6 +2625,16 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
+  {
+    name: "Marie",
+    img: "phTM9eg.png",
+    opts: {
+      series: [ "STR" ],
+      collab: true,    
+      sec: true,
+      girl: true
+    }
+  }  
   {
     name: "Nobu Nogama",
     img: "vOzQUDL.png",
