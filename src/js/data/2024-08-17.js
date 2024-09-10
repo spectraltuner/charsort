@@ -497,6 +497,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },      
   {
+    name: "Blackbird",
+    img: "uUuvVDj.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      nb: true
+    }
+  },    
+  {
     name: "Cheat Noguera",
     img: "ucAPgSO.png",
     opts: {
@@ -785,15 +794,6 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   }, 
-  {
-    name: "MAJESTIC",
-    img: "uUuvVDj.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "EC" ],
-      nb: true
-    }
-  },  
   {
     name: "Majin",
     img: "ve2hkqv.png",
