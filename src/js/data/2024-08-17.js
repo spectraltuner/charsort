@@ -1599,7 +1599,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Logos (Slasher)",
-    img: "yQo2ilS.png",
+    img: "8uOrYq9.png",
     opts: {
       series: [ "SC" ],
       agency: [ "FC" ],      
