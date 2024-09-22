@@ -398,7 +398,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
-    name: "Belle (Barrier)",
+    name: "Belle Bufford (Barrier)",
     img: "qDiF1vt.png",
     opts: {
       series: [ "SC" ],
@@ -408,7 +408,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Bailey (Bullet)",
+    name: "Bailey Bufford (Bullet)",
     img: "9Sl4bCW.png",
     opts: {
       series: [ "SC" ],
