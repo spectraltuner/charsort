@@ -708,6 +708,17 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Johann von Würzoff",
+    img: "A8mPsm1.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      collab: true,
+      sec: true,
+      boy: true
+    }
+  },        
+  {
     name: "The Kathardi Butcher (Harper Lorey)",
     img: "KUiLKJg.png",
     opts: {
