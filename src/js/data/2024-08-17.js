@@ -2772,6 +2772,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Zombie Sibling",
+    img: "fuUagfX.png",
+    opts: {
+      series: [ "WW" ],
+      tri: true,      
+      girl: true  
+    }
+  },  
+  {
     name: "Clockwork Twins",
     img: "BnBNF4w.png",
     opts: {
