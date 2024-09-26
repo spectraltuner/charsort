@@ -856,6 +856,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "The Storyteller",
+    img: "bjec6TX.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      girl: true
+    }
+  },    
+  {
     name: "Trașcă",
     img: "qKQlkV9.png",
     opts: {
@@ -943,6 +953,16 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },  
+  {
+    name: "Yvette Takács",
+    img: "7q1k50q.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      girl: true
+    }
+  },    
   {
     name: "Zaleska VI",
     img: "s8lJS7N.png",
