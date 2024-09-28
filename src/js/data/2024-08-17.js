@@ -856,6 +856,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Set",
+    img: "4JVG73B.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      boy: true
+    }
+  },    
+  {
     name: "The Storyteller",
     img: "bjec6TX.png",
     opts: {
