@@ -1285,7 +1285,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Baphomet",
-    img: "plUiPmJ.png",
+    img: "sCBuxzI.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
