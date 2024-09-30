@@ -339,7 +339,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Karin Rosander",
-    img: "jDjsXH0.png",
+    img: "IohRdrL.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
@@ -1366,7 +1366,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Jophiel",
-    img: "mMzGcio.png",
+    img: "5IZfgF9.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -2370,7 +2370,7 @@ dataSet[dataSetVersion].characterData = [
   },       
   {
     name: "Giselle Glamour",
-    img: "rGCT99c.png",
+    img: "2g8TI0S.png",
     opts: {
       series: [ "SK" ],
       girl: true
