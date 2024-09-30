@@ -321,7 +321,7 @@ dataSet[dataSetVersion].characterData = [
    // EARTHLING SAGA - EARTHCROSS CORE
   {
     name: "Rose Caspian",
-    img: "skYmsn6.png",
+    img: "st3iZb4.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
@@ -578,7 +578,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Frankie Flick",
-    img: "d0kx8MI.png",
+    img: "rKfuQKt.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
