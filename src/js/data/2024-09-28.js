@@ -106,7 +106,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kyarne",
-    img: "mh2m9vj.png",
+    img: "pWaltKA.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC" ],     
