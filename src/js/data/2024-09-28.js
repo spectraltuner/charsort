@@ -1312,7 +1312,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Lucifer",
-    img: "52wutvD.png",
+    img: "y9YsGGw.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
