@@ -2124,7 +2124,7 @@ dataSet[dataSetVersion].characterData = [
   // BACKWOODS BESTIARY
   {
     name: "Anastasia Eryomina",
-    img: "1LlKP9G.png",
+    img: "V8WYCXE.png",
     opts: {
       series: [ "BB", "FAN" ],
       girl: true
