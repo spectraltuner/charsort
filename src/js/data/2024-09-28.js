@@ -3112,6 +3112,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },   
   {
+    name: "Dominique Lumi (Phantom Thief Platinum)",
+    img: "ovN7PDz.png",
+    opts: {
+      series: [ "OS" ],
+      sec: true,
+      girl: true
+    }
+  },
+  {
     name: "Black Licorice (Edie Coster)",
     img: "bDsTYaG.png",
     opts: {
