@@ -1393,7 +1393,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Yaldabaoth",
-    img: "WpVGBvX.png",
+    img: "sWn9b8k.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC", "NS" ],      
