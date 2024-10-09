@@ -3089,7 +3089,7 @@ dataSet[dataSetVersion].characterData = [
     img: "AnfhJAO.png",
     opts: {
       series: [ "OS" ],
-      tri: true,      
+      sec: true,      
       girl: true  
     }
   },
@@ -3107,7 +3107,7 @@ dataSet[dataSetVersion].characterData = [
     img: "K6eQycv.png",
     opts: {
       series: [ "OS" ],
-      tri: true,      
+      sec: true,      
       girl: true  
     }
   },   
