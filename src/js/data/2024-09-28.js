@@ -2318,7 +2318,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shinobu Endou",
-    img: "eWTJ2gr.png",
+    img: "5YokW3T.png",
     opts: {
       series: [ "SK", "FAN" ],
       girl: true
