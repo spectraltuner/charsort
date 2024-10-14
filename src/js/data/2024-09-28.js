@@ -749,16 +749,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },    
   {
-    name: "Leakey Dawson",
-    img: "rYgKxsm.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "EC" ],
-      sec: true,
-      girl: true
-    }
-  },  
-  {
     name: "Llyn Rhon",
     img: "bQfBgvi.png",
     opts: {
@@ -825,6 +815,16 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },  
+  {
+    name: "Mary Dawson",
+    img: "rYgKxsm.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      girl: true
+    }
+  },    
   {
     name: "Měijìng Shěn",
     img: "LYWzowA.png",
