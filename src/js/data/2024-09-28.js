@@ -488,7 +488,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Belle Hawthorne",
-    img: "3LUHTSL.png",
+    img: "31UQBjZ.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
@@ -817,7 +817,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Mary Dawson",
-    img: "rYgKxsm.png",
+    img: "uF01pQp.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
