@@ -1948,6 +1948,16 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   },      
+ {
+    name: "Stray Qwine",
+    img: "pevfgEB.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "NS" ],      
+      sec: true,
+      boy: true
+    }
+  },        
    // SERAPHIC SAGA - NATURAL SIN SUPPORT
   {
     name: "Asher Sark",
