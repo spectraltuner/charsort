@@ -2122,7 +2122,7 @@ dataSet[dataSetVersion].characterData = [
   },
  {
     name: "Stray Qwine",
-    img: "pevfgEB.png",
+    img: "prNJcqt.png",
     opts: {
       series: [ "SC" ],
       agency: [ "NS" ],      
