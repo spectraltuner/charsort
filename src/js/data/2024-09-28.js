@@ -926,7 +926,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "The White Rabbit",
-    img: "QeSNRbP.png",
+    img: "z1nsC7f.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
@@ -956,7 +956,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Yumi Akechi",
-    img: "6SSMWiB.png",
+    img: "JHEyWV8.png",
     opts: {
       series: [ "SC", "FAN" ],
       agency: [ "EC" ],
