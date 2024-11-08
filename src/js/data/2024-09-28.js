@@ -916,7 +916,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "The Watcher",
-    img: "jIcK1oR.png",
+    img: "xUQqpuo.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
@@ -2763,6 +2763,16 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       girl: true,
       spec: true
+    }
+  }, 
+  {
+    name: "Lyka",
+    img: "J5V4boG.png",
+    opts: {
+      series: [ "STR" ],
+      tri: true,
+      girl: true,
+      collab: true
     }
   }, 
 
