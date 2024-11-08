@@ -847,7 +847,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "The Phouka",
-    img: "qawT0cl.png",
+    img: "SLUQKFr.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
@@ -2769,7 +2769,7 @@ dataSet[dataSetVersion].characterData = [
   // WASPWORLD
   {
     name: "Wasphound",
-    img: "702NkHx.png",
+    img: "2rAyDNE.png",
     opts: {
       series: [ "STR", "WW" ],
       girl: true  
