@@ -250,7 +250,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kalaziel (Terror)",
-    img: "eClOpnP.png",
+    img: "HYMYyZs.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC" ],
