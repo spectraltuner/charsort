@@ -749,6 +749,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },    
   {
+    name: "Licurici",
+    img: "aief3Xt.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      girl: true
+    }
+  },  
+  {
     name: "Llyn Rhon",
     img: "bQfBgvi.png",
     opts: {
