@@ -2230,6 +2230,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Matthäus Brentel",
+    img: "H2IEtiK.png",
+    opts: {
+      series: [ "BB" ],
+      sec: true,
+      boy: true
+    }
+  },  
+  {
     name: "Sage",
     img: "l9bJ5aB.png",
     opts: {
