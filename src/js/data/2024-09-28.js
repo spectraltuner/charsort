@@ -2239,6 +2239,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Morra",
+    img: "yLQIrjd.png",
+    opts: {
+      series: [ "BB" ],
+      sec: true,
+      nb: true
+    }
+  },    
+  {
     name: "Sage",
     img: "l9bJ5aB.png",
     opts: {
