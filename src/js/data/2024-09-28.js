@@ -537,7 +537,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "Danika Crnčević Đavola",
-    img: "aSBDJac.png",
+    img: "lE0Hovd.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
