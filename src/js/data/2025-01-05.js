@@ -2743,7 +2743,7 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       girl: true
     }
-  }  
+  },
   {
     name: "Nobu Nogama",
     img: "vOzQUDL.png",
