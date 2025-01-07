@@ -2287,7 +2287,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Specter",
-    img: "tT20MTc.png",
+    img: "VulyHVp.png",
     opts: {
       series: [ "BB", "OS" ],
       sec: true,
