@@ -97,7 +97,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "EQUINOX",
-    img: "3dMj2fz.png",
+    img: "2INOTl2.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC", "KA" ],      
@@ -106,7 +106,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kyarne",
-    img: "pWaltKA.png",
+    img: "mh2m9vj.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC" ],     
@@ -184,6 +184,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "SC", "KA", "EC" ],
+      sec: true,
       girl: true
     }
   },  
@@ -197,26 +198,6 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
-  {
-    name: "Margaret Duquette",
-    img: "3zCYc8w.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "SC", "EC" ],
-      sec: true,
-      girl: true
-    }
-  },
-  {
-    name: "Marianne Tunstall",
-    img: "TyewYxv.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "SC", "EC" ],
-      sec: true,
-      girl: true
-    }
-  }, 
   {
     name: "Mariposa",
     img: "Gv6h9D9.png",
@@ -270,7 +251,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kalaziel (Terror)",
-    img: "HYMYyZs.png",
+    img: "eClOpnP.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SC" ],
@@ -341,7 +322,7 @@ dataSet[dataSetVersion].characterData = [
    // EARTHLING SAGA - EARTHCROSS CORE
   {
     name: "Rose Caspian",
-    img: "st3iZb4.png",
+    img: "skYmsn6.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
@@ -350,7 +331,7 @@ dataSet[dataSetVersion].characterData = [
   }, 
   {
     name: "Susanne Kay",
-    img: "iDE71po.png",
+    img: "kfkG2vh.png",
     opts: {
       series: [ "SC" ],
       agency: [ "KA", "EC" ],      
@@ -359,7 +340,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Karin Rosander",
-    img: "IohRdrL.png",
+    img: "jDjsXH0.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
@@ -418,7 +399,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
-    name: "Belle Bufford (Barrier)",
+    name: "Belle (Barrier)",
     img: "qDiF1vt.png",
     opts: {
       series: [ "SC" ],
@@ -428,7 +409,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Bailey Bufford (Bullet)",
+    name: "Bailey (Bullet)",
     img: "9Sl4bCW.png",
     opts: {
       series: [ "SC" ],
@@ -508,7 +489,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Belle Hawthorne",
-    img: "31UQBjZ.png",
+    img: "3LUHTSL.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
@@ -516,15 +497,6 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },      
-  {
-    name: "Blackbird",
-    img: "uUuvVDj.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "EC" ],
-      nb: true
-    }
-  },    
   {
     name: "Cheat Noguera",
     img: "ucAPgSO.png",
@@ -557,7 +529,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "Danika Crnčević Đavola",
-    img: "lE0Hovd.png",
+    img: "aSBDJac.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
@@ -598,7 +570,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Frankie Flick",
-    img: "hVe9GWW.png",
+    img: "d0kx8MI.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
@@ -607,22 +579,11 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Galvani Zima",
-    img: "pqltnSS.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "EC" ],
-      sec: true,
-      boy: true
-    }
-  },  
-  {
     name: "The Grimm",
-    img: "zX6U77e.png",
+    img: "WkSLhfm.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
-      sec: true,
       girl: true
     }
   },  
@@ -693,7 +654,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
-      tri: true,
+      sec: true,
       girl: true
     }
   },    
@@ -728,17 +689,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Johann von Würzoff",
-    img: "A8mPsm1.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "EC" ],
-      collab: true,
-      sec: true,
-      boy: true
-    }
-  },
-  {
     name: "The Kathardi Butcher (Harper Lorey)",
     img: "KUiLKJg.png",
     opts: {
@@ -769,8 +719,8 @@ dataSet[dataSetVersion].characterData = [
     }
   },    
   {
-    name: "Licurici",
-    img: "aief3Xt.png",
+    name: "Leakey Dawson",
+    img: "rYgKxsm.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
@@ -809,10 +759,11 @@ dataSet[dataSetVersion].characterData = [
   }, 
   {
     name: "Lup",
-    img: "cFwpYxZ.png",
+    img: "6gHT3Gz.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
+      sec: true,
       boy: true
     }
   },      
@@ -826,12 +777,20 @@ dataSet[dataSetVersion].characterData = [
     }
   }, 
   {
+    name: "MAJESTIC",
+    img: "uUuvVDj.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      nb: true
+    }
+  },  
+  {
     name: "Majin",
     img: "ve2hkqv.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
-      sec: true,
       girl: true
     }
   },
@@ -841,20 +800,9 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
-      sec: true,
       girl: true
     }
   },  
-  {
-    name: "Mary Dawson",
-    img: "uF01pQp.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "EC" ],
-      sec: true,
-      girl: true
-    }
-  },    
   {
     name: "Měijìng Shěn",
     img: "LYWzowA.png",
@@ -870,14 +818,14 @@ dataSet[dataSetVersion].characterData = [
     img: "dRQmZmY.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "EC" ],      
       sec: true,
       girl: true
     }
   },      
   {
     name: "The Phouka",
-    img: "SLUQKFr.png",
+    img: "qawT0cl.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
@@ -886,31 +834,12 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
-    name: "Set",
-    img: "4JVG73B.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "EC" ],
-      sec: true,
-      boy: true
-    }
-  },    
-  {
-    name: "The Storyteller",
-    img: "bjec6TX.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "EC" ],
-      sec: true,
-      girl: true
-    }
-  },    
-  {
     name: "Trașcă",
-    img: "qKQlkV9.png",
+    img: "xekswSK.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
+      sec: true,
       boy: true
     }
   },    
@@ -933,20 +862,10 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       girl: true
     }
-  },
-  {
-    name: "Vorpal",
-    img: "aglviXx.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "EC" ],
-      sec: true,
-      girl: true
-    }
-  },    
+  },  
   {
     name: "The Watcher",
-    img: "xUQqpuo.png",
+    img: "jIcK1oR.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
@@ -956,7 +875,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "The White Rabbit",
-    img: "z1nsC7f.png",
+    img: "QeSNRbP.png",
     opts: {
       series: [ "SC" ],
       agency: [ "EC" ],
@@ -986,23 +905,13 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Yumi Akechi",
-    img: "a9gSEB3.png",
+    img: "6SSMWiB.png",
     opts: {
       series: [ "SC", "FAN" ],
       agency: [ "EC" ],
       girl: true
     }
   },  
-  {
-    name: "Yvette Takács",
-    img: "7q1k50q.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "EC" ],
-      sec: true,
-      girl: true
-    }
-  },    
   {
     name: "Zaleska VI",
     img: "s8lJS7N.png",
@@ -1315,7 +1224,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Baphomet",
-    img: "sCBuxzI.png",
+    img: "plUiPmJ.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC" ],      
@@ -1324,7 +1233,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Belphegor",
-    img: "Co8zTeU.png",
+    img: "oPEHi0l.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -1333,7 +1242,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Metatron",
-    img: "7hvpj96.png",
+    img: "OVz4o11.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -1342,7 +1251,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Lucifer",
-    img: "y9YsGGw.png",
+    img: "52wutvD.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -1387,7 +1296,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Sariel",
-    img: "UgOKrWu.png",
+    img: "y6L4pnq.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -1396,7 +1305,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Jophiel",
-    img: "5IZfgF9.png",
+    img: "mMzGcio.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -1414,7 +1323,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Raphael",
-    img: "WYvQLzQ.png",
+    img: "kW3xXJl.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC" ],      
@@ -1423,7 +1332,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Yaldabaoth",
-    img: "sWn9b8k.png",
+    img: "WpVGBvX.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC", "NS" ],      
@@ -1432,7 +1341,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Sophia Astaphe",
-    img: "BeVmgbL.png",
+    img: "TOmdxLc.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC", "NS" ],      
@@ -1450,7 +1359,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Logos Prime",
-    img: "YAzO1ob.png",
+    img: "cxvCViR.png",
     opts: {
       series: [ "SC" ],
       agency: [ "FC", "NS" ],      
@@ -1459,7 +1368,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Sige Lenore",
-    img: "WCFuBEG.png",
+    img: "vfEnVUf.png",
     opts: {
       series: [ "SC" ],
       agency: [ "HC", "FC", "NS" ],      
@@ -1670,7 +1579,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Logos (Slasher)",
-    img: "8uOrYq9.png",
+    img: "yQo2ilS.png",
     opts: {
       series: [ "SC" ],
       agency: [ "FC" ],      
@@ -1949,16 +1858,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Pariah",
-    img: "A5h3S13.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "NS" ],      
-      sec: true,
-      girl: true
-    }
-  },            
-  {
     name: "Sabal Sciène",
     img: "uQr56BB.png",
     opts: {
@@ -2150,21 +2049,11 @@ dataSet[dataSetVersion].characterData = [
       nb: true
     }
   },
- {
-    name: "Stray Qwine",
-    img: "prNJcqt.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "NS" ],      
-      tri: true,
-      boy: true
-    }
-  },          
   
   // BACKWOODS BESTIARY
   {
     name: "Anastasia Eryomina",
-    img: "V8WYCXE.png",
+    img: "1LlKP9G.png",
     opts: {
       series: [ "BB", "FAN" ],
       girl: true
@@ -2172,7 +2061,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Logan Ruskin",
-    img: "O3PQQFC.png",
+    img: "DE8phlt.png",
     opts: {
       series: [ "BB" ],
       girl: true
@@ -2188,7 +2077,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mozu",
-    img: "0XPMmSp.png",
+    img: "hSFdJPC.png",
     opts: {
       series: [ "BB" ],
       girl: true
@@ -2250,24 +2139,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Matthäus Brentel",
-    img: "H2IEtiK.png",
-    opts: {
-      series: [ "BB" ],
-      sec: true,
-      boy: true
-    }
-  },  
-  {
-    name: "Morra",
-    img: "yLQIrjd.png",
-    opts: {
-      series: [ "BB" ],
-      sec: true,
-      nb: true
-    }
-  },    
-  {
     name: "Sage",
     img: "l9bJ5aB.png",
     opts: {
@@ -2287,7 +2158,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Specter",
-    img: "VulyHVp.png",
+    img: "tT20MTc.png",
     opts: {
       series: [ "BB", "OS" ],
       sec: true,
@@ -2360,7 +2231,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Jack Leblanc",
-    img: "AmcTJUr.png",
+    img: "SkrrKFY.png",
     opts: {
       series: [ "SK" ],
       girl: true
@@ -2368,7 +2239,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mirai Amachi",
-    img: "0IF5wOj.png",
+    img: "Bb8weCC.png",
     opts: {
       series: [ "SK", "FAN" ],
       girl: true
@@ -2376,7 +2247,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shinobu Endou",
-    img: "5YokW3T.png",
+    img: "eWTJ2gr.png",
     opts: {
       series: [ "SK", "FAN" ],
       girl: true
@@ -2428,7 +2299,7 @@ dataSet[dataSetVersion].characterData = [
   },       
   {
     name: "Giselle Glamour",
-    img: "2g8TI0S.png",
+    img: "rGCT99c.png",
     opts: {
       series: [ "SK" ],
       girl: true
@@ -2688,16 +2559,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Charlotte",
-    img: "276VrAG.png",
-    opts: {
-      series: [ "STR" ],
-      girl: true,
-      spec: true,
-      sec: true
-    }
-  },  
-  {
     name: "Callie Hemlock",
     img: "YXGv40Q.png",
     opts: {
@@ -2720,6 +2581,7 @@ dataSet[dataSetVersion].characterData = [
     img: "sl8oVZE.png",
     opts: {
       series: [ "STR" ],
+      collab: true,
       sec: true,
       girl: true
     }
@@ -2734,16 +2596,6 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
-  {
-    name: "Marie",
-    img: "phTM9eg.png",
-    opts: {
-      series: [ "STR" ],
-      collab: true,    
-      sec: true,
-      girl: true
-    }
-  }  
   {
     name: "Nobu Nogama",
     img: "vOzQUDL.png",
@@ -2813,21 +2665,11 @@ dataSet[dataSetVersion].characterData = [
       spec: true
     }
   }, 
-  {
-    name: "Lyka",
-    img: "J5V4boG.png",
-    opts: {
-      series: [ "STR" ],
-      tri: true,
-      girl: true,
-      collab: true
-    }
-  }, 
 
   // WASPWORLD
   {
     name: "Wasphound",
-    img: "2rAyDNE.png",
+    img: "702NkHx.png",
     opts: {
       series: [ "STR", "WW" ],
       girl: true  
@@ -2867,15 +2709,6 @@ dataSet[dataSetVersion].characterData = [
       series: [ "WW" ],
       tri: true,      
       boy: true  
-    }
-  },  
-  {
-    name: "Zombie Sibling",
-    img: "fuUagfX.png",
-    opts: {
-      series: [ "WW" ],
-      tri: true,      
-      girl: true  
     }
   },  
   {
@@ -3036,15 +2869,6 @@ dataSet[dataSetVersion].characterData = [
 
   // OTHER SETTINGS
   {
-    name: "Moose",
-    img: "9KStfZF.png",
-    opts: {
-      series: [ "OS" ],
-      tri: true,
-      girl: true
-    }
-  },
-  {
     name: "Blake Corbet",
     img: "xokGTHj.png",
     opts: {
@@ -3157,7 +2981,7 @@ dataSet[dataSetVersion].characterData = [
     img: "AnfhJAO.png",
     opts: {
       series: [ "OS" ],
-      sec: true,      
+      tri: true,      
       girl: true  
     }
   },
@@ -3175,19 +2999,10 @@ dataSet[dataSetVersion].characterData = [
     img: "K6eQycv.png",
     opts: {
       series: [ "OS" ],
-      sec: true,      
+      tri: true,      
       girl: true  
     }
   },   
-  {
-    name: "Dominique Lumi (Phantom Thief Platinum)",
-    img: "ovN7PDz.png",
-    opts: {
-      series: [ "OS" ],
-      sec: true,
-      girl: true
-    }
-  },
   {
     name: "Black Licorice (Edie Coster)",
     img: "bDsTYaG.png",
@@ -3214,16 +3029,7 @@ dataSet[dataSetVersion].characterData = [
       tri: true,      
       boy: true  
     }
-  },
-  {
-    name: "Yvette la Croix",
-    img: "LDfHO2c.png",
-    opts: {
-      series: [ "OS" ],
-      tri: true,      
-      girl: true  
-    }
-  },    
+  },  
 
   // NIGHTMARES
   {
