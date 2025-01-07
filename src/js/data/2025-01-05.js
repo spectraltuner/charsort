@@ -197,7 +197,7 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
-   {
+  {
     name: "Margaret Duquette",
     img: "3zCYc8w.png",
     opts: {
