@@ -737,7 +737,7 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       boy: true
     }
-  },        
+  },
   {
     name: "The Kathardi Butcher (Harper Lorey)",
     img: "KUiLKJg.png",
