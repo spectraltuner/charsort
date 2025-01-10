@@ -759,6 +759,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "LAM",
+    img: "GwVsR8C.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      nb: true
+    }
+  },    
+  {
     name: "Lancaster Rye",
     img: "S6uV0g3.png",
     opts: {
