@@ -8,7 +8,7 @@ dataSet[dataSetVersion].options = [
     tooltip: "Check this to restrict to certain series.",
     checked: false,
     sub: [
-      { name: "Agency", tooltip: "Starcross, Heavencross, and Fatecross", key: "SC" },
+      { name: "Agentcross", tooltip: "Starcross, Heavencross, and Fatecross", key: "SC" },
       { name: "Backwoods Bestiary", tooltip: "The Monster Hunter Diaries", key: "BB" },
       { name: "Strays", tooltip: "When It Comes To Pet...", key: "STR" },
       { name: "Suicide Kings", tooltip: "Local Tomboy Forced to Gamble Soul", key: "SK" },
@@ -20,9 +20,9 @@ dataSet[dataSetVersion].options = [
     ]
   },
  {
-    name: "Filter Agency Characters",
+    name: "Filter Agentcross Characters",
     key: "agency",
-    tooltip: "Check this to restrict to certain Agency installments. Cuts out all non-Agency characters.",
+    tooltip: "Check this to restrict to certain Agentcross installments. Cuts out all non-Agentcross characters.",
     checked: false,
     sub: [
       { name: "Starcross", tooltip: "Earthling Saga; Ghost Girl Beats Wife, Instantly Regrets It", key: "SC" },
@@ -31,6 +31,8 @@ dataSet[dataSetVersion].options = [
       { name: "Earthcross", tooltip: "Earthling Saga; Zeeky Boogy Doog", key: "EC" },      
       { name: "Killer Asp", tooltip: "Earthling Saga; Ghost Experiences Physical Contact For First Time in 10 Years (HEARTWARMING)", key: "KA" },    
       { name: "Natural Sin", tooltip: "Seraphic Saga; Confessions of a Mask", key: "NS" },
+      { name: "Earthling Saga", tooltip: "Earthcross, Killer Asp, and Starcross; Stories from a Pale Blue Dot", key: "ES" },
+      { name: "Seraphic Saga", tooltip: "Natural Sin, Heavencross, and Fatecross; The Bible Gets Butchered", key: "SeS" },      
       { name: "Bonus Round", tooltip: "Extra characters that don't really fit anywhere else here I guess.", key: "BR" }
     ]
   },
@@ -91,7 +93,7 @@ dataSet[dataSetVersion].characterData = [
     img: "jhC37Nv.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "SC" ],
+      agency: [ "ES", "SC" ],
       girl: true
     }
   },
@@ -100,7 +102,7 @@ dataSet[dataSetVersion].characterData = [
     img: "3dMj2fz.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "SC", "KA" ],      
+      agency: [ "ES", "SC", "KA" ],      
       girl: true
     }
   },
@@ -109,7 +111,7 @@ dataSet[dataSetVersion].characterData = [
     img: "pWaltKA.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "SC" ],     
+      agency: [ "ES", "SC" ],     
       girl: true
     }
   },
@@ -118,7 +120,7 @@ dataSet[dataSetVersion].characterData = [
     img: "87EbGoN.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "SC", "KA", "EC" ],      
+      agency: [ "ES", "SC", "KA", "EC" ],      
       girl: true
     }
   },
@@ -127,7 +129,7 @@ dataSet[dataSetVersion].characterData = [
     img: "ZtrMqQn.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "SC", "KA" ],     
+      agency: [ "ES", "SC", "KA" ],     
       girl: true
     }
   },
@@ -136,7 +138,7 @@ dataSet[dataSetVersion].characterData = [
     img: "3Lf7cEG.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "SC", "HC", "FC" ],      
+      agency: [ "ES", "SeS", "SC", "HC", "FC" ],      
       girl: true
     }
   },
@@ -145,7 +147,7 @@ dataSet[dataSetVersion].characterData = [
     img: "cFLf9cS.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "SC", "HC", "FC" ],      
+      agency: [ "ES", "SeS", "SC", "HC", "FC" ],      
       girl: true
     }
   },   
@@ -154,7 +156,7 @@ dataSet[dataSetVersion].characterData = [
     img: "91vyndw.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "KA", "EC" ],      
+      agency: [ "ES", "KA", "EC" ],      
       girl: true
     }
   },
@@ -163,7 +165,7 @@ dataSet[dataSetVersion].characterData = [
     img: "7HB3Hkv.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "KA" ],      
+      agency: [ "ES", "KA" ],      
       girl: true
     }
   },
@@ -173,7 +175,7 @@ dataSet[dataSetVersion].characterData = [
     img: "pQg4l7O.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "KA" ],      
+      agency: [ "ES", "KA" ],      
       sec: true,
       girl: true
     }
@@ -183,7 +185,7 @@ dataSet[dataSetVersion].characterData = [
     img: "5mgAdpt.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "SC", "KA", "EC" ],
+      agency: [ "ES", "SC", "KA", "EC" ],
       girl: true
     }
   },  
@@ -192,7 +194,7 @@ dataSet[dataSetVersion].characterData = [
     img: "MZJ4zIM.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "SC" ],
+      agency: [ "ES", "SC" ],
       sec: true,
       girl: true
     }
@@ -202,7 +204,7 @@ dataSet[dataSetVersion].characterData = [
     img: "3zCYc8w.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "SC", "EC" ],
+      agency: [ "ES", "SC", "EC" ],
       sec: true,
       girl: true
     }
@@ -212,7 +214,7 @@ dataSet[dataSetVersion].characterData = [
     img: "TyewYxv.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "SC", "EC" ],
+      agency: [ "ES", "SC", "EC" ],
       sec: true,
       girl: true
     }
@@ -222,7 +224,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Gv6h9D9.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "SC" ],
+      agency: [ "ES", "SC" ],
       sec: true,
       girl: true
     }
@@ -232,7 +234,7 @@ dataSet[dataSetVersion].characterData = [
     img: "gr3aDix.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "SC" ],
+      agency: [ "ES", "SC" ],
       sec: true,
       girl: true
     }
@@ -243,7 +245,7 @@ dataSet[dataSetVersion].characterData = [
     img: "WkvWAa5.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "SC" ],
+      agency: [ "ES", "SC" ],
       sec: true,
       girl: true
     }
@@ -253,7 +255,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Nmyzh0l.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "SC" ],
+      agency: [ "ES", "SC" ],
       sec: true,
       girl: true
     }
@@ -263,7 +265,7 @@ dataSet[dataSetVersion].characterData = [
     img: "7YstrLM.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "SC" ],
+      agency: [ "ES", "SC" ],
       sec: true,
       girl: true
     }
@@ -273,7 +275,7 @@ dataSet[dataSetVersion].characterData = [
     img: "HYMYyZs.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "SC" ],
+      agency: [ "ES", "SC" ],
       sec: true,
       girl: true
     }
@@ -283,7 +285,7 @@ dataSet[dataSetVersion].characterData = [
     img: "4utOP1o.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "SC", "KA", "EC" ],
+      agency: [ "ES", "SC", "KA", "EC" ],
       sec: true,
       girl: true
     }
@@ -293,7 +295,7 @@ dataSet[dataSetVersion].characterData = [
     img: "klKLuqr.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "SC", "KA" ],
+      agency: [ "ES", "SC", "KA" ],
       sec: true,
       nb: true
     }
@@ -303,7 +305,7 @@ dataSet[dataSetVersion].characterData = [
     img: "5FmMyAh.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "SC" ],
+      agency: [ "ES", "SC" ],
       sec: true,
       girl: true
     }
@@ -313,7 +315,7 @@ dataSet[dataSetVersion].characterData = [
     img: "KGVqMqw.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "SC" ],
+      agency: [ "ES", "SeS", "SC", "HC", "FC" ],
       sec: true,
       girl: true
     }
@@ -323,7 +325,7 @@ dataSet[dataSetVersion].characterData = [
     img: "VuJcZVr.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "KA" ],      
+      agency: [ "ES", "KA" ],      
       sec: true,
       girl: true
     }
@@ -333,7 +335,7 @@ dataSet[dataSetVersion].characterData = [
     img: "pfk7WxK.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "KA", "EC" ],      
+      agency: [ "ES", "KA", "EC" ],      
       sec: true,
       girl: true
     }
@@ -344,7 +346,7 @@ dataSet[dataSetVersion].characterData = [
     img: "st3iZb4.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       girl: true
     }
   }, 
@@ -353,16 +355,44 @@ dataSet[dataSetVersion].characterData = [
     img: "iDE71po.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "KA", "EC" ],      
+      agency: [ "ES", "KA", "EC" ],      
       girl: true
     }
   },
+  {
+    name: "Frankie Flick",
+    img: "hVe9GWW.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      sec: true,
+      girl: true
+    }
+  },
+  {
+    name: "Maisie Hatchett",
+    img: "t3pp6XF.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      girl: true
+    }
+  },  
+  {
+    name: "Blackbird",
+    img: "uUuvVDj.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      nb: true
+    }
+  },  
   {
     name: "Karin Rosander",
     img: "IohRdrL.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       collab: true,
       girl: true
     }
@@ -372,7 +402,7 @@ dataSet[dataSetVersion].characterData = [
     img: "S1tki17.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],      
+      agency: [ "ES", "EC" ],      
       collab: true,      
       girl: true
     }
@@ -382,7 +412,7 @@ dataSet[dataSetVersion].characterData = [
     img: "1DsSHFf.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],      
+      agency: [ "ES", "EC" ],      
       collab: true,      
       girl: true
     }
@@ -392,7 +422,7 @@ dataSet[dataSetVersion].characterData = [
     img: "PalNJXW.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       collab: true,       
       girl: true
     }
@@ -402,7 +432,7 @@ dataSet[dataSetVersion].characterData = [
     img: "KKUktsT.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       collab: true,   
       boy: true
     }
@@ -412,7 +442,7 @@ dataSet[dataSetVersion].characterData = [
     img: "YnAgljf.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       collab: true,
       girl: true
     }
@@ -422,7 +452,7 @@ dataSet[dataSetVersion].characterData = [
     img: "qDiF1vt.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       collab: true,
       girl: true
     }
@@ -432,7 +462,7 @@ dataSet[dataSetVersion].characterData = [
     img: "9Sl4bCW.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       collab: true,
       girl: true
     }
@@ -442,9 +472,45 @@ dataSet[dataSetVersion].characterData = [
     img: "G5tyLuT.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       collab: true,
       girl: true
+    }
+  },
+  {
+    name: "Llyn Rhon",
+    img: "bQfBgvi.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      girl: true
+    }
+  },
+  {
+    name: "Zaleska VI",
+    img: "s8lJS7N.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      girl: true
+    }
+  },  
+  {
+    name: "Trașcă",
+    img: "qKQlkV9.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      boy: true
+    }
+  },  
+  {
+    name: "Lup",
+    img: "cFwpYxZ.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      boy: true
     }
   },
   {
@@ -452,7 +518,7 @@ dataSet[dataSetVersion].characterData = [
     img: "otKjqTA.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       girl: true
     }
   },
@@ -461,16 +527,28 @@ dataSet[dataSetVersion].characterData = [
     img: "BYaL9LE.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       nb: true
     }
+  },
+  {
+    name: "Majin",
+    img: "ve2hkqv.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      sec: true,
+      girl: true
+    }
   },  
+
+// EARTHLING SAGA - EARTHCROSS SUPPORT
   {
     name: "Annis Doyle",
     img: "OzweKXy.png",
     opts: {
       series: [ "SC", "OS" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
@@ -480,7 +558,7 @@ dataSet[dataSetVersion].characterData = [
     img: "jRKnpTT.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       tri: true,
       girl: true
     }
@@ -490,7 +568,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Zic8puo.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       collab: true,
       tri: true,
       girl: true
@@ -501,7 +579,7 @@ dataSet[dataSetVersion].characterData = [
     img: "eYtj43O.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
@@ -511,26 +589,17 @@ dataSet[dataSetVersion].characterData = [
     img: "31UQBjZ.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
   },      
   {
-    name: "Blackbird",
-    img: "uUuvVDj.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "EC" ],
-      nb: true
-    }
-  },
-  {
     name: "Chaaya Yen",
     img: "br2PEX7.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
@@ -540,7 +609,7 @@ dataSet[dataSetVersion].characterData = [
     img: "ucAPgSO.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
@@ -550,7 +619,7 @@ dataSet[dataSetVersion].characterData = [
     img: "lyv2qsj.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
@@ -560,7 +629,7 @@ dataSet[dataSetVersion].characterData = [
     img: "tFcreDC.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
@@ -570,7 +639,7 @@ dataSet[dataSetVersion].characterData = [
     img: "lE0Hovd.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
@@ -580,7 +649,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Sa2yjQI.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
@@ -590,7 +659,7 @@ dataSet[dataSetVersion].characterData = [
     img: "8iUUKUB.png",
     opts: {
       series: [ "SC", "FAN" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       collab: true,
       sec: true,
       girl: true
@@ -601,27 +670,17 @@ dataSet[dataSetVersion].characterData = [
     img: "dmWpeRi.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
   },  
   {
-    name: "Frankie Flick",
-    img: "hVe9GWW.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "EC" ],
-      sec: true,
-      girl: true
-    }
-  },
-  {
     name: "Galvani Zima",
     img: "pqltnSS.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       boy: true
     }
@@ -631,7 +690,7 @@ dataSet[dataSetVersion].characterData = [
     img: "zX6U77e.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
@@ -641,7 +700,7 @@ dataSet[dataSetVersion].characterData = [
     img: "OXEBKqp.png",
     opts: {
       series: [ "SC", "OS" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
@@ -651,7 +710,7 @@ dataSet[dataSetVersion].characterData = [
     img: "B1SGMmU.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       collab: true,
       sec: true,
       girl: true
@@ -662,7 +721,7 @@ dataSet[dataSetVersion].characterData = [
     img: "jMcuVb7.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       nb: true
     }
@@ -672,7 +731,7 @@ dataSet[dataSetVersion].characterData = [
     img: "ZW8ovpx.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
@@ -682,7 +741,7 @@ dataSet[dataSetVersion].characterData = [
     img: "q5TEh9b.png",
     opts: {
       series: [ "SC", "OS" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
@@ -692,7 +751,7 @@ dataSet[dataSetVersion].characterData = [
     img: "aXToi7R.png",
     opts: {
       series: [ "SC", "OS" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
@@ -702,7 +761,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Jy0ZcGu.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       tri: true,
       girl: true
     }
@@ -712,7 +771,7 @@ dataSet[dataSetVersion].characterData = [
     img: "mywgLPT.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
@@ -722,7 +781,7 @@ dataSet[dataSetVersion].characterData = [
     img: "bum16SA.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       tri: true,
       nb: true
     }
@@ -732,7 +791,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Ubrr0zK.png",
     opts: {
       series: [ "SC", "FAN" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
@@ -742,7 +801,7 @@ dataSet[dataSetVersion].characterData = [
     img: "A8mPsm1.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       collab: true,
       sec: true,
       boy: true
@@ -753,7 +812,7 @@ dataSet[dataSetVersion].characterData = [
     img: "KUiLKJg.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       boy: true
     }
@@ -763,7 +822,7 @@ dataSet[dataSetVersion].characterData = [
     img: "k9Z51QR.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
@@ -773,7 +832,7 @@ dataSet[dataSetVersion].characterData = [
     img: "GwVsR8C.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       nb: true
     }
@@ -783,7 +842,7 @@ dataSet[dataSetVersion].characterData = [
     img: "S6uV0g3.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       nb: true
     }
@@ -793,26 +852,17 @@ dataSet[dataSetVersion].characterData = [
     img: "aief3Xt.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
   },  
   {
-    name: "Llyn Rhon",
-    img: "bQfBgvi.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "EC" ],
-      girl: true
-    }
-  },
-  {
     name: "Lorraine Cofer",
     img: "Yu2Imnz.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "KA", "EC" ],      
+      agency: [ "ES", "KA", "EC" ],      
       sec: true,
       girl: true
     }
@@ -822,45 +872,17 @@ dataSet[dataSetVersion].characterData = [
     img: "bU0gFpI.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
   }, 
-  {
-    name: "Lup",
-    img: "cFwpYxZ.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "EC" ],
-      boy: true
-    }
-  },      
-  {
-    name: "Maisie Hatchett",
-    img: "t3pp6XF.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "EC" ],
-      girl: true
-    }
-  }, 
-  {
-    name: "Majin",
-    img: "ve2hkqv.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "EC" ],
-      sec: true,
-      girl: true
-    }
-  },
   {
     name: "Marina Petrou",
     img: "OYW6DAv.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
@@ -870,7 +892,7 @@ dataSet[dataSetVersion].characterData = [
     img: "uF01pQp.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
@@ -880,7 +902,7 @@ dataSet[dataSetVersion].characterData = [
     img: "LYWzowA.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],      
+      agency: [ "ES", "EC" ],      
       sec: true,
       girl: true
     }
@@ -890,7 +912,7 @@ dataSet[dataSetVersion].characterData = [
     img: "dRQmZmY.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
@@ -900,7 +922,7 @@ dataSet[dataSetVersion].characterData = [
     img: "SLUQKFr.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
@@ -910,7 +932,7 @@ dataSet[dataSetVersion].characterData = [
     img: "4JVG73B.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       boy: true
     }
@@ -920,18 +942,9 @@ dataSet[dataSetVersion].characterData = [
     img: "bjec6TX.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
-    }
-  },    
-  {
-    name: "Trașcă",
-    img: "qKQlkV9.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "EC" ],
-      boy: true
     }
   },    
   {
@@ -939,7 +952,7 @@ dataSet[dataSetVersion].characterData = [
     img: "uciboXK.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
@@ -949,7 +962,7 @@ dataSet[dataSetVersion].characterData = [
     img: "6kdEBa0.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
@@ -959,7 +972,7 @@ dataSet[dataSetVersion].characterData = [
     img: "aglviXx.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
@@ -969,7 +982,7 @@ dataSet[dataSetVersion].characterData = [
     img: "xUQqpuo.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
@@ -979,7 +992,7 @@ dataSet[dataSetVersion].characterData = [
     img: "z1nsC7f.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
@@ -989,7 +1002,7 @@ dataSet[dataSetVersion].characterData = [
     img: "JLnUC5y.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       tri: true,
       girl: true
     }
@@ -999,7 +1012,7 @@ dataSet[dataSetVersion].characterData = [
     img: "lDJXfb5.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       tri: true,
       girl: true
     }
@@ -1009,7 +1022,7 @@ dataSet[dataSetVersion].characterData = [
     img: "a9gSEB3.png",
     opts: {
       series: [ "SC", "FAN" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       girl: true
     }
   },  
@@ -1018,27 +1031,18 @@ dataSet[dataSetVersion].characterData = [
     img: "7q1k50q.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       sec: true,
       girl: true
     }
   },    
-  {
-    name: "Zaleska VI",
-    img: "s8lJS7N.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "EC" ],
-      girl: true
-    }
-  },
    // EARTHLING SAGA - EARTHCROSS MISCELLANY
   {
     name: "Agnes Hatchett",
     img: "PYmPvTL.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       tri: true,
       girl: true
     }
@@ -1048,7 +1052,7 @@ dataSet[dataSetVersion].characterData = [
     img: "yPpR2yh.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       tri: true,
       girl: true
     }
@@ -1058,7 +1062,7 @@ dataSet[dataSetVersion].characterData = [
     img: "U0wyFad.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],      
+      agency: [ "ES", "EC" ],      
       extra: true,
       nb: true
     }
@@ -1068,7 +1072,7 @@ dataSet[dataSetVersion].characterData = [
     img: "z88CW5h.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "KA" ],
+      agency: [ "ES", "KA" ],
       tri: true,
       girl: true
     }
@@ -1078,7 +1082,7 @@ dataSet[dataSetVersion].characterData = [
     img: "TFuBcSe.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       tri: true,
       girl: true
     }
@@ -1088,7 +1092,7 @@ dataSet[dataSetVersion].characterData = [
     img: "p7SZ4mx.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       tri: true,
       boy: true
     }
@@ -1098,7 +1102,7 @@ dataSet[dataSetVersion].characterData = [
     img: "qIqwMpQ.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       tri: true,
       girl: true
     }
@@ -1108,7 +1112,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Km46cYi.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       tri: true,
       girl: true
     }
@@ -1118,7 +1122,7 @@ dataSet[dataSetVersion].characterData = [
     img: "B3GX96e.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "KA" ],      
+      agency: [ "ES", "KA" ],      
       tri: true,
       girl: true
     }
@@ -1128,7 +1132,7 @@ dataSet[dataSetVersion].characterData = [
     img: "NHWj5Eb.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],      
+      agency: [ "ES", "EC" ],      
       extra: true,
       girl: true
     }
@@ -1138,7 +1142,7 @@ dataSet[dataSetVersion].characterData = [
     img: "LAvneBm.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       tri: true,
       girl: true
     }
@@ -1148,7 +1152,7 @@ dataSet[dataSetVersion].characterData = [
     img: "zppbaZr.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       tri: true,
       girl: true
     }
@@ -1158,7 +1162,7 @@ dataSet[dataSetVersion].characterData = [
     img: "8ceDxWW.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       tri: true,
       boy: true
     }
@@ -1168,7 +1172,7 @@ dataSet[dataSetVersion].characterData = [
     img: "8ngUfp6.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       tri: true,
       nb: true
     }
@@ -1178,7 +1182,7 @@ dataSet[dataSetVersion].characterData = [
     img: "ZMNOaWo.png",
     opts: {
       series: [ "SC", "FAN" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       tri: true,
       boy: true
     }
@@ -1188,7 +1192,7 @@ dataSet[dataSetVersion].characterData = [
     img: "TPyqay3.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       collab: true,
       tri: true,
       girl: true
@@ -1199,7 +1203,7 @@ dataSet[dataSetVersion].characterData = [
     img: "sbgQ91w.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "KA", "EC" ],
+      agency: [ "ES", "KA", "EC" ],
       tri: true,
       nb: true
     }
@@ -1209,7 +1213,7 @@ dataSet[dataSetVersion].characterData = [
     img: "VuyBqmV.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       tri: true,
       nb: true
     }
@@ -1219,7 +1223,7 @@ dataSet[dataSetVersion].characterData = [
     img: "sstQ9XY.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "KA" ],      
+      agency: [ "ES", "KA" ],      
       extra: true,
       girl: true
     }
@@ -1229,7 +1233,7 @@ dataSet[dataSetVersion].characterData = [
     img: "PYmPvTL.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       tri: true,
       boy: true
     }
@@ -1239,18 +1243,28 @@ dataSet[dataSetVersion].characterData = [
     img: "7aRknrD.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "EC" ],
+      agency: [ "ES", "EC" ],
       tri: true,
       girl: true
     }
   },  
    // EARTHLING SAGA - STARCROSS MISCELLANY
   {
+    name: "Brood Eater",
+    img: "waKd9om.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "BR" ],
+      tri: true,
+      nb: true
+    }
+  },   
+  {
     name: "Bull",
     img: "C7y3kb5.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "SC" ],
+      agency: [ "ES", "BR" ],
       tri: true,
       nb: true
     }
@@ -1260,7 +1274,7 @@ dataSet[dataSetVersion].characterData = [
     img: "nVSmqnK.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "SC" ],
+      agency: [ "ES", "SC" ],
       tri: true,
       girl: true
     }
@@ -1270,7 +1284,7 @@ dataSet[dataSetVersion].characterData = [
     img: "FRxOgCk.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "BR" ],      
+      agency: [ "ES", "BR" ],      
       extra: true,
       nb: true
     }
@@ -1280,7 +1294,7 @@ dataSet[dataSetVersion].characterData = [
     img: "b7h6Gd2.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "SC" ],
+      agency: [ "ES", "BR" ],
       tri: true,
       nb: true
     }
@@ -1290,7 +1304,7 @@ dataSet[dataSetVersion].characterData = [
     img: "rSafeVV.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "SC" ],
+      agency: [ "ES", "SC", "BR" ],
       tri: true,
       nb: true
     }
@@ -1300,7 +1314,7 @@ dataSet[dataSetVersion].characterData = [
     img: "gdU2ykD.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "BR" ],      
+      agency: [ "ES", "BR" ],      
       extra: true,
       nb: true
     }
@@ -1311,7 +1325,7 @@ dataSet[dataSetVersion].characterData = [
     img: "d8LfSKu.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC", "FC" ],      
+      agency: [ "SeS", "HC", "FC" ],      
       nb: true
     }
   },
@@ -1320,7 +1334,7 @@ dataSet[dataSetVersion].characterData = [
     img: "OYzQ3To.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC", "FC" ],      
+      agency: [ "SeS", "HC", "FC" ],      
       nb: true
     }
   },
@@ -1329,7 +1343,7 @@ dataSet[dataSetVersion].characterData = [
     img: "UiH6CCU.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC" ],      
+      agency: [ "SeS", "HC" ],      
       girl: true
     }
   },
@@ -1338,7 +1352,7 @@ dataSet[dataSetVersion].characterData = [
     img: "sCBuxzI.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC" ],      
+      agency: [ "SeS", "HC" ],      
       girl: true
     }
   },
@@ -1347,7 +1361,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Co8zTeU.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC", "FC" ],      
+      agency: [ "SeS", "HC", "FC" ],      
       girl: true
     }
   },
@@ -1356,7 +1370,7 @@ dataSet[dataSetVersion].characterData = [
     img: "7hvpj96.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC", "FC" ],      
+      agency: [ "SeS", "HC", "FC" ],      
       girl: true
     }
   },
@@ -1365,7 +1379,7 @@ dataSet[dataSetVersion].characterData = [
     img: "y9YsGGw.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC", "FC" ],      
+      agency: [ "SeS", "HC", "FC" ],      
       girl: true
     }
   },
@@ -1374,7 +1388,7 @@ dataSet[dataSetVersion].characterData = [
     img: "ilWJqhd.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC" ],      
+      agency: [ "SeS", "HC" ],      
       girl: true
     }
   },
@@ -1383,7 +1397,7 @@ dataSet[dataSetVersion].characterData = [
     img: "b4rzkye.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC", "FC" ],      
+      agency: [ "SeS", "HC", "FC" ],      
       girl: true
     }
   },
@@ -1392,7 +1406,7 @@ dataSet[dataSetVersion].characterData = [
     img: "PTHDHKH.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC", "FC" ],      
+      agency: [ "SeS", "HC", "FC" ],      
       girl: true
     }
   },
@@ -1401,7 +1415,7 @@ dataSet[dataSetVersion].characterData = [
     img: "fAlzuPG.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC", "FC" ],
+      agency: [ "SeS", "HC", "FC" ],
       girl: true
     }
   },
@@ -1410,7 +1424,7 @@ dataSet[dataSetVersion].characterData = [
     img: "UgOKrWu.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC", "FC" ],      
+      agency: [ "SeS", "HC", "FC" ],      
       girl: true
     }
   },
@@ -1419,7 +1433,7 @@ dataSet[dataSetVersion].characterData = [
     img: "5IZfgF9.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC", "FC" ],      
+      agency: [ "SeS", "HC", "FC" ],      
       girl: true
     }
   },
@@ -1428,7 +1442,7 @@ dataSet[dataSetVersion].characterData = [
     img: "pdOgWiL.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC", "FC" ],      
+      agency: [ "SeS", "HC", "FC" ],      
       girl: true
     }
   },
@@ -1437,7 +1451,7 @@ dataSet[dataSetVersion].characterData = [
     img: "WYvQLzQ.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC", "FC" ],      
+      agency: [ "SeS", "HC", "FC" ],      
       girl: true
     }
   },
@@ -1446,7 +1460,7 @@ dataSet[dataSetVersion].characterData = [
     img: "sWn9b8k.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC", "FC", "NS" ],      
+      agency: [ "SeS", "HC", "FC", "NS" ],      
       girl: true
     }
   },
@@ -1455,7 +1469,7 @@ dataSet[dataSetVersion].characterData = [
     img: "BeVmgbL.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC", "FC", "NS" ],      
+      agency: [ "SeS", "HC", "FC", "NS" ],      
       girl: true
     }
   },
@@ -1464,7 +1478,7 @@ dataSet[dataSetVersion].characterData = [
     img: "4QL458Q.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC", "FC" ],      
+      agency: [ "SeS", "HC", "FC" ],      
       nb: true
     }
   },
@@ -1473,7 +1487,7 @@ dataSet[dataSetVersion].characterData = [
     img: "YAzO1ob.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "FC", "NS" ],      
+      agency: [ "SeS", "FC", "NS" ],      
       boy: true
     }
   },
@@ -1482,7 +1496,7 @@ dataSet[dataSetVersion].characterData = [
     img: "WCFuBEG.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC", "FC", "NS" ],      
+      agency: [ "SeS", "HC", "FC", "NS" ],      
       girl: true
     }
   }, 
@@ -1492,7 +1506,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Rwo8yA5.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC" ],      
+      agency: [ "SeS", "HC" ],      
       tri: true,
       girl: true
     }
@@ -1502,7 +1516,7 @@ dataSet[dataSetVersion].characterData = [
     img: "kyO29nH.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC" ],      
+      agency: [ "SeS", "HC" ],      
       sec: true,
       girl: true
     }
@@ -1512,7 +1526,7 @@ dataSet[dataSetVersion].characterData = [
     img: "HnBfVyN.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC" ],
+      agency: [ "SeS", "HC" ],
       sec: true,
       girl: true
     }
@@ -1522,7 +1536,7 @@ dataSet[dataSetVersion].characterData = [
     img: "q8tjGI9.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC" ],      
+      agency: [ "SeS", "HC" ],      
       tri: true,
       girl: true
     }
@@ -1532,7 +1546,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Viugorr.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC" ],
+      agency: [ "SeS", "HC" ],
       tri: true,
       girl: true
     }
@@ -1542,7 +1556,7 @@ dataSet[dataSetVersion].characterData = [
     img: "3eSp0by.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC" ],      
+      agency: [ "SeS", "HC" ],      
       tri: true,
       nb: true
     }
@@ -1552,7 +1566,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Pw1KcV0.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "FC" ],      
+      agency: [ "SeS", "FC" ],      
       tri: true,
       nb: true
     }
@@ -1562,7 +1576,7 @@ dataSet[dataSetVersion].characterData = [
     img: "FCjXLco.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "FC" ],      
+      agency: [ "SeS", "FC" ],      
       tri: true,
       nb: true
     }
@@ -1572,7 +1586,7 @@ dataSet[dataSetVersion].characterData = [
     img: "hdv2tN0.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC" ],
+      agency: [ "SeS", "HC" ],
       sec: true,
       girl: true
     }
@@ -1582,7 +1596,7 @@ dataSet[dataSetVersion].characterData = [
     img: "onxMXAF.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC" ],      
+      agency: [ "SeS", "HC" ],      
       tri: true,
       girl: true
     }
@@ -1592,7 +1606,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Uo7ETaH.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC" ],      
+      agency: [ "SeS", "HC" ],      
       tri: true,
       girl: true
     }
@@ -1602,7 +1616,7 @@ dataSet[dataSetVersion].characterData = [
     img: "6SDr5vh.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC" ],      
+      agency: [ "SeS", "HC" ],      
       sec: true,
       girl: true
     }
@@ -1612,7 +1626,7 @@ dataSet[dataSetVersion].characterData = [
     img: "4PJ0iT4.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC" ],      
+      agency: [ "SeS", "HC" ],      
       tri: true,
       girl: true
     }
@@ -1622,7 +1636,7 @@ dataSet[dataSetVersion].characterData = [
     img: "FizpMpu.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC" ],      
+      agency: [ "SeS", "HC" ],      
       sec: true,
       girl: true
     }
@@ -1632,7 +1646,7 @@ dataSet[dataSetVersion].characterData = [
     img: "30Xc4da.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC" ],      
+      agency: [ "SeS", "HC" ],      
       sec: true,
       girl: true
     }
@@ -1643,7 +1657,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Wmor0Gy.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC", "FC" ],      
+      agency: [ "SeS", "HC", "FC" ],      
       sec: true,
       girl: true
     }
@@ -1653,7 +1667,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Iq7beuc.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC", "FC", "NS" ],      
+      agency: [ "SeS", "HC", "FC", "NS" ],      
       tri: true,
       girl: true
     }
@@ -1663,7 +1677,7 @@ dataSet[dataSetVersion].characterData = [
     img: "fT64PH5.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "FC" ],      
+      agency: [ "SeS", "FC" ],      
       sec: true,
       nb: true
     }
@@ -1673,7 +1687,7 @@ dataSet[dataSetVersion].characterData = [
     img: "LXTtDSh.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "FC" ],      
+      agency: [ "SeS", "FC", "BR" ],      
       tri: true,
       nb: true
     }
@@ -1683,7 +1697,7 @@ dataSet[dataSetVersion].characterData = [
     img: "kwowfsc.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "FC" ],      
+      agency: [ "SeS", "FC" ],      
       sec: true,
       nb: true
     }
@@ -1693,7 +1707,7 @@ dataSet[dataSetVersion].characterData = [
     img: "8uOrYq9.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "FC" ],      
+      agency: [ "SeS", "FC", "BR" ],      
       tri: true,
       nb: true
     }
@@ -1703,7 +1717,7 @@ dataSet[dataSetVersion].characterData = [
     img: "nnV1Tb1.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC" ],      
+      agency: [ "SeS", "HC" ],      
       sec: true,
       girl: true
     }
@@ -1713,7 +1727,7 @@ dataSet[dataSetVersion].characterData = [
     img: "PM6OQAS.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC", "FC" ],      
+      agency: [ "SeS", "HC", "FC" ],      
       sec: true,
       girl: true
     }
@@ -1724,7 +1738,7 @@ dataSet[dataSetVersion].characterData = [
     img: "4r8wIUf.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC" ],      
+      agency: [ "SeS", "HC" ],      
       sec: true,
       girl: true
     }
@@ -1734,7 +1748,7 @@ dataSet[dataSetVersion].characterData = [
     img: "AL12EJc.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC", "FC" ],      
+      agency: [ "SeS", "HC", "FC" ],      
       sec: true,
       girl: true
     }
@@ -1744,7 +1758,7 @@ dataSet[dataSetVersion].characterData = [
     img: "3CarV02.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC" ],      
+      agency: [ "SeS", "HC" ],      
       sec: true,
       girl: true
     }
@@ -1754,7 +1768,7 @@ dataSet[dataSetVersion].characterData = [
     img: "vm1hFcg.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC" ],      
+      agency: [ "SeS", "HC" ],      
       tri: true,
       girl: true
     }
@@ -1764,7 +1778,7 @@ dataSet[dataSetVersion].characterData = [
     img: "9yMYMSl.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC" ],      
+      agency: [ "SeS", "HC" ],      
       tri: true,
       nb: true
     }
@@ -1774,7 +1788,7 @@ dataSet[dataSetVersion].characterData = [
     img: "a1O9Z8i.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC", "FC" ],      
+      agency: [ "SeS", "HC", "FC" ],      
       sec: true,
       girl: true
     }
@@ -1784,7 +1798,7 @@ dataSet[dataSetVersion].characterData = [
     img: "l4EfyRc.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC" ],      
+      agency: [ "SeS", "HC" ],      
       tri: true,
       girl: true
     }
@@ -1794,7 +1808,7 @@ dataSet[dataSetVersion].characterData = [
     img: "qiJNMxz.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC" ],      
+      agency: [ "SeS", "HC" ],      
       sec: true,
       girl: true
     }
@@ -1804,7 +1818,7 @@ dataSet[dataSetVersion].characterData = [
     img: "YoQApuF.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC" ],      
+      agency: [ "SeS", "HC" ],      
       sec: true,
       girl: true
     }
@@ -1815,7 +1829,7 @@ dataSet[dataSetVersion].characterData = [
     img: "llMGytI.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC" ],      
+      agency: [ "SeS", "HC" ],      
       extra: true,
       girl: true
     }
@@ -1825,7 +1839,7 @@ dataSet[dataSetVersion].characterData = [
     img: "69Uzepj.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC" ],      
+      agency: [ "SeS", "HC" ],      
       extra: true,
       girl: true
     }
@@ -1835,7 +1849,7 @@ dataSet[dataSetVersion].characterData = [
     img: "hIUXfDn.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "HC" ],      
+      agency: [ "SeS", "HC" ],      
       extra: true,
       girl: true
     }
@@ -1845,7 +1859,7 @@ dataSet[dataSetVersion].characterData = [
     img: "uUnXUtx.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "BR" ],      
+      agency: [ "SeS", "BR" ],      
       tri: true,
       girl: true
     }
@@ -1855,7 +1869,7 @@ dataSet[dataSetVersion].characterData = [
     img: "rrtu2kb.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "BR" ],      
+      agency: [ "SeS", "BR" ],      
       tri: true,
       nb: true
     }
@@ -1865,7 +1879,7 @@ dataSet[dataSetVersion].characterData = [
     img: "oBXaGoV.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "BR" ],      
+      agency: [ "SeS", "BR" ],      
       tri: true,
       nb: true
     }
@@ -1875,7 +1889,7 @@ dataSet[dataSetVersion].characterData = [
     img: "ysHqNRw.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "BR" ],      
+      agency: [ "SeS", "BR" ],      
       extra: true,
       boy: true
     }
@@ -1886,7 +1900,7 @@ dataSet[dataSetVersion].characterData = [
     img: "xc5l8yy.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],     
+      agency: [ "SeS", "NS" ],     
       girl: true
     }
   },  
@@ -1895,7 +1909,7 @@ dataSet[dataSetVersion].characterData = [
     img: "xoYO0DX.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],
+      agency: [ "SeS", "NS" ],
       girl: true
     }
   },
@@ -1904,7 +1918,7 @@ dataSet[dataSetVersion].characterData = [
     img: "aqPAmRF.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],
+      agency: [ "SeS", "NS" ],
       sec: true,
       girl: true
     }
@@ -1914,7 +1928,7 @@ dataSet[dataSetVersion].characterData = [
     img: "zlWDCby.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],
+      agency: [ "SeS", "NS" ],
       boy: true
     }
   }, 
@@ -1923,7 +1937,7 @@ dataSet[dataSetVersion].characterData = [
     img: "qr6wAKA.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],      
+      agency: [ "SeS", "NS" ],      
       sec: true,
       boy: true
     }
@@ -1933,7 +1947,7 @@ dataSet[dataSetVersion].characterData = [
     img: "nsLzmj2.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],      
+      agency: [ "SeS", "NS" ],      
       sec: true,
       boy: true
     }
@@ -1943,7 +1957,7 @@ dataSet[dataSetVersion].characterData = [
     img: "PZ0E9Gi.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],      
+      agency: [ "SeS", "NS" ],      
       sec: true,
       boy: true
     }
@@ -1953,7 +1967,7 @@ dataSet[dataSetVersion].characterData = [
     img: "YejfX82.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],      
+      agency: [ "SeS", "NS" ],      
       sec: true,
       boy: true
     }
@@ -1963,7 +1977,7 @@ dataSet[dataSetVersion].characterData = [
     img: "ShnoJeA.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],
+      agency: [ "SeS", "NS" ],
       sec: true,
       girl: true
     }
@@ -1973,7 +1987,7 @@ dataSet[dataSetVersion].characterData = [
     img: "A5h3S13.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],      
+      agency: [ "SeS", "NS" ],      
       sec: true,
       girl: true
     }
@@ -1983,7 +1997,7 @@ dataSet[dataSetVersion].characterData = [
     img: "uQr56BB.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],      
+      agency: [ "SeS", "NS" ],      
       sec: true,
       boy: true
     }
@@ -1993,7 +2007,7 @@ dataSet[dataSetVersion].characterData = [
     img: "CzsLMJf.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],      
+      agency: [ "SeS", "NS" ],      
       sec: true,
       boy: true
     }
@@ -2004,7 +2018,7 @@ dataSet[dataSetVersion].characterData = [
     img: "aQ9iHva.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],      
+      agency: [ "SeS", "NS" ],      
       sec: true,
       boy: true
     }
@@ -2014,7 +2028,7 @@ dataSet[dataSetVersion].characterData = [
     img: "7JR487u.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],      
+      agency: [ "SeS", "NS" ],      
       tri: true,
       nb: true
     }
@@ -2024,7 +2038,7 @@ dataSet[dataSetVersion].characterData = [
     img: "32a7ewS.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],      
+      agency: [ "SeS", "NS" ],      
       tri: true,
       girl: true
     }
@@ -2034,7 +2048,7 @@ dataSet[dataSetVersion].characterData = [
     img: "5cPlK0P.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],      
+      agency: [ "SeS", "NS" ],      
       sec: true,
       girl: true
     }
@@ -2044,7 +2058,7 @@ dataSet[dataSetVersion].characterData = [
     img: "NtWvyst.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],      
+      agency: [ "SeS", "NS" ],      
       tri: true,
       girl: true
     }
@@ -2054,7 +2068,7 @@ dataSet[dataSetVersion].characterData = [
     img: "A4iY15B.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],      
+      agency: [ "SeS", "NS" ],      
       tri: true,
       girl: true
     }
@@ -2064,7 +2078,7 @@ dataSet[dataSetVersion].characterData = [
     img: "OpSQMLB.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],      
+      agency: [ "SeS", "NS" ],      
       tri: true,
       girl: true
     }
@@ -2074,7 +2088,7 @@ dataSet[dataSetVersion].characterData = [
     img: "cxz5kyL.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],      
+      agency: [ "SeS", "NS" ],      
       sec: true,
       boy: true
     }
@@ -2084,7 +2098,7 @@ dataSet[dataSetVersion].characterData = [
     img: "pWHm3xt.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],      
+      agency: [ "SeS", "NS" ],      
       sec: true,
       girl: true
     }
@@ -2094,7 +2108,7 @@ dataSet[dataSetVersion].characterData = [
     img: "dXVfB9V.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],      
+      agency: [ "SeS", "NS" ],      
       sec: true,
       girl: true
     }
@@ -2104,7 +2118,7 @@ dataSet[dataSetVersion].characterData = [
     img: "AAd9iSd.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],      
+      agency: [ "SeS", "NS" ],      
       tri: true,
       boy: true
     }
@@ -2114,7 +2128,7 @@ dataSet[dataSetVersion].characterData = [
     img: "dyQefX3.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],      
+      agency: [ "SeS", "NS" ],      
       tri: true,
       boy: true
     }
@@ -2124,7 +2138,7 @@ dataSet[dataSetVersion].characterData = [
     img: "kTmqTxP.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],      
+      agency: [ "SeS", "NS" ],      
       sec: true,
       boy: true
     }
@@ -2134,7 +2148,7 @@ dataSet[dataSetVersion].characterData = [
     img: "n45R1PK.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],      
+      agency: [ "SeS", "NS" ],      
       tri: true,
       boy: true
     }
@@ -2144,7 +2158,7 @@ dataSet[dataSetVersion].characterData = [
     img: "rSTbLGL.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],      
+      agency: [ "SeS", "NS" ],      
       sec: true,
       boy: true
     }
@@ -2155,7 +2169,7 @@ dataSet[dataSetVersion].characterData = [
     img: "xv16b2P.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],      
+      agency: [ "SeS", "NS" ],      
       tri: true,
       girl: true
     }
@@ -2165,7 +2179,7 @@ dataSet[dataSetVersion].characterData = [
     img: "ZRIltHW.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "BR" ],      
+      agency: [ "SeS", "BR" ],      
       extra: true,
       nb: true
     }
@@ -2175,7 +2189,7 @@ dataSet[dataSetVersion].characterData = [
     img: "prNJcqt.png",
     opts: {
       series: [ "SC" ],
-      agency: [ "NS" ],      
+      agency: [ "SeS", "NS" ],      
       tri: true,
       boy: true
     }
