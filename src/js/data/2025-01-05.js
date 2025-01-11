@@ -2358,7 +2358,7 @@ dataSet[dataSetVersion].characterData = [
   // BACKWOODS BESTIARY - EXTRA
   {
     name: "Cornu",
-    img: "aHdwHhb.png",
+    img: "r3KReVT.png",
     opts: {
       series: [ "BB", "NC" ],
       tri: true,
