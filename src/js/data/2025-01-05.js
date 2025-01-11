@@ -757,6 +757,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Jack Grue",
+    img: "jtYxC8L.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      sec: true,
+      boy: true
+    }
+  },    
+  {
     name: "The Jack Rabbit",
     img: "Jy0ZcGu.png",
     opts: {
