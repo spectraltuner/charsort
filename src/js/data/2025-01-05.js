@@ -524,7 +524,17 @@ dataSet[dataSetVersion].characterData = [
       agency: [ "EC" ],
       nb: true
     }
-  },    
+  },
+  {
+    name: "Chaaya Yen",
+    img: "br2PEX7.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "EC" ],
+      sec: true,
+      girl: true
+    }
+  },      
   {
     name: "Cheat Noguera",
     img: "ucAPgSO.png",
