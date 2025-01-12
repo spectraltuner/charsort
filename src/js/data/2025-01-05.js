@@ -2285,6 +2285,15 @@ dataSet[dataSetVersion].characterData = [
     }
   }, 
   {
+    name: "Hazel Fauchet",
+    img: "gqGUq1r.png",
+    opts: {
+      series: [ "BB" ],
+      sec: true,
+      girl: true
+    }
+  },  
+  {
     name: "Ilya Bakhtin",
     img: "8s7v4dI.png",
     opts: {
