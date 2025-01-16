@@ -718,7 +718,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Hasu-douji",
-    img: "jMcuVb7.png",
+    img: "PxVhtBL.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -959,7 +959,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Ume Maeda",
-    img: "uciboXK.png",
+    img: "6RHV2hx.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
