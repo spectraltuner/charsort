@@ -707,7 +707,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Hanna Graeber",
-    img: "B1SGMmU.png",
+    img: "2ANSejE.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -1248,6 +1248,16 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   },    
+  {
+    name: "White Hat",
+    img: "01yqe2b.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      tri: true,
+      nb: true
+    }
+  },      
   {
     name: "Yinjiao",
     img: "7aRknrD.png",
