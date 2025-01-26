@@ -371,7 +371,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Maisie Hatchett",
-    img: "fTpm3xx.png",
+    img: "qjhAJOR.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
