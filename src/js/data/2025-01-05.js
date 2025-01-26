@@ -409,7 +409,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ronja",
-    img: "1DsSHFf.png",
+    img: "scN3Qzq.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],      
@@ -707,7 +707,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Hanna Graeber",
-    img: "2ANSejE.png",
+    img: "BERl8sJ.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
