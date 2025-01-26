@@ -371,7 +371,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Maisie Hatchett",
-    img: "t3pp6XF.png",
+    img: "fTpm3xx.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -399,7 +399,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "Lucia Tofte",
-    img: "S1tki17.png",
+    img: "iWd9erL.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],      
