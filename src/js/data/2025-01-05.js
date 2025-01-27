@@ -593,7 +593,17 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       girl: true
     }
-  },      
+  },
+  {
+    name: "Blue Hat",
+    img: "Fq0G8r9.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      sec: true,
+      girl: true
+    }
+  },
   {
     name: "Chaaya Yen",
     img: "br2PEX7.png",
