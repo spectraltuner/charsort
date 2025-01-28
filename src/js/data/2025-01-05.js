@@ -1019,11 +1019,11 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Witch of Ways",
-    img: "JLnUC5y.png",
+    img: "yGAiSpw.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
-      tri: true,
+      sec: true,
       girl: true
     }
   },  
