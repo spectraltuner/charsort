@@ -788,7 +788,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Jade Huo",
-    img: "mywgLPT.png",
+    img: "Tm4NN30.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
