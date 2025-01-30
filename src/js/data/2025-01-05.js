@@ -808,7 +808,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Jiālù Móu",
-    img: "rur8uSN.png",
+    img: "JKiU7x9.png",
     opts: {
       series: [ "SC", "FAN" ],
       agency: [ "ES", "EC" ],
