@@ -788,7 +788,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Jade Huo",
-    img: "Tm4NN30.png",
+    img: "jNntNRv.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -808,7 +808,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Jiālù Móu",
-    img: "Ubrr0zK.png",
+    img: "rur8uSN.png",
     opts: {
       series: [ "SC", "FAN" ],
       agency: [ "ES", "EC" ],
