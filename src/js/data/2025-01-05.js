@@ -3288,15 +3288,6 @@ dataSet[dataSetVersion].characterData = [
       boy: true  
     }
   },
-  {
-    name: "Yvette la Croix",
-    img: "LDfHO2c.png",
-    opts: {
-      series: [ "OS" ],
-      tri: true,      
-      girl: true  
-    }
-  },    
 
   // NIGHTMARES
   {
