@@ -2528,7 +2528,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Celeste Veiga",
-    img: "QeoCokp.png",
+    img: "60ZhJMC.png",
     opts: {
       series: [ "SK" ],
       collab: true,
