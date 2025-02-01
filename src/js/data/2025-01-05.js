@@ -677,7 +677,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ethel Hahn",
-    img: "dmWpeRi.png",
+    img: "ZuIk6mb.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
