@@ -2531,7 +2531,6 @@ dataSet[dataSetVersion].characterData = [
     img: "60ZhJMC.png",
     opts: {
       series: [ "SK" ],
-      collab: true,
       girl: true
     }
   },
