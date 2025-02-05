@@ -135,7 +135,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Sabrina Trenchard (Ceres)",
-    img: "3Lf7cEG.png",
+    img: "jBR0e0M.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "SeS", "SC", "HC", "FC" ],      
