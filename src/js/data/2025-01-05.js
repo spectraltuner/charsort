@@ -576,7 +576,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Báiyǔ",
-    img: "eYtj43O.png",
+    img: "i1Uls2S.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -2528,7 +2528,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Celeste Veiga",
-    img: "R2zDrG2.png",
+    img: "JtXeIIm.png",
     opts: {
       series: [ "SK" ],
       girl: true
