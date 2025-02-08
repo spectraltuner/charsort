@@ -162,7 +162,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Anya Kimura",
-    img: "7HB3Hkv.png",
+    img: "JUXjtJI.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "KA" ],      
