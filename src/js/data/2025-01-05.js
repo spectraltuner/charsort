@@ -1668,6 +1668,7 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SC" ],
       agency: [ "SeS", "HC" ],      
       sec: true,
+      collab: true,
       girl: true
     }
   },
@@ -1678,6 +1679,7 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SC" ],
       agency: [ "SeS", "HC" ],      
       sec: true,
+      collab: true,
       girl: true
     }
   },
