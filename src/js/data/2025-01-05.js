@@ -1663,7 +1663,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hexenn",
-    img: "FizpMpu.png",
+    img: "qJpCOT8.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SeS", "HC" ],      
@@ -1974,7 +1974,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ain Koth",
-    img: "nsLzmj2.png",
+    img: "3f92Jl4.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SeS", "NS" ],      
