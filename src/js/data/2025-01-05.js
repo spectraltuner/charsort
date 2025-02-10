@@ -1663,7 +1663,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hexenn",
-    img: "qJpCOT8.png",
+    img: "EEtdA9v.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SeS", "HC" ],      
