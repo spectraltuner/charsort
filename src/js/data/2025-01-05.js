@@ -899,7 +899,7 @@ dataSet[dataSetVersion].characterData = [
   }, 
   {
     name: "Marina Petrou",
-    img: "OYW6DAv.png",
+    img: "VIeIA7t.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
