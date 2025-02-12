@@ -707,7 +707,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Hanami Yako",
-    img: "OXEBKqp.png",
+    img: "jNbc93I.png",
     opts: {
       series: [ "SC", "OS" ],
       agency: [ "ES", "EC" ],
