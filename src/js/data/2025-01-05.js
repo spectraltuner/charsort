@@ -153,7 +153,7 @@ dataSet[dataSetVersion].characterData = [
   },   
   {
     name: "Ángeles Reyes",
-    img: "91vyndw.png",
+    img: "rIQcHie.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "KA", "EC" ],      
@@ -182,7 +182,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Neptune",
-    img: "5mgAdpt.png",
+    img: "xyhvrWx.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "SC", "KA", "EC" ],
