@@ -666,7 +666,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Emileigh Ruck",
-    img: "8iUUKUB.png",
+    img: "Znk5DYL.png",
     opts: {
       series: [ "SC", "FAN" ],
       agency: [ "ES", "EC" ],
