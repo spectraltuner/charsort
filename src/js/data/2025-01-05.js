@@ -1706,7 +1706,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Logos (Sentinel)",
-    img: "fT64PH5.png",
+    img: "NGr94jT.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SeS", "FC" ],      
@@ -1716,7 +1716,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Logos (Silhouette)",
-    img: "LXTtDSh.png",
+    img: "4VZUwsF.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SeS", "FC", "BR" ],      
