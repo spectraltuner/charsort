@@ -3235,6 +3235,15 @@ dataSet[dataSetVersion].characterData = [
       girl: true  
     }
   },      
+  {
+    name: "Smoking Mirror",
+    img: "Q7a6DTy.png",
+    opts: {
+      series: [ "OS" ],
+      tri: true,      
+      girl: true  
+    }
+  },        
 {
     name: "Priscilla Bray",
     img: "AnfhJAO.png",
