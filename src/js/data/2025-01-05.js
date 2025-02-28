@@ -2026,7 +2026,7 @@ dataSet[dataSetVersion].characterData = [
   },            
   {
     name: "Sabal Sciène",
-    img: "uQr56BB.png",
+    img: "a4vyNei.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SeS", "NS" ],      
