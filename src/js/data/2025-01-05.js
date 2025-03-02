@@ -2563,7 +2563,7 @@ dataSet[dataSetVersion].characterData = [
   }, 
   {
     name: "Suzu Igarashi",
-    img: "hC3EAVe.png",
+    img: "67qdM4l.png",
     opts: {
       series: [ "SK", "FAN" ],
       girl: true
