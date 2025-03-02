@@ -144,7 +144,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hanael (Observer)",
-    img: "cFLf9cS.png",
+    img: "6kDhDJp.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "SeS", "SC", "HC", "FC" ],      
@@ -312,7 +312,7 @@ dataSet[dataSetVersion].characterData = [
   },   
   {
     name: "Satariel (Warden)",
-    img: "KGVqMqw.png",
+    img: "kAVhTjq.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "SeS", "SC", "HC", "FC" ],
