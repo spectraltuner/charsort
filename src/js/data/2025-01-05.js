@@ -2520,7 +2520,7 @@ dataSet[dataSetVersion].characterData = [
   // SUICIDE KINGS - NON-CONTESTANTS
   {
     name: "Ageha Ōta",
-    img: "LSaCVNB.png",
+    img: "vPE1lvC.png",
     opts: {
       series: [ "SK" ],
       collab: true,
