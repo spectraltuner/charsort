@@ -2263,7 +2263,7 @@ dataSet[dataSetVersion].characterData = [
   // BACKWOODS BESTIARY - SUPPORT
   {
     name: "Brie",
-    img: "BE7s0kg.png",
+    img: "aA9uh0U.png",
     opts: {
       series: [ "BB", "FAN" ],
       tri: true,
