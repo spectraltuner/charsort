@@ -2829,7 +2829,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Nobu Nogama",
-    img: "vOzQUDL.png",
+    img: "EzGMbjt.png",
     opts: {
       series: [ "STR" ],
       collab: true,
