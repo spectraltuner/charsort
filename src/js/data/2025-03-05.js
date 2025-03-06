@@ -3129,6 +3129,15 @@ dataSet[dataSetVersion].characterData = [
 
   // OTHER SETTINGS
   {
+    name: "Calikin",
+    img: "DtfwYmW.png",
+    opts: {
+      series: [ "OS" ],
+      sec: true,
+      nb: true
+    }
+  },  
+  {
     name: "Moose",
     img: "9KStfZF.png",
     opts: {
