@@ -1260,7 +1260,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Thomas Hatchett",
-    img: "PYmPvTL.png",
+    img: "yubvCWG.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
