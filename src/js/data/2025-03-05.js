@@ -2262,6 +2262,15 @@ dataSet[dataSetVersion].characterData = [
   },
   // BACKWOODS BESTIARY - SUPPORT
   {
+    name: "Bella",
+    img: "2kDxsuf.png",
+    opts: {
+      series: [ "BB" ],
+      tri: true,      
+      girl: true  
+    }
+  },
+  {
     name: "Brie",
     img: "aA9uh0U.png",
     opts: {
@@ -2332,7 +2341,16 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       boy: true
     }
-  },  
+  },
+  {
+    name: "Monantzin",
+    img: "lNJrJAg.png",
+    opts: {
+      series: [ "BB" ],
+      tri: true,      
+      girl: true  
+    }
+  },       
   {
     name: "Morra",
     img: "yLQIrjd.png",
@@ -2361,10 +2379,19 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Smoking Mirror",
+    img: "Q7a6DTy.png",
+    opts: {
+      series: [ "OS" ],
+      tri: true,      
+      girl: true  
+    }
+  },  
+  {
     name: "Specter",
     img: "VulyHVp.png",
     opts: {
-      series: [ "BB", "OS" ],
+      series: [ "BB" ],
       sec: true,
       girl: true
     }
@@ -2398,6 +2425,15 @@ dataSet[dataSetVersion].characterData = [
   },
   // BACKWOODS BESTIARY - EXTRA
   {
+    name: "Big Mama Brisket",
+    img: "RmXL14y.png",
+    opts: {
+      series: [ "BB" ],
+      tri: true,      
+      girl: true  
+    }
+  },
+  {
     name: "Cornu",
     img: "r3KReVT.png",
     opts: {
@@ -2406,6 +2442,24 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
+  {
+    name: "Dead Princess",
+    img: "JrmCjkH.png",
+    opts: {
+      series: [ "BB" ],
+      tri: true,      
+      girl: true  
+    }
+  },    
+  {
+    name: "Infinity Coil",
+    img: "NcNv5Oa.png",
+    opts: {
+      series: [ "BB" ],
+      tri: true,      
+      girl: true  
+    }
+  },    
   {
     name: "Trema",
     img: "Klp2Gpw.png",
@@ -3209,60 +3263,6 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
-  {
-    name: "Bella",
-    img: "2kDxsuf.png",
-    opts: {
-      series: [ "OS" ],
-      tri: true,      
-      girl: true  
-    }
-  },
-  {
-    name: "Big Mama Brisket",
-    img: "RmXL14y.png",
-    opts: {
-      series: [ "OS" ],
-      tri: true,      
-      girl: true  
-    }
-  },
-  {
-    name: "Infinity Coil",
-    img: "NcNv5Oa.png",
-    opts: {
-      series: [ "OS" ],
-      tri: true,      
-      girl: true  
-    }
-  },  
-  {
-    name: "Dead Princess",
-    img: "JrmCjkH.png",
-    opts: {
-      series: [ "OS" ],
-      tri: true,      
-      girl: true  
-    }
-  },
-  {
-    name: "Monantzin",
-    img: "lNJrJAg.png",
-    opts: {
-      series: [ "OS" ],
-      tri: true,      
-      girl: true  
-    }
-  },      
-  {
-    name: "Smoking Mirror",
-    img: "Q7a6DTy.png",
-    opts: {
-      series: [ "OS" ],
-      tri: true,      
-      girl: true  
-    }
-  },        
 {
     name: "Priscilla Bray",
     img: "AnfhJAO.png",
