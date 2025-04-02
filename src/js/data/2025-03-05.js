@@ -1088,16 +1088,6 @@ dataSet[dataSetVersion].characterData = [
     }
   }, 
   {
-    name: "Estrid the White Hat",
-    img: "01yqe2b.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "ES", "EC" ],
-      tri: true,
-      nb: true
-    }
-  },
-  {
     name: "Eun-jae Baek",
     img: "z88CW5h.png",
     opts: {
@@ -1267,7 +1257,17 @@ dataSet[dataSetVersion].characterData = [
       tri: true,
       boy: true
     }
-  },    
+  },
+  {
+    name: "White Hat Estrid",
+    img: "01yqe2b.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      tri: true,
+      nb: true
+    }
+  },  
   {
     name: "Yinjiao",
     img: "7aRknrD.png",
