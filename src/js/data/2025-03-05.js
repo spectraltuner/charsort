@@ -616,7 +616,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "Cheat Noguera",
-    img: "ucAPgSO.png",
+    img: "QIiYLyg.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -2833,7 +2833,17 @@ dataSet[dataSetVersion].characterData = [
       spec: true,
       sec: true
     }
-  },  
+  },
+  {
+    name: "Harvest",
+    img: "w3UN4mk.png",
+    opts: {
+      series: [ "STR" ],
+      boy: true,
+      spec: true,
+      sec: true
+    }
+  },    
   {
     name: "Callie Hemlock",
     img: "YXGv40Q.png",
