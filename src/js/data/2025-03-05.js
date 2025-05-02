@@ -2892,6 +2892,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Incubus",
+    img: "yTnHtU0.png",
+    opts: {
+      series: [ "STR" ],
+      sec: true,
+      boy: true
+    }
+  }, 
+  {
     name: "Marie",
     img: "phTM9eg.png",
     opts: {
