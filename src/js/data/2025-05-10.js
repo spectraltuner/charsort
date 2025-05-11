@@ -3212,7 +3212,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Desperado Mustang",
-    img: "H5nRLh6.png",
+    img: "2rorNmC.png",
     opts: {
       series: [ "OS" ],
       tri: true,
