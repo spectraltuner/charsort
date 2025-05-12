@@ -361,7 +361,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Frankie Flick",
-    img: "hVe9GWW.png",
+    img: "U0p3zL5.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -2592,7 +2592,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Dominique Lumi",
-    img: "ovN7PDz.png",
+    img: "XjC02T5.png",
     opts: {
       series: [ "SK", "OS" ],
       sec: true,
