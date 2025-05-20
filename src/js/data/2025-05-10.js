@@ -2853,6 +2853,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Mana",
+    img: "unq7tM0.png",
+    opts: {
+      series: [ "STR" ],
+      collab: true,
+      girl: true,
+      sec: true
+    }
+  },
+  {
     name: "Ceraxia Brightblessed",
     img: "G9RSWWO.png",
     opts: {
