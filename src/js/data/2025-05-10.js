@@ -2853,12 +2853,24 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Myr",
+    img: "YJMNowM.png",
+    opts: {
+      series: [ "STR" ],
+      collab: true,
+      girl: true,
+      nb: true,
+      spec: true
+    }
+  },  
+  {
     name: "Mana",
     img: "unq7tM0.png",
     opts: {
       series: [ "STR" ],
       collab: true,
       girl: true,
+      spec: true,
       sec: true
     }
   },
