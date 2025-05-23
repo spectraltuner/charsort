@@ -2905,7 +2905,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Evelyn Albright",
-    img: "LBbovOH.png",
+    img: "bBEPLVi.png",
     opts: {
       series: [ "STR" ],
       collab: true,
@@ -3229,12 +3229,21 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "OS" ],
       sec: true,
-      nb: true
+      girl: true
     }
   },  
   {
     name: "Desperado Mustang",
     img: "2rorNmC.png",
+    opts: {
+      series: [ "OS" ],
+      tri: true,
+      girl: true
+    }
+  },    
+  {
+    name: "Mimi Moreyn",
+    img: "qHsRFn9.png",
     opts: {
       series: [ "OS" ],
       tri: true,
