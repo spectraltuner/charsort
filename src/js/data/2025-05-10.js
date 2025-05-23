@@ -2905,7 +2905,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Evelyn Albright",
-    img: "htwHNIg.png",
+    img: "LBbovOH.png",
     opts: {
       series: [ "STR" ],
       collab: true,
