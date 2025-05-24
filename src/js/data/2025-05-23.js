@@ -3076,7 +3076,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Mimi Moreyn",
-    img: "qHsRFn9.png",
+    img: "k2D4sb7.png",
     opts: {
       series: [ "MGW" ],
       tri: true,
