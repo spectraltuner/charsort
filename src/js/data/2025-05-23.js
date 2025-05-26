@@ -2934,6 +2934,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Ridley Harriet",
+    img: "2vGe60y.png",
+    opts: {
+      series: [ "STR" ],
+      collab: true,
+      sec: true,
+      boy: true
+    }
+  },
+  {
     name: "Sage the Qwine",
     img: "sDrx4gY.png",
     opts: {
@@ -3369,7 +3379,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Yvette la Croix",
-    img: "LDfHO2c.png",
+    img: "cTBNrEk.png",
     opts: {
       series: [ "OS" ],
       tri: true,      
