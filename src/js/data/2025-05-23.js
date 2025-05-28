@@ -2828,7 +2828,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Callie Hemlock",
-    img: "YXGv40Q.png",
+    img: "QzLjF2H.png",
     opts: {
       series: [ "STR" ],
       girl: true
