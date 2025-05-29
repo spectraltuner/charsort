@@ -2807,7 +2807,7 @@ dataSet[dataSetVersion].characterData = [
 
   // STRAYS
   {
-    name: "Char Belladonna",
+    name: "Char",
     img: "9r4F0uB.png",
     opts: {
       series: [ "STR" ],
@@ -2827,7 +2827,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
-    name: "Callie Hemlock",
+    name: "Callie",
     img: "QzLjF2H.png",
     opts: {
       series: [ "STR" ],
