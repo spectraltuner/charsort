@@ -2808,7 +2808,7 @@ dataSet[dataSetVersion].characterData = [
   // STRAYS
   {
     name: "Char",
-    img: "9r4F0uB.png",
+    img: "eaKI9dG.png",
     opts: {
       series: [ "STR" ],
       nb: true,
