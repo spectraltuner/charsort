@@ -2841,18 +2841,16 @@ dataSet[dataSetVersion].characterData = [
       series: [ "STR" ],
       collab: true,
       girl: true,
-      spec: true,
-      sec: true
+      spec: true
     }
   },
   {
     name: "Charlotte",
-    img: "276VrAG.png",
+    img: "l2Fdtjg.png",
     opts: {
       series: [ "STR", "OS" ],
       girl: true,
-      spec: true,
-      sec: true
+      spec: true
     }
   },
   {
