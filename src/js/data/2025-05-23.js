@@ -3236,6 +3236,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "OS" ],
       girl: true,
+      sec: true,
       spec: true
     }
   },  
@@ -3245,6 +3246,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "OS" ],
       girl: true,
+      sec: true,
       spec: true
     }
   },      
