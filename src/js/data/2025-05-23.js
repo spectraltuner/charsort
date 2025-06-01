@@ -2854,6 +2854,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Busy Bee",
+    img: "mBKn3ik.png",
+    opts: {
+      series: [ "STR", "OS" ],
+      girl: true,
+      tri: true,
+      spec: true
+    }
+  },  
+  {
     name: "Ceraxia Brightblessed",
     img: "G9RSWWO.png",
     opts: {
