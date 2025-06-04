@@ -3219,6 +3219,15 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
+  {
+    name: "Murrain",
+    img: "D2hQPUD.png",
+    opts: {
+      series: [ "FAN" ],
+      extra: true,
+      girl: true
+    }
+  },  
 
   // OTHER SETTINGS
   {
