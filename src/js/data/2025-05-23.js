@@ -736,8 +736,18 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       nb: true
     }
-  },  
-    {
+  },
+  {
+    name: "The Headhunter",
+    img: "p7SZ4mx.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      tri: true,
+      boy: true
+    }
+  },   
+  {
     name: "The Houndsman (Gwyn)",
     img: "ZW8ovpx.png",
     opts: {
@@ -1009,6 +1019,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "White Hat Estrid Sonnenspeer",
+    img: "01yqe2b.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      sec: true,
+      nb: true
+    }
+  },    
+  {
     name: "The White Rabbit",
     img: "z1nsC7f.png",
     opts: {
@@ -1096,16 +1116,6 @@ dataSet[dataSetVersion].characterData = [
       agency: [ "ES", "EC" ],
       tri: true,
       girl: true
-    }
-  },  
-  {
-    name: "The Headhunter",
-    img: "p7SZ4mx.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "ES", "EC" ],
-      tri: true,
-      boy: true
     }
   },  
   {
@@ -1249,16 +1259,6 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   },
-  {
-    name: "White Hat Estrid Sonnenspeer",
-    img: "01yqe2b.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "ES", "EC" ],
-      tri: true,
-      nb: true
-    }
-  },  
   {
     name: "Yinjiao",
     img: "7aRknrD.png",
@@ -3224,10 +3224,19 @@ dataSet[dataSetVersion].characterData = [
     img: "D2hQPUD.png",
     opts: {
       series: [ "FAN" ],
-      extra: true,
+      tri: true,
       girl: true
     }
-  },  
+  },
+  {
+    name: "Widow",
+    img: "mdvREgG.png",
+    opts: {
+      series: [ "FAN" ],
+      tri: true,
+      girl: true
+    }
+  },    
 
   // OTHER SETTINGS
   {
