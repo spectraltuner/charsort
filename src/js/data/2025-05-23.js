@@ -2943,7 +2943,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Oleander",
-    img: "eSOSmnA.png",
+    img: "lX1A02P.png",
     opts: {
       series: [ "STR" ],
       girl: true,
