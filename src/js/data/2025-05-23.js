@@ -2942,6 +2942,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Oleander",
+    img: "eSOSmnA.png",
+    opts: {
+      series: [ "STR" ],
+      girl: true,
+      sec: true,
+      spec: true
+    }
+  },
+  {
     name: "Ridley Harriet",
     img: "2vGe60y.png",
     opts: {
@@ -3268,16 +3278,6 @@ dataSet[dataSetVersion].characterData = [
       spec: true
     }
   },  
-  {
-    name: "Oleander",
-    img: "eSOSmnA.png",
-    opts: {
-      series: [ "OS" ],
-      girl: true,
-      sec: true,
-      spec: true
-    }
-  },      
   {
     name: "Lyka",
     img: "J5V4boG.png",
