@@ -3086,10 +3086,9 @@ dataSet[dataSetVersion].characterData = [
   // MAGICAL GIRL WARS
   {
     name: "Calikin",
-    img: "DtfwYmW.png",
+    img: "VO6NK39.png",
     opts: {
       series: [ "MGW", "STR" ],
-      sec: true,
       girl: true
     }
   },  
