@@ -3354,7 +3354,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Priscilla Bray",
     img: "AnfhJAO.png",
     opts: {
-      series: [ "OS" ],
+      series: [ "OS", "STR" ],
       sec: true,      
       girl: true  
     }
