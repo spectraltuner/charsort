@@ -2952,6 +2952,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Reina Duquette",
+    img: "QjsuQVa.png",
+    opts: {
+      series: [ "STR" ],
+      collab: true,
+      girl: true,
+      sec: true
+    }
+  },  
+  {
     name: "Ridley Harriet",
     img: "2vGe60y.png",
     opts: {
