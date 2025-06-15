@@ -3110,7 +3110,16 @@ dataSet[dataSetVersion].characterData = [
       tri: true,
       girl: true
     }
-  },    
+  },
+  {
+    name: "Mani Rinder (Black Ice Verglas)",
+    img: "17Le6BS.png",
+    opts: {
+      series: [ "MGW" ],
+      tri: true,
+      girl: true
+    }
+  },      
   {
     name: "Mimi Moreyn",
     img: "k2D4sb7.png",
