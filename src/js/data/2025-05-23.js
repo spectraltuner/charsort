@@ -1415,7 +1415,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mastema",
-    img: "b4rzkye.png",
+    img: "d6Gagez.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SeS", "HC", "FC" ],      
