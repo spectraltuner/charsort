@@ -3424,6 +3424,24 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Ankou",
+    img: "tgxeuEj.png",
+    opts: {
+      series: [ "OS" ],
+      tri: true,      
+      girl: true  
+    }
+  },  
+  {
+    name: "Apple Princess",
+    img: "ItYOhVU.png",
+    opts: {
+      series: [ "OS" ],
+      tri: true,      
+      girl: true  
+    }
+  },
+  {
     name: "Furciferet; or, Dragon",
     img: "iFgGTL7.png",
     opts: {
@@ -3440,7 +3458,16 @@ dataSet[dataSetVersion].characterData = [
       tri: true,      
       girl: true  
     }
-  },    
+  },
+  {
+    name: "Zephyresse",
+    img: "xOBG33r.png",
+    opts: {
+      series: [ "OS" ],
+      tri: true,      
+      girl: true  
+    }
+  },
 
   // NIGHTMARES
   {
