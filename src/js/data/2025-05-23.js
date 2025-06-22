@@ -3424,6 +3424,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Furciferet; or, Dragon",
+    img: "iFgGTL7.png",
+    opts: {
+      series: [ "OS" ],
+      tri: true,      
+      girl: true  
+    }
+  },      
+  {
     name: "Yvette la Croix",
     img: "cTBNrEk.png",
     opts: {
