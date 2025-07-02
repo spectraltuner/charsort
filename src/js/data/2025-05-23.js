@@ -3449,7 +3449,16 @@ dataSet[dataSetVersion].characterData = [
       tri: true,      
       girl: true  
     }
-  },      
+  },
+{
+    name: "Lucifell",
+    img: "MXshbyA.png",
+    opts: {
+      series: [ "OS", "NC" ],
+      sec: true,
+      girl: true
+    }
+  },  
   {
     name: "Yvette la Croix",
     img: "cTBNrEk.png",
@@ -3559,7 +3568,7 @@ dataSet[dataSetVersion].characterData = [
       tri: true,
       nb: true
     }
-  },     
+  },
   {
     name: "Peek",
     img: "JsiDaq9.png",
