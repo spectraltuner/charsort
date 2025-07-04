@@ -3442,6 +3442,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Berwyn",
+    img: "vq75LSI.png",
+    opts: {
+      series: [ "OS" ],
+      tri: true,      
+      nb: true  
+    }
+  },  
+  {
     name: "Furciferet; or, Dragon",
     img: "iFgGTL7.png",
     opts: {
