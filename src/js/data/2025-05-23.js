@@ -525,7 +525,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alhazred",
-    img: "BYaL9LE.png",
+    img: "cQYjt8x.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -951,6 +951,16 @@ dataSet[dataSetVersion].characterData = [
   {
     name: "The Phouka",
     img: "SLUQKFr.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      sec: true,
+      girl: true
+    }
+  },
+  {
+    name: "Samantha",
+    img: "NmBys45.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -3389,7 +3399,7 @@ dataSet[dataSetVersion].characterData = [
   },
 {
     name: "The Rumbler",
-    img: "K6eQycv.png",
+    img: "oJBn6jU.png",
     opts: {
       series: [ "OS", "STR" ],
       sec: true,      
@@ -3448,6 +3458,15 @@ dataSet[dataSetVersion].characterData = [
       series: [ "OS" ],
       tri: true,      
       nb: true  
+    }
+  },
+  {
+    name: "Caliyin",
+    img: "MgBP8Et.png",
+    opts: {
+      series: [ "OS" ],
+      tri: true,      
+      girl: true  
     }
   },  
   {
