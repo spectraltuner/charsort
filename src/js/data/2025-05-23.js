@@ -1994,7 +1994,17 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       boy: true
     }
-  },      
+  },
+  {
+    name: "Endalyn",
+    img: "IEbQbSP.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "SeS", "NS" ],      
+      sec: true,
+      boy: true
+    }
+  },  
   {
     name: "Iaon Kenoma",
     img: "YejfX82.png",
@@ -2993,7 +3003,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Suyasuya",
-    img: "ZB8VnEV.png",
+    img: "nkmthyP.png",
     opts: {
       series: [ "STR" ],
       collab: true,
@@ -3003,7 +3013,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Sybaris",
-    img: "vfW2U6t.png",
+    img: "P2Y2oXf.png",
     opts: {
       series: [ "STR" ],
       collab: true,
