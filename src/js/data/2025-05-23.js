@@ -3000,6 +3000,16 @@ dataSet[dataSetVersion].characterData = [
       nb: true,
       spec: true
     }
+  },
+  {
+    name: "Seasaidh",
+    img: "C7Ra1ny.png",
+    opts: {
+      series: [ "STR" ],
+      collab: true,
+      sec: true,
+      girl: true
+    }
   },  
   {
     name: "Suyasuya",
