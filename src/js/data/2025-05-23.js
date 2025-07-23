@@ -597,7 +597,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Blue Hat",
-    img: "Fq0G8r9.png",
+    img: "dESTOpI.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -1190,7 +1190,7 @@ dataSet[dataSetVersion].characterData = [
   }, 
  {
     name: "Nikolaos Petrou",
-    img: "8ceDxWW.png",
+    img: "pTFevTR.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -2218,8 +2218,8 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Asta",
-    img: "ZRIltHW.png",
+    name: "Asta the Undertaker",
+    img: "q72v1B3.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SeS", "BR" ],      
@@ -3141,6 +3141,15 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
+  {
+    name: "Gallant Destrier",
+    img: "YPK7wgJ.png",
+    opts: {
+      series: [ "MGW" ],
+      tri: true,
+      girl: true
+    }
+  },  
   {
     name: "Mani Rinder (Black Ice Verglas)",
     img: "17Le6BS.png",
