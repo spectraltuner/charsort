@@ -479,6 +479,26 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Blue Hat",
+    img: "dESTOpI.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      sec: true,
+      girl: true
+    }
+  },
+  {
+    name: "The Witch of Ways",
+    img: "yGAiSpw.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      sec: true,
+      girl: true
+    }
+  },  
+  {
     name: "Llyn Rhon",
     img: "bQfBgvi.png",
     opts: {
@@ -534,7 +554,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Majin",
-    img: "ve2hkqv.png",
+    img: "fUUSN9u.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -588,16 +608,6 @@ dataSet[dataSetVersion].characterData = [
   {
     name: "Belle Hawthorne",
     img: "31UQBjZ.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "ES", "EC" ],
-      sec: true,
-      girl: true
-    }
-  },
-  {
-    name: "Blue Hat",
-    img: "dESTOpI.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -839,8 +849,8 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "The Kathardi Butcher (Harper Lorey)",
-    img: "KUiLKJg.png",
+    name: "The Kathardi Butcher",
+    img: "95f5fuc.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -964,6 +974,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
+      collab: true,
       sec: true,
       girl: true
     }
@@ -1048,16 +1059,6 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
-  {
-    name: "The Witch of Ways",
-    img: "yGAiSpw.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "ES", "EC" ],
-      sec: true,
-      girl: true
-    }
-  },  
   {
     name: "Ysabel Donnadieu",
     img: "lDJXfb5.png",
