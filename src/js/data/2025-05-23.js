@@ -430,7 +430,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Teddy Worth (Sense)",
-    img: "KKUktsT.png",
+    img: "T6KwjfO.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -490,7 +490,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Witch of Ways",
-    img: "yGAiSpw.png",
+    img: "nxv63up.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -759,7 +759,7 @@ dataSet[dataSetVersion].characterData = [
   },   
   {
     name: "The Houndsman (Gwyn)",
-    img: "ZW8ovpx.png",
+    img: "zSKd0SB.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
