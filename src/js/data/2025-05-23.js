@@ -1516,7 +1516,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Logos Prime",
-    img: "YAzO1ob.png",
+    img: "LC7dU1U.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SeS", "FC", "NS" ],      
@@ -1525,7 +1525,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Sige Lenore",
-    img: "WCFuBEG.png",
+    img: "eqMwSus.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SeS", "HC", "FC", "NS" ],      
