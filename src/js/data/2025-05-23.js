@@ -1041,7 +1041,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "White Hat Estrid Sonnenspeer",
-    img: "01yqe2b.png",
+    img: "XFDq85M.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
