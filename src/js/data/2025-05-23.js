@@ -1120,6 +1120,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Felicity Boerio",
+    img: "yDJGQCk.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      tri: true,
+      girl: true
+    }
+  },  
+  {
     name: "Free",
     img: "TFuBcSe.png",
     opts: {
