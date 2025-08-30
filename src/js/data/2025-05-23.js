@@ -616,6 +616,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Black Hat (Pandora)",
+    img: "LSBpsgU.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      sec: true,
+      girl: true
+    }
+  },  
+  {
     name: "Chaaya Yen",
     img: "br2PEX7.png",
     opts: {
