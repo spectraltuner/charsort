@@ -708,7 +708,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Galvani Zima",
-    img: "pqltnSS.png",
+    img: "HUQwtBt.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
