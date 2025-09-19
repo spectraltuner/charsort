@@ -2275,7 +2275,16 @@ dataSet[dataSetVersion].characterData = [
       series: [ "BB" ],
       girl: true
     }
-  },     
+  },
+{
+    name: "Lucifell",
+    img: "MXshbyA.png",
+    opts: {
+      series: [ "BB", "NC" ],
+      sec: true,
+      girl: true
+    }
+  },  
   {
     name: "Ekaterina Bakhtin",
     img: "FFVKdFW.png",
@@ -2294,6 +2303,24 @@ dataSet[dataSetVersion].characterData = [
   },
   // BACKWOODS BESTIARY - SUPPORT
   {
+    name: "Ankou",
+    img: "tgxeuEj.png",
+    opts: {
+      series: [ "BB" ],
+      tri: true,      
+      girl: true  
+    }
+  },  
+  {
+    name: "Apple Princess",
+    img: "ItYOhVU.png",
+    opts: {
+      series: [ "BB" ],
+      tri: true,      
+      girl: true  
+    }
+  },  
+  {
     name: "Bella",
     img: "2kDxsuf.png",
     opts: {
@@ -2302,6 +2329,15 @@ dataSet[dataSetVersion].characterData = [
       girl: true  
     }
   },
+  {
+    name: "Berwyn",
+    img: "vq75LSI.png",
+    opts: {
+      series: [ "BB" ],
+      tri: true,      
+      nb: true  
+    }
+  },  
   {
     name: "Brie",
     img: "aA9uh0U.png",
@@ -2330,6 +2366,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Caliyin",
+    img: "MgBP8Et.png",
+    opts: {
+      series: [ "BB" ],
+      tri: true,      
+      girl: true  
+    }
+  },  
+  {
     name: "The Captain",
     img: "CGr50gd.png",
     opts: {
@@ -2339,6 +2384,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Cornu",
+    img: "r3KReVT.png",
+    opts: {
+      series: [ "BB", "NC" ],
+      tri: true,
+      girl: true
+    }
+  },  
+  {
     name: "Erlich Kacht",
     img: "nWb0uZF.png",
     opts: {
@@ -2347,6 +2401,15 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   }, 
+  {
+    name: "Furciferet; or, Dragon",
+    img: "iFgGTL7.png",
+    opts: {
+      series: [ "BB" ],
+      tri: true,      
+      girl: true  
+    }
+  },
   {
     name: "Hazel Fauchet",
     img: "gqGUq1r.png",
@@ -2414,7 +2477,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Smoking Mirror",
     img: "Q7a6DTy.png",
     opts: {
-      series: [ "OS" ],
+      series: [ "BB" ],
       tri: true,      
       girl: true  
     }
@@ -2455,6 +2518,24 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
+  {
+    name: "Yvette la Croix",
+    img: "cTBNrEk.png",
+    opts: {
+      series: [ "BB" ],
+      tri: true,      
+      girl: true  
+    }
+  },
+  {
+    name: "Zephyresse",
+    img: "xOBG33r.png",
+    opts: {
+      series: [ "BB" ],
+      tri: true,      
+      girl: true  
+    }
+  },  
   // BACKWOODS BESTIARY - EXTRA
   {
     name: "Big Mama Brisket",
@@ -2463,15 +2544,6 @@ dataSet[dataSetVersion].characterData = [
       series: [ "BB" ],
       tri: true,      
       girl: true  
-    }
-  },
-  {
-    name: "Cornu",
-    img: "r3KReVT.png",
-    opts: {
-      series: [ "BB", "NC" ],
-      tri: true,
-      girl: true
     }
   },
   {
@@ -3189,7 +3261,25 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },      
-
+  {
+    name: "Black Licorice (Edie Coster)",
+    img: "bDsTYaG.png",
+    opts: {
+      series: [ "MGW", "OS" ],
+      tri: true,      
+      girl: true  
+    }
+  },
+  {
+    name: "Heroine (Noah Mason)",
+    img: "93pfn0y.png",
+    opts: {
+      series: [ "MGW", "OS" ],
+      tri: true,      
+      boy: true  
+    }
+  },
+  
   // FAN CHARACTERS
  {
     name: "Felicia Mink",
@@ -3457,102 +3547,12 @@ dataSet[dataSetVersion].characterData = [
     }
   },   
   {
-    name: "Black Licorice (Edie Coster)",
-    img: "bDsTYaG.png",
-    opts: {
-      series: [ "OS" ],
-      tri: true,      
-      girl: true  
-    }
-  },
-  {
-    name: "Heroine (Noah Mason)",
-    img: "93pfn0y.png",
-    opts: {
-      series: [ "OS" ],
-      tri: true,      
-      boy: true  
-    }
-  },
-  {
     name: "Crossroads Killer",
     img: "2C9gE9r.png",
     opts: {
       series: [ "OS" ],
       tri: true,      
       boy: true  
-    }
-  },
-  {
-    name: "Ankou",
-    img: "tgxeuEj.png",
-    opts: {
-      series: [ "OS" ],
-      tri: true,      
-      girl: true  
-    }
-  },  
-  {
-    name: "Apple Princess",
-    img: "ItYOhVU.png",
-    opts: {
-      series: [ "OS" ],
-      tri: true,      
-      girl: true  
-    }
-  },
-  {
-    name: "Berwyn",
-    img: "vq75LSI.png",
-    opts: {
-      series: [ "OS" ],
-      tri: true,      
-      nb: true  
-    }
-  },
-  {
-    name: "Caliyin",
-    img: "MgBP8Et.png",
-    opts: {
-      series: [ "OS" ],
-      tri: true,      
-      girl: true  
-    }
-  },  
-  {
-    name: "Furciferet; or, Dragon",
-    img: "iFgGTL7.png",
-    opts: {
-      series: [ "OS" ],
-      tri: true,      
-      girl: true  
-    }
-  },
-{
-    name: "Lucifell",
-    img: "MXshbyA.png",
-    opts: {
-      series: [ "OS", "NC" ],
-      sec: true,
-      girl: true
-    }
-  },  
-  {
-    name: "Yvette la Croix",
-    img: "cTBNrEk.png",
-    opts: {
-      series: [ "OS" ],
-      tri: true,      
-      girl: true  
-    }
-  },
-  {
-    name: "Zephyresse",
-    img: "xOBG33r.png",
-    opts: {
-      series: [ "OS" ],
-      tri: true,      
-      girl: true  
     }
   },
 
