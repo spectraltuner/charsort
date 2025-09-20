@@ -2959,7 +2959,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Charlotte",
-    img: "l2Fdtjg.png",
+    img: "Ffq0uny.png",
     opts: {
       series: [ "STR", "OS" ],
       girl: true,
@@ -3272,7 +3272,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Heroine (Noah Mason)",
-    img: "93pfn0y.png",
+    img: "Sp0HRFh.png",
     opts: {
       series: [ "MGW", "OS" ],
       tri: true,      
