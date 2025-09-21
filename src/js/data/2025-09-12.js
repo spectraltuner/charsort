@@ -1473,7 +1473,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Sariel",
-    img: "UgOKrWu.png",
+    img: "pG3cFAn.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SeS", "HC", "FC" ],      
@@ -3086,7 +3086,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Sage the Qwine",
-    img: "sDrx4gY.png",
+    img: "fUNmTOA.png",
     opts: {
       series: [ "STR" ],
       sec: true,
