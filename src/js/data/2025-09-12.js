@@ -2402,10 +2402,19 @@ dataSet[dataSetVersion].characterData = [
     }
   }, 
   {
+    name: "Father Sun",
+    img: "FRx6Jw4.png",
+    opts: {
+      series: [ "BB" ],
+      tri: true,
+      boy: true
+    }
+  },   
+  {
     name: "Furciferet; or, Dragon",
     img: "iFgGTL7.png",
     opts: {
-      series: [ "BB" ],
+      series: [ "BB", "OS" ],
       tri: true,      
       girl: true  
     }
