@@ -3257,7 +3257,7 @@ dataSet[dataSetVersion].characterData = [
     img: "17Le6BS.png",
     opts: {
       series: [ "MGW" ],
-      tri: true,
+      sec: true,
       girl: true
     }
   },      
@@ -3266,10 +3266,19 @@ dataSet[dataSetVersion].characterData = [
     img: "k2D4sb7.png",
     opts: {
       series: [ "MGW" ],
-      tri: true,
+      sec: true,
       girl: true
     }
-  },      
+  },     
+  {
+    name: "Lightningrod",
+    img: "shEcI4d.png",
+    opts: {
+      series: [ "MGW" ],
+      sec: true,      
+      nb: true  
+    }
+  },  
   {
     name: "Black Licorice (Edie Coster)",
     img: "bDsTYaG.png",
