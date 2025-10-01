@@ -2708,7 +2708,6 @@ dataSet[dataSetVersion].characterData = [
     img: "XjC02T5.png",
     opts: {
       series: [ "SK", "MGW" ],
-      sec: true,
       girl: true
     }
   },  
@@ -3272,7 +3271,7 @@ dataSet[dataSetVersion].characterData = [
   },     
   {
     name: "Lightningrod",
-    img: "shEcI4d.png",
+    img: "NSysH1X.png",
     opts: {
       series: [ "MGW" ],
       sec: true,      
