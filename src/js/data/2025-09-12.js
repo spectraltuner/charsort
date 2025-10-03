@@ -3232,6 +3232,24 @@ dataSet[dataSetVersion].characterData = [
       series: [ "MGW", "STR" ],
       girl: true
     }
+  }, 
+  {
+    name: "Amanda Rinder (Unbreakable Adamant)",
+    img: "4FhtrpX.png",
+    opts: {
+      series: [ "MGW", "SK" ],
+      sec: true,
+      girl: true
+    }
+  },    
+  {
+    name: "Mani Rinder (Black Ice Verglas)",
+    img: "17Le6BS.png",
+    opts: {
+      series: [ "MGW", "SK" ],
+      sec: true,
+      girl: true
+    }
   },  
   {
     name: "Desperado Mustang (Toya Corado)",
@@ -3251,15 +3269,6 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },  
-  {
-    name: "Mani Rinder (Black Ice Verglas)",
-    img: "17Le6BS.png",
-    opts: {
-      series: [ "MGW" ],
-      sec: true,
-      girl: true
-    }
-  },      
   {
     name: "Mimi Maddock (Mad Gasser Moreyn)",
     img: "k2D4sb7.png",
