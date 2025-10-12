@@ -2319,7 +2319,16 @@ dataSet[dataSetVersion].characterData = [
       tri: true,      
       girl: true  
     }
-  },  
+  },
+  {
+    name: "Asmodyne",
+    img: "qs5s8x8.png",
+    opts: {
+      series: [ "BB" ],
+      tri: true,      
+      girl: true  
+    }
+  },    
   {
     name: "Bella",
     img: "2kDxsuf.png",
@@ -2975,13 +2984,21 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Allister 'Ally' Duquette",
+    img: "AinZQ9x.png",
+    opts: {
+      series: [ "STR"],
+      nb: true,
+      sec: true
+    }
+  },    
+  {
     name: "Busy Bee",
     img: "mBKn3ik.png",
     opts: {
       series: [ "STR", "OS" ],
       girl: true,
-      tri: true,
-      spec: true
+      tri: true
     }
   },  
   {
@@ -3102,6 +3119,16 @@ dataSet[dataSetVersion].characterData = [
       spec: true
     }
   },
+  {
+    name: "Sarka Duquette",
+    img: "S9G9YJi.png",
+    opts: {
+      series: [ "STR" ],
+      sec: true,
+      girl: true,
+      collab: true
+    }
+  },  
   {
     name: "Seasaidh",
     img: "C7Ra1ny.png",
@@ -3241,7 +3268,16 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       girl: true
     }
-  },    
+  },
+  {
+    name: "Barbara Blaker (Black Bedlam)",
+    img: "3NYz84g.png",
+    opts: {
+      series: [ "MGW" ],
+      tri: true,
+      girl: true
+    }
+  },      
   {
     name: "Mani Rinder (Black Ice Verglas)",
     img: "17Le6BS.png",
