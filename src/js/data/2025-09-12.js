@@ -381,7 +381,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Blackbird",
-    img: "uUuvVDj.png",
+    img: "xdoeJxF.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -500,7 +500,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Llyn Rhon",
-    img: "bQfBgvi.png",
+    img: "IWGjHlE.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
