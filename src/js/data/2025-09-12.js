@@ -450,7 +450,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Belle Bufford (Barrier)",
-    img: "qDiF1vt.png",
+    img: "SUMx9mf.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -460,7 +460,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Bailey Bufford (Bullet)",
-    img: "9Sl4bCW.png",
+    img: "RRVFsiw.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -970,7 +970,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "The Phouka",
-    img: "SLUQKFr.png",
+    img: "mQ2tRY5.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -2893,7 +2893,7 @@ dataSet[dataSetVersion].characterData = [
   // SWEET MALUS
   {
     name: "Nemesis Cain",
-    img: "r7Ha9Gh.png",
+    img: "wPqII0X.png",
     opts: {
       series: [ "SM" ],
       girl: true
@@ -2901,7 +2901,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eris Strife",
-    img: "d0U3zSg.png",
+    img: "q9SL41p.png",
     opts: {
       series: [ "SM" ],
       girl: true
