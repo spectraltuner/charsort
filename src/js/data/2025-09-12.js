@@ -920,7 +920,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Luka Hütchen",
-    img: "bU0gFpI.png",
+    img: "F9AyMJT.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -1101,7 +1101,7 @@ dataSet[dataSetVersion].characterData = [
    // EARTHLING SAGA - EARTHCROSS MISCELLANY
   {
     name: "Agnes Hatchett",
-    img: "PYmPvTL.png",
+    img: "pSOIhEx.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -3468,6 +3468,15 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
+  {
+    name: "Sweet Touch",
+    img: "0mqarTr.png",
+    opts: {
+      series: [ "FAN" ],
+      tri: true,
+      girl: true
+    }
+  },  
   {
     name: "Widow",
     img: "mdvREgG.png",
