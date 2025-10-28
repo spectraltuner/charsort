@@ -536,7 +536,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Al Azif",
-    img: "otKjqTA.png",
+    img: "lRP2YIi.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -950,7 +950,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Měijìng Shěn",
-    img: "LYWzowA.png",
+    img: "QcJuZdE.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],      
