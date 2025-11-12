@@ -616,7 +616,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Black Hat (Pandora)",
+    name: "Black Hat II (Pandora)",
     img: "LSBpsgU.png",
     opts: {
       series: [ "SC" ],
@@ -1108,7 +1108,17 @@ dataSet[dataSetVersion].characterData = [
       tri: true,
       girl: true
     }
-  },  
+  },
+  {
+    name: "Baelithir (Black Hat I)",
+    img: "o0vWOBq.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      tri: true,
+      boy: true
+    }
+  },    
   {
     name: "Condor",
     img: "U0wyFad.png",
