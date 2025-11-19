@@ -2487,7 +2487,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Monantzin",
-    img: "lNJrJAg.png",
+    img: "ZZez6XP.png",
     opts: {
       series: [ "BB" ],
       tri: true,      
