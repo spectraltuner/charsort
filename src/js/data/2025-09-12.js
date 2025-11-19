@@ -606,6 +606,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Beatrice Bianchi / La Croce",
+    img: "iPGO9Aa.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      sec: true,
+      girl: true
+    }
+  },  
+  {
     name: "Belle Hawthorne",
     img: "31UQBjZ.png",
     opts: {
@@ -674,7 +684,17 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       girl: true
     }
-  },  
+  },
+  {
+    name: "Dante",
+    img: "wCXlIvi.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      sec: true,
+      boy: true
+    }
+  },    
   {
     name: "Doris Austen",
     img: "Sa2yjQI.png",
@@ -3068,7 +3088,16 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       boy: true
     }
-  }, 
+  },
+  {
+    name: "Liv Murrain",
+    img: "3SUGRak.png",
+    opts: {
+      series: [ "STR" ],
+      tri: true,
+      girl: true
+    }
+  },   
   {
     name: "Marie",
     img: "phTM9eg.png",
