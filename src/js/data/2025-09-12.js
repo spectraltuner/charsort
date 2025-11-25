@@ -417,7 +417,7 @@ dataSet[dataSetVersion].characterData = [
       collab: true,      
       girl: true
     }
-  },  
+  },
   {
     name: "Dawn (Clear)",
     img: "PalNJXW.png",
@@ -484,7 +484,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
-      sec: true,
       girl: true
     }
   },
@@ -494,7 +493,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
-      sec: true,
       girl: true
     }
   },  
@@ -929,6 +927,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Loki",
+    img: "adTwoPp.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      sec: true,
+      nb: true
+    }
+  },
+  {
     name: "Lorraine Cofer",
     img: "Yu2Imnz.png",
     opts: {
@@ -937,7 +945,7 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       girl: true
     }
-  },  
+  },
   {
     name: "Luka Hütchen",
     img: "F9AyMJT.png",
@@ -947,7 +955,7 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       girl: true
     }
-  }, 
+  },     
   {
     name: "Marina Petrou",
     img: "VIeIA7t.png",
