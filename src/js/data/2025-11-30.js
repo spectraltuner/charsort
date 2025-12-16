@@ -3343,6 +3343,15 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       girl: true
     }
+  },
+  {
+    name: "Iris Gibson (Cyber Siren)",
+    img: "AIKPe1C.png",
+    opts: {
+      series: [ "MGW", "SK" ],
+      tri: true,
+      girl: true
+    }
   },  
   {
     name: "Desperado Mustang (Toya Corado)",
