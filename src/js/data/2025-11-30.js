@@ -1216,6 +1216,16 @@ dataSet[dataSetVersion].characterData = [
       tri: true,
       girl: true
     }
+  },
+  {
+    name: "Lonesome",
+    img: "Km46cYi.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      extra: true,
+      girl: true
+    }
   },  
   {
     name: "Lucy Cardoza",
