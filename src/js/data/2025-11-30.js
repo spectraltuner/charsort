@@ -1219,7 +1219,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Lonesome",
-    img: "Km46cYi.png",
+    img: "aS2zhjy.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
