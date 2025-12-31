@@ -3389,6 +3389,15 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       girl: true
     }
+  },
+  {
+    name: "Palehorse Morag (Lucy Lake)",
+    img: "k2D4sb7.png",
+    opts: {
+      series: [ "MGW" ],
+      sec: true,
+      girl: true
+    }
   },     
   {
     name: "Lightningrod",
