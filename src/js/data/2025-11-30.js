@@ -525,7 +525,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Lup",
-    img: "S05HIhl.png",
+    img: "CTTQ4Px.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
