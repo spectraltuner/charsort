@@ -109,7 +109,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kyarne",
-    img: "pWaltKA.png",
+    img: "1qerdWz.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "SC" ],     
@@ -2653,7 +2653,7 @@ dataSet[dataSetVersion].characterData = [
   // SUICIDE KINGS
   {
     name: "Roxanne Royale",
-    img: "D3tqzmm.png",
+    img: "oNkGKC7.png",
     opts: {
       series: [ "SK" ],
       girl: true
