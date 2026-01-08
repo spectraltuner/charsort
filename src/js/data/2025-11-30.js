@@ -420,7 +420,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Dawn (Clear)",
-    img: "PalNJXW.png",
+    img: "uvWXEhx.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -470,7 +470,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Blank",
-    img: "G5tyLuT.png",
+    img: "UbYk9FC.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -2661,7 +2661,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Rachel Reiss",
-    img: "v5bIW0T.png",
+    img: "bjHCrP3.png",
     opts: {
       series: [ "SK" ],
       girl: true
