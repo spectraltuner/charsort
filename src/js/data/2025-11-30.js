@@ -1432,7 +1432,7 @@ dataSet[dataSetVersion].characterData = [
   // AGENCY - SERAPHIC SAGA
   {
     name: "Harahel",
-    img: "d8LfSKu.png",
+    img: "mHtF4oL.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SeS", "HC", "FC" ],      
@@ -1441,7 +1441,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Raziel",
-    img: "OYzQ3To.png",
+    img: "ymprg6E.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SeS", "HC", "FC" ],      
