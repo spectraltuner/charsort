@@ -3536,14 +3536,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Shion Hagetaka",
-    img: "OdkMbur.png",
+    name: "Moreyn Vandervaggio",
+    img: "yNswmVq.png",
     opts: {
       series: [ "FAN" ],
-      extra: true,
+      tri: true,
       girl: true
     }
-  },
+  },  
   {
     name: "Murrain",
     img: "D2hQPUD.png",
@@ -3553,6 +3553,15 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
+  {
+    name: "Shion Hagetaka",
+    img: "OdkMbur.png",
+    opts: {
+      series: [ "FAN" ],
+      extra: true,
+      girl: true
+    }
+  },  
   {
     name: "Sweet Touch",
     img: "0mqarTr.png",
