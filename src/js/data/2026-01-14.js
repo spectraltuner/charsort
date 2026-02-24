@@ -3537,7 +3537,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Moreyn Vandervaggio",
-    img: "yNswmVq.png",
+    img: "jndGLYV.png",
     opts: {
       series: [ "FAN" ],
       tri: true,
