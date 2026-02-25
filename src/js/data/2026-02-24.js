@@ -3410,7 +3410,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Palehorse Morag (Lucy Lake)",
-    img: "k2D4sb7.png",
+    img: "PfpybQf.png",
     opts: {
       series: [ "MGW" ],
       sec: true,
