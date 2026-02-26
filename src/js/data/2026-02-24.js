@@ -353,7 +353,7 @@ dataSet[dataSetVersion].characterData = [
   }, 
   {
     name: "Susanne Kay",
-    img: "iDE71po.png",
+    img: "97YdYU7.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "KA", "EC" ],      
@@ -655,7 +655,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Corelli Carnarvon",
-    img: "lyv2qsj.png",
+    img: "xohhAvU.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -3129,10 +3129,10 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Liv Murrain",
-    img: "3SUGRak.png",
+    img: "UTk3nVS.png",
     opts: {
       series: [ "STR" ],
-      tri: true,
+      sec: true,
       girl: true
     }
   },   
