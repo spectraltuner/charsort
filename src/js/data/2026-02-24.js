@@ -796,6 +796,17 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Iaga",
+    img: "JrWbRLx.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      collab: true,
+      sec: true,
+      girl: true
+    }
+  },  
+  {
     name: "Iris Widow",
     img: "q5TEh9b.png",
     opts: {
