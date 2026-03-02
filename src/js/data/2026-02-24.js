@@ -3352,7 +3352,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Lightningrod",
     img: "NSysH1X.png",
     opts: {
-      series: [ "MGW" ],
+      series: [ "MGW", "STR" ],
       nb: true  
     }
   },
@@ -3432,7 +3432,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Beamjaw",
     img: "OEgwlNS.png",
     opts: {
-      series: [ "MGW" ],
+      series: [ "MGW", "STR" ],
       sec: true,
       nb: true  
     }
@@ -3443,6 +3443,15 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "MGW", "OS" ],
       tri: true,      
+      girl: true  
+    }
+  },
+  {
+    name: "Fumigant",
+    img: "6Ft5xJF.png",
+    opts: {
+      series: [ "MGW", "STR" ],
+      sec: true,
       girl: true  
     }
   },
