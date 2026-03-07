@@ -3464,6 +3464,15 @@ dataSet[dataSetVersion].characterData = [
       boy: true  
     }
   },
+  {
+    name: "Mirage",
+    img: "zXZoj9S.png",
+    opts: {
+      series: [ "MGW", "STR" ],
+      sec: true,
+      girl: true  
+    }
+  },  
   
   // FAN CHARACTERS
  {
