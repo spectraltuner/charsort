@@ -2891,10 +2891,19 @@ dataSet[dataSetVersion].characterData = [
     img: "AoFiJJD.png",
     opts: {
       series: [ "SK" ],
+      sec: true,
+      girl: true
+    }
+  },
+  {
+    name: "Maia Maddock",
+    img: "PuYGaPN.png",
+    opts: {
+      series: [ "SK" ],
       tri: true,
       girl: true
     }
-  },  
+  },    
   {
     name: "Saki Amachi",
     img: "2ZibPXn.png",
@@ -3149,7 +3158,7 @@ dataSet[dataSetVersion].characterData = [
   },   
   {
     name: "Marie",
-    img: "phTM9eg.png",
+    img: "XrhOTr4.png",
     opts: {
       series: [ "STR" ],
       collab: true,    
