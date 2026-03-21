@@ -2801,7 +2801,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Merche Ramón",
-    img: "vTeUK9i.png",
+    img: "ZhfGKn0.png",
     opts: {
       series: [ "SK", "FAN" ],
       girl: true
