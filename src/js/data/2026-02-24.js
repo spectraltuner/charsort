@@ -3353,7 +3353,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Calikin",
     img: "VO6NK39.png",
     opts: {
-      series: [ "MGW", "STR" ],
+      series: [ "MGW", "STR", "SK" ],
       girl: true
     }
   },
