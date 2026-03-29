@@ -2690,7 +2690,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Jack Leblanc",
-    img: "zIlYynK.png",
+    img: "sfLuoZb.png",
     opts: {
       series: [ "SK" ],
       girl: true
