@@ -2896,11 +2896,11 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Maia Maddock",
+    name: "Maia Beyer",
     img: "PuYGaPN.png",
     opts: {
       series: [ "SK" ],
-      tri: true,
+      sec: true,
       girl: true
     }
   },    
