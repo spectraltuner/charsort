@@ -3445,7 +3445,17 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       nb: true  
     }
-  },      
+  },
+  {
+    name: "Big Deal",
+    img: "SBL54zN.png",
+    opts: {
+      series: [ "MGW", "STR" ],
+      collab: true,
+      sec: true,
+      nb: true  
+    }
+  },        
   {
     name: "Black Licorice (Edie Coster)",
     img: "bDsTYaG.png",
