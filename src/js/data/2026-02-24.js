@@ -2431,7 +2431,7 @@ dataSet[dataSetVersion].characterData = [
     img: "aA9uh0U.png",
     opts: {
       series: [ "BB", "FAN" ],
-      tri: true,
+      sec: true,
       girl: true
     }
   },  
@@ -2440,7 +2440,7 @@ dataSet[dataSetVersion].characterData = [
     img: "cUhApSo.png",
     opts: {
       series: [ "BB" ],
-      sec: true,
+      tri: true,
       boy: true
     }
   },
@@ -2479,7 +2479,16 @@ dataSet[dataSetVersion].characterData = [
       tri: true,
       girl: true
     }
-  },  
+  },
+  {
+    name: "The Endling",
+    img: "w6xkEHT.png",
+    opts: {
+      series: [ "BB", "STR" ],
+      sec: true,
+      nb: true
+    }
+  },    
   {
     name: "Erlich Kacht",
     img: "nWb0uZF.png",
