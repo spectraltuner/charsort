@@ -3475,6 +3475,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Foxhawks",
+    img: "o3cxkCK.png",
+    opts: {
+      series: [ "MGW", "STR" ],
+      collab: true,
+      tri: true,      
+      nb: true  
+    }
+  },
+  {
     name: "Fumigant",
     img: "6Ft5xJF.png",
     opts: {
