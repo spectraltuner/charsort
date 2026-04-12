@@ -3359,19 +3359,11 @@ dataSet[dataSetVersion].characterData = [
 
   // MAGICAL GIRL WARS
   {
-    name: "Calikin",
+    name: "Calikin (Charlotte Beyer)",
     img: "VO6NK39.png",
     opts: {
       series: [ "MGW", "STR", "SK" ],
       girl: true
-    }
-  },
-  {
-    name: "Lightningrod",
-    img: "NSysH1X.png",
-    opts: {
-      series: [ "MGW", "STR" ],
-      nb: true  
     }
   },
   {
@@ -3384,15 +3376,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Barbara Blaker (Black Bedlam)",
-    img: "3NYz84g.png",
-    opts: {
-      series: [ "MGW" ],
-      tri: true,
-      girl: true
-    }
-  },      
-  {
     name: "Mani Rinder (Black Ice Verglas)",
     img: "17Le6BS.png",
     opts: {
@@ -3402,6 +3385,90 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Mimi Maddock (Mad Gasser Moreyn)",
+    img: "k2D4sb7.png",
+    opts: {
+      series: [ "MGW" ],
+      sec: true,
+      girl: true
+    }
+  },
+  {
+    name: "Palehorse Morag (Lucy Lake)",
+    img: "PfpybQf.png",
+    opts: {
+      series: [ "MGW" ],
+      sec: true,
+      girl: true
+    }
+  },
+  // MAGICAL GIRL WARS - PANTHERHAWKS  
+  {
+    name: "Lightningrod",
+    img: "NSysH1X.png",
+    opts: {
+      series: [ "MGW", "STR" ],
+      nb: true  
+    }
+  },
+  {
+    name: "Beamjaw",
+    img: "OEgwlNS.png",
+    opts: {
+      series: [ "MGW", "STR" ],
+      sec: true,
+      nb: true  
+    }
+  },
+  {
+    name: "Big Deal",
+    img: "SBL54zN.png",
+    opts: {
+      series: [ "MGW", "STR" ],
+      collab: true,
+      sec: true,
+      nb: true  
+    }
+  },
+  {
+    name: "Foxhawks",
+    img: "o3cxkCK.png",
+    opts: {
+      series: [ "MGW", "STR" ],
+      collab: true,
+      tri: true,      
+      nb: true  
+    }
+  },  
+  {
+    name: "Fumigant",
+    img: "6Ft5xJF.png",
+    opts: {
+      series: [ "MGW", "STR" ],
+      sec: true,
+      girl: true  
+    }
+  },
+  {
+    name: "Mirage",
+    img: "zXZoj9S.png",
+    opts: {
+      series: [ "MGW", "STR" ],
+      sec: true,
+      girl: true  
+    }
+  },  
+  // MAGICAL GIRL WARS - SUPPORT  
+  {
+    name: "Barbara Blaker (Black Bedlam)",
+    img: "3NYz84g.png",
+    opts: {
+      series: [ "MGW" ],
+      tri: true,
+      girl: true
+    }
+  },        
+   {
     name: "Iris Gibson (Cyber Siren)",
     img: "AIKPe1C.png",
     opts: {
@@ -3427,69 +3494,13 @@ dataSet[dataSetVersion].characterData = [
       tri: true,
       girl: true
     }
-  },  
-  {
-    name: "Mimi Maddock (Mad Gasser Moreyn)",
-    img: "k2D4sb7.png",
-    opts: {
-      series: [ "MGW" ],
-      sec: true,
-      girl: true
-    }
-  },
-  {
-    name: "Palehorse Morag (Lucy Lake)",
-    img: "PfpybQf.png",
-    opts: {
-      series: [ "MGW" ],
-      sec: true,
-      girl: true
-    }
-  },
-  {
-    name: "Beamjaw",
-    img: "OEgwlNS.png",
-    opts: {
-      series: [ "MGW", "STR" ],
-      sec: true,
-      nb: true  
-    }
-  },
-  {
-    name: "Big Deal",
-    img: "SBL54zN.png",
-    opts: {
-      series: [ "MGW", "STR" ],
-      collab: true,
-      sec: true,
-      nb: true  
-    }
-  },        
+  },   
   {
     name: "Black Licorice (Edie Coster)",
     img: "bDsTYaG.png",
     opts: {
       series: [ "MGW", "OS" ],
       tri: true,      
-      girl: true  
-    }
-  },
-  {
-    name: "Foxhawks",
-    img: "o3cxkCK.png",
-    opts: {
-      series: [ "MGW", "STR" ],
-      collab: true,
-      tri: true,      
-      nb: true  
-    }
-  },
-  {
-    name: "Fumigant",
-    img: "6Ft5xJF.png",
-    opts: {
-      series: [ "MGW", "STR" ],
-      sec: true,
       girl: true  
     }
   },
@@ -3502,16 +3513,17 @@ dataSet[dataSetVersion].characterData = [
       boy: true  
     }
   },
+  // MAGICAL GIRL WARS - MAI RP
   {
-    name: "Mirage",
-    img: "zXZoj9S.png",
+    name: "Hennin",
+    img: "iLPuFuj.png",
     opts: {
-      series: [ "MGW", "STR" ],
-      sec: true,
+      series: [ "MGW", "STR", "FAN" ],
+      collab: true,
+      tri: true,      
       girl: true  
     }
-  },  
-  
+  },
   // FAN CHARACTERS
  {
     name: "Felicia Mink",
