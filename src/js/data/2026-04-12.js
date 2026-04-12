@@ -2359,7 +2359,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Lucifell",
     img: "MXshbyA.png",
     opts: {
-      series: [ "BB", "NC" ],
+      series: [ "BB", "NC", "STR" ],
       sec: true,
       girl: true
     }
@@ -3645,7 +3645,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Murrain",
     img: "D2hQPUD.png",
     opts: {
-      series: [ "FAN" ],
+      series: [ "FAN", "STR" ],
       tri: true,
       girl: true
     }
@@ -3672,7 +3672,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Widow",
     img: "mdvREgG.png",
     opts: {
-      series: [ "FAN" ],
+      series: [ "FAN", "STR" ],
       tri: true,
       girl: true
     }
