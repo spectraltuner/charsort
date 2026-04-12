@@ -3357,7 +3357,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },        
 
-  // MAGICAL GIRL WARS
+  // MAGICAL GIRL WARS - CORE
   {
     name: "Calikin (Charlotte Beyer)",
     img: "VO6NK39.png",
@@ -3371,7 +3371,6 @@ dataSet[dataSetVersion].characterData = [
     img: "4FhtrpX.png",
     opts: {
       series: [ "MGW", "SK" ],
-      sec: true,
       girl: true
     }
   },
@@ -3458,21 +3457,21 @@ dataSet[dataSetVersion].characterData = [
       girl: true  
     }
   },  
-  // MAGICAL GIRL WARS - SUPPORT  
+  // MAGICAL GIRL WARS - OTHER ANTAGONISTS  
+  {
+    name: "Iris Gibson (Cyber Siren)",
+    img: "AIKPe1C.png",
+    opts: {
+      series: [ "MGW", "SK" ],
+      tri: true,
+      girl: true
+    }
+  },
   {
     name: "Barbara Blaker (Black Bedlam)",
     img: "3NYz84g.png",
     opts: {
       series: [ "MGW" ],
-      tri: true,
-      girl: true
-    }
-  },        
-   {
-    name: "Iris Gibson (Cyber Siren)",
-    img: "AIKPe1C.png",
-    opts: {
-      series: [ "MGW", "SK" ],
       tri: true,
       girl: true
     }
@@ -3494,7 +3493,8 @@ dataSet[dataSetVersion].characterData = [
       tri: true,
       girl: true
     }
-  },   
+  },
+  // MAGICAL GIRL WARS - JACK'S MAGICAL GIRLS
   {
     name: "Black Licorice (Edie Coster)",
     img: "bDsTYaG.png",
