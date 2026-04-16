@@ -2796,7 +2796,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Celeste Veiga",
     img: "JtXeIIm.png",
     opts: {
-      series: [ "SK" ],
+      series: [ "SK", "MGW" ],
       girl: true
     }
   },
@@ -2899,7 +2899,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Camile Veiga",
     img: "AoFiJJD.png",
     opts: {
-      series: [ "SK" ],
+      series: [ "SK", "MGW" ],
       sec: true,
       girl: true
     }
@@ -2909,7 +2909,6 @@ dataSet[dataSetVersion].characterData = [
     img: "PuYGaPN.png",
     opts: {
       series: [ "SK" ],
-      sec: true,
       girl: true
     }
   },    
