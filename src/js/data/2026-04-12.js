@@ -3523,6 +3523,16 @@ dataSet[dataSetVersion].characterData = [
       girl: true  
     }
   },
+  {
+    name: "Paladin",
+    img: "tJzmQVk.png",
+    opts: {
+      series: [ "MGW", "STR", "FAN" ],
+      collab: true,
+      tri: true,      
+      girl: true  
+    }
+  },
   // FAN CHARACTERS
  {
     name: "Felicia Mink",
