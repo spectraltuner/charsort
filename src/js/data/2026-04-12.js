@@ -3525,7 +3525,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Paladin",
-    img: "tJzmQVk.png",
+    img: "gg8JcHk.png",
     opts: {
       series: [ "MGW", "STR", "FAN" ],
       collab: true,
