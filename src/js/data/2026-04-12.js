@@ -595,7 +595,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Báiyǔ",
-    img: "i1Uls2S.png",
+    img: "cfPjkBo.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -777,7 +777,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Headhunter",
-    img: "p7SZ4mx.png",
+    img: "G0lC5XB.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -1057,7 +1057,17 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       boy: true
     }
-  },    
+  },
+  {
+    name: "Stasi",
+    img: "3cfLnaV.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      nb: true,
+      boy: true
+    }
+  },      
   {
     name: "The Storyteller",
     img: "bjec6TX.png",
@@ -3690,7 +3700,7 @@ dataSet[dataSetVersion].characterData = [
   // OTHER SETTINGS
   {
     name: "Bell",
-    img: "j3of39s.png",
+    img: "Lj6Se2G.png",
     opts: {
       series: [ "OS" ],
       tri: true,
