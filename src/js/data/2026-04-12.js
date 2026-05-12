@@ -736,7 +736,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "The Grimm",
-    img: "zX6U77e.png",
+    img: "huHzIKX.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -1100,7 +1100,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Vorpal",
-    img: "aglviXx.png",
+    img: "3Twfwf7.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -1110,7 +1110,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "The Watcher",
-    img: "xUQqpuo.png",
+    img: "q6bzMQk.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
