@@ -675,7 +675,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "Danika Crnčević Đavola",
-    img: "lE0Hovd.png",
+    img: "8gA2FbK.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -989,7 +989,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Mary Dawson",
-    img: "uF01pQp.png",
+    img: "pfrn3A9.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
