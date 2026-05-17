@@ -615,7 +615,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Belle Hawthorne",
-    img: "31UQBjZ.png",
+    img: "9RMQbeL.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -919,7 +919,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Lancaster Rye",
-    img: "S6uV0g3.png",
+    img: "7RmW43z.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -1490,7 +1490,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Baphomet",
-    img: "sCBuxzI.png",
+    img: "Y2eaPVg.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SeS", "HC" ],      
@@ -2777,7 +2777,7 @@ dataSet[dataSetVersion].characterData = [
   },       
   {
     name: "Giselle Glamour",
-    img: "2g8TI0S.png",
+    img: "4ZObRDz.png",
     opts: {
       series: [ "SK" ],
       girl: true
