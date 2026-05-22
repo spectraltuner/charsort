@@ -715,6 +715,17 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Ericka Oslow",
+    img: "Znk5DYL.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      collab: true,
+      sec: true,
+      girl: true
+    }
+  },  
+  {
     name: "Ethel Hahn",
     img: "ZuIk6mb.png",
     opts: {
@@ -1580,7 +1591,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Gabriel",
-    img: "pdOgWiL.png",
+    img: "UDa668F.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SeS", "HC", "FC" ],      
