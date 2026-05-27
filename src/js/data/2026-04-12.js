@@ -507,7 +507,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Zaleska VI",
-    img: "s8lJS7N.png",
+    img: "5ybh6A5.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -859,7 +859,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Jade Huo",
-    img: "jNntNRv.png",
+    img: "adXDJDk.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -1050,7 +1050,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Samantha",
-    img: "NmBys45.png",
+    img: "qIhYxsq.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -1179,6 +1179,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },    
    // EARTHLING SAGA - EARTHCROSS MISCELLANY
+  {
+    name: "Abigail Williams",
+    img: "tYvO1q2.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      tri: true,
+      girl: true
+    }
+  },  
   {
     name: "Agnes Hatchett",
     img: "pSOIhEx.png",
@@ -3407,7 +3417,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Mimi Maddock (Mad Gasser Moreyn)",
     img: "k2D4sb7.png",
     opts: {
-      series: [ "MGW" ],
+      series: [ "MGW", "SK" ],
       sec: true,
       girl: true
     }
@@ -3421,6 +3431,15 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
+  {
+    name: "Abigail Desmaret",
+    img: "CfddTUp.png",
+    opts: {
+      series: [ "MGW", "SK" ],
+      sec: true,
+      girl: true
+    }
+  },  
   // MAGICAL GIRL WARS - PANTHERHAWKS  
   {
     name: "Lightningrod",
