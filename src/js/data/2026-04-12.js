@@ -390,7 +390,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Karin Rosander",
-    img: "IohRdrL.png",
+    img: "F7AJ89g.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -504,7 +504,7 @@ dataSet[dataSetVersion].characterData = [
       agency: [ "ES", "EC" ],
       girl: true
     }
-  },
+  }, 
   {
     name: "Zaleska VI",
     img: "5ybh6A5.png",
@@ -516,7 +516,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Trașcă",
-    img: "qKQlkV9.png",
+    img: "RZDOCgT.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -532,6 +532,38 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   },
+  {
+    name: "Luka Hütchen",
+    img: "F9AyMJT.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      sec: true,
+      girl: true
+    }
+  },  
+  {
+    name: "Samantha",
+    img: "qIhYxsq.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      collab: true,
+      sec: true,
+      girl: true
+    }
+  },
+  {
+    name: "Thistle",
+    img: "uy4jfX7.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      collab: true,
+      sec: true,
+      nb: true
+    }
+  },  
   {
     name: "Al Azif",
     img: "lRP2YIi.png",
@@ -969,16 +1001,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Luka Hütchen",
-    img: "F9AyMJT.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "ES", "EC" ],
-      sec: true,
-      girl: true
-    }
-  },
-  {
     name: "Lukøje",
     img: "LqMHCKe.png",
     opts: {
@@ -1048,17 +1070,6 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
-  {
-    name: "Samantha",
-    img: "qIhYxsq.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "ES", "EC" ],
-      collab: true,
-      sec: true,
-      girl: true
-    }
-  },  
   {
     name: "Set",
     img: "4JVG73B.png",
@@ -3415,7 +3426,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mimi Maddock (Mad Gasser Moreyn)",
-    img: "k2D4sb7.png",
+    img: "w31v4yT.png",
     opts: {
       series: [ "MGW", "SK" ],
       sec: true,
