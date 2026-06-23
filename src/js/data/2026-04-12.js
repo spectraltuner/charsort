@@ -344,7 +344,7 @@ dataSet[dataSetVersion].characterData = [
    // EARTHLING SAGA - EARTHCROSS CORE
   {
     name: "Rose Caspian",
-    img: "st3iZb4.png",
+    img: "4DjouRp.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -799,7 +799,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Hanna Graeber",
-    img: "BERl8sJ.png",
+    img: "bmPcChN.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -1112,7 +1112,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Voahangy",
-    img: "6kdEBa0.png",
+    img: "s1IsnID.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -2860,7 +2860,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shouko Mitsubayashi",
-    img: "ziv92mZ.png",
+    img: "LIiF5Pz.png",
     opts: {
       series: [ "SK", "FAN" ],
       girl: true
