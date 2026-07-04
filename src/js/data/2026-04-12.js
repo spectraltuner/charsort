@@ -677,7 +677,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "Cheat Noguera",
-    img: "QIiYLyg.png",
+    img: "qyubwSX.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -759,7 +759,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Ethel Hahn",
-    img: "ZuIk6mb.png",
+    img: "B86CnEL.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
