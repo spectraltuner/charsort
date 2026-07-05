@@ -2749,7 +2749,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mirai Amachi",
-    img: "0IF5wOj.png",
+    img: "KncCrNb.png",
     opts: {
       series: [ "SK", "FAN" ],
       girl: true
