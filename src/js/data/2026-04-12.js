@@ -118,7 +118,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alice Kang (SOLSTICE)",
-    img: "Ew7NIph.png",
+    img: "vEjneS8.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "SC", "KA", "EC" ],      
@@ -3409,7 +3409,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Amanda Rinder (Unbreakable Adamant)",
-    img: "4FhtrpX.png",
+    img: "68Ow8KR.png",
     opts: {
       series: [ "MGW", "SK" ],
       girl: true
