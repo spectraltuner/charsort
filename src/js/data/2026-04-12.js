@@ -2757,7 +2757,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shinobu Endou",
-    img: "5YokW3T.png",
+    img: "X6sG1rD.png",
     opts: {
       series: [ "SK", "FAN" ],
       girl: true
@@ -2945,7 +2945,7 @@ dataSet[dataSetVersion].characterData = [
       sec: true,
       girl: true
     }
-  },
+  }, 
   {
     name: "Maia Beyer",
     img: "PuYGaPN.png",
@@ -2953,7 +2953,16 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SK" ],
       girl: true
     }
-  },    
+  },
+  {
+    name: "Alex Lumi",
+    img: "VtghrpO.png",
+    opts: {
+      series: [ "SK", "MGW" ],
+      sec: true,
+      boy: true
+    }
+  },  
   {
     name: "Saki Amachi",
     img: "2ZibPXn.png",
