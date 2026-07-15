@@ -1172,7 +1172,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Yumi Akechi",
-    img: "a9gSEB3.png",
+    img: "Lgbifjs.png",
     opts: {
       series: [ "SC", "FAN" ],
       agency: [ "ES", "EC" ],
@@ -3480,7 +3480,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Big Deal",
-    img: "SBL54zN.png",
+    img: "0zMaZCe.png",
     opts: {
       series: [ "MGW", "STR" ],
       collab: true,
@@ -3593,6 +3593,16 @@ dataSet[dataSetVersion].characterData = [
       girl: true  
     }
   },
+  {
+    name: "Polynya",
+    img: "nxCYeHs.png",
+    opts: {
+      series: [ "MGW", "STR", "FAN" ],
+      collab: true,
+      tri: true,      
+      girl: true  
+    }
+  },  
   // FAN CHARACTERS
  {
     name: "Felicia Mink",
