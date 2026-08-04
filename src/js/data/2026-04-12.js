@@ -1111,6 +1111,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Violet Hat III (Kanon)",
+    img: "98BVC65.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      sec: true,
+      girl: true
+    }
+  },  
+  {
     name: "Voahangy",
     img: "s1IsnID.png",
     opts: {
@@ -1558,7 +1568,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Beelzebub",
-    img: "ilWJqhd.png",
+    img: "Cp49OEk.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SeS", "HC" ],      
@@ -3253,6 +3263,16 @@ dataSet[dataSetVersion].characterData = [
       collab: true,
       girl: true,
       sec: true
+    }
+  },  
+  {
+    name: "Rey Thomas",
+    img: "D7SP9u7.png",
+    opts: {
+      series: [ "STR" ],
+      collab: true,
+      sec: true,
+      boy: true
     }
   },  
   {
