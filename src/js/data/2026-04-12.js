@@ -727,7 +727,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Doris Austen",
-    img: "Sa2yjQI.png",
+    img: "69GKfhp.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
