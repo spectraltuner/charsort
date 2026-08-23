@@ -69,10 +69,10 @@ dataSet[dataSetVersion].options = [
   tooltip: 'Check this to get the miscellaneously gendered characters out of there.',
   checked: false
   },
- {
-  name: 'Remove Collaborative Characters',
+{
+  name: 'Remove Guest Characters',
   key: 'collab',
-  tooltip: 'Check this to get collaboratively created characters out of there.',
+  tooltip: 'Check this to get guest characters out of there.',
   checked: true
   }
 ];
@@ -159,7 +159,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
-      collab: true,
       girl: true
     }
   },
@@ -218,7 +217,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
-      collab: true,
       girl: true
     }
   },  
@@ -228,7 +226,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
-      collab: true,
       girl: true
     }
   },
@@ -238,7 +235,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
-      collab: true,
       girl: true
     }
   },
@@ -248,7 +244,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
-      collab: true,
       girl: true
     }
   },
@@ -400,7 +395,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
-      collab: true,
       tri: true,
       girl: true
     }
@@ -521,7 +515,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC", "FAN" ],
       agency: [ "ES", "EC" ],
-      collab: true,
       sec: true,
       girl: true
     }
@@ -603,7 +596,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
-      collab: true,
       sec: true,
       girl: true
     }
@@ -714,7 +706,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
-      collab: true,
       sec: true,
       boy: true
     }
@@ -1767,7 +1758,6 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SC" ],
       agency: [ "SeS", "HC" ],      
       sec: true,
-      collab: true,
       girl: true
     }
   },
@@ -1778,7 +1768,6 @@ dataSet[dataSetVersion].characterData = [
       series: [ "SC" ],
       agency: [ "SeS", "HC" ],      
       sec: true,
-      collab: true,
       girl: true
     }
   },
@@ -2919,7 +2908,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "WW" ],
       tri: true,
-      collab: true,
       boy: true  
     }
   },      
@@ -2956,7 +2944,6 @@ dataSet[dataSetVersion].characterData = [
     img: "0zMaZCe.png",
     opts: {
       series: [ "OS" ],
-      collab: true,
       sec: true,
       nb: true  
     }
@@ -2966,7 +2953,6 @@ dataSet[dataSetVersion].characterData = [
     img: "o3cxkCK.png",
     opts: {
       series: [ "OS" ],
-      collab: true,
       tri: true,      
       nb: true  
     }
