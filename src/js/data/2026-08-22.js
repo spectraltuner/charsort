@@ -74,12 +74,6 @@ dataSet[dataSetVersion].options = [
   key: 'collab',
   tooltip: 'Check this to get collaboratively created characters out of there.',
   checked: true
-  },
- {
-  name: 'Remove Special Characters',
-  key: 'spec',
-  tooltip: 'Check this to get certain special characters out of there.',
-  checked: true
   }
 ];
 
@@ -3336,8 +3330,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "OS" ],
       tri: true,
-      boy: true,
-      spec: true
+      boy: true
     }
   },  
   {
@@ -3346,8 +3339,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "OS" ],
       tri: true,
-      girl: true,
-      spec: true
+      girl: true
     }
   }
 ];
