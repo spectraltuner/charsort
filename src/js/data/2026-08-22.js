@@ -24,11 +24,11 @@ dataSet[dataSetVersion].options = [
     checked: false,
     sub: [
       { name: "Starcross", tooltip: "Earthling Saga; Ghost Girl Beats Wife, Instantly Regrets It", key: "SC" },
+      { name: "Earthcross", tooltip: "Earthling Saga; Zeeky Boogy Doog", key: "EC" },   
       { name: "Heavencross", tooltip: "Seraphic Saga; Introduction to Determinism", key: "HC" },
       { name: "Fatecross", tooltip: "Seraphic Saga; But What If the Ship of Theseus Was A Person?", key: "FC" },
-      { name: "Earthcross", tooltip: "Earthling Saga; Zeeky Boogy Doog", key: "EC" },      
       { name: "Natural Sin", tooltip: "Seraphic Saga; Confessions of a Mask", key: "NS" },
-      { name: "Earthling Saga", tooltip: "Earthcross, Killer Asp, and Starcross; Stories from a Pale Blue Dot", key: "ES" },
+      { name: "Earthling Saga", tooltip: "Earthcross and Starcross; Stories from a Pale Blue Dot", key: "ES" },
       { name: "Seraphic Saga", tooltip: "Natural Sin, Heavencross, and Fatecross; The Bible Gets Butchered", key: "SeS" },      
       { name: "Bonus Round", tooltip: "Extra characters that don't really fit anywhere else here I guess.", key: "BR" }
     ]
