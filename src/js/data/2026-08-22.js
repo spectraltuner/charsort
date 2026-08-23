@@ -2871,15 +2871,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Satoshi Amachi",
-    img: "5LHlHBu.png",
-    opts: {
-      series: [ "SK", "FAN" ],
-      extra: true,
-      boy: true
-    }
-  },
-  {
     name: "The Wild Card",
     img: "QqogJRo.png",
     opts: {
