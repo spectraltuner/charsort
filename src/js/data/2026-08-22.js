@@ -2769,7 +2769,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Camile Veiga",
-    img: "AoFiJJD.png",
+    img: "t63m3K6.png",
     opts: {
       series: [ "SK" ],
       sec: true,
