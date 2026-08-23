@@ -944,6 +944,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
+      sec: true,
       nb: true,
       boy: true
     }
@@ -1129,26 +1130,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Felicity Boerio",
-    img: "yDJGQCk.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "ES", "EC" ],
-      tri: true,
-      girl: true
-    }
-  },  
-  {
-    name: "Jinjiao",
-    img: "qIqwMpQ.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "ES", "EC" ],
-      tri: true,
-      girl: true
-    }
-  },  
-  {
     name: "Lita Ignacia",
     img: "Km46cYi.png",
     opts: {
@@ -1167,7 +1148,7 @@ dataSet[dataSetVersion].characterData = [
       extra: true,
       girl: true
     }
-  },  
+  },
   {
     name: "Mahine Avci",
     img: "NHWj5Eb.png",
@@ -1217,7 +1198,7 @@ dataSet[dataSetVersion].characterData = [
       tri: true,
       boy: true
     }
-  },  
+  },
   {
     name: "Sakae Shindou",
     img: "TPyqay3.png",
@@ -1250,16 +1231,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },      
   {
-    name: "Teresa Delgado",
-    img: "sstQ9XY.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "ES", "EC" ],      
-      extra: true,
-      girl: true
-    }
-  },
-  {
     name: "Thomas Hatchett",
     img: "yubvCWG.png",
     opts: {
@@ -1267,16 +1238,6 @@ dataSet[dataSetVersion].characterData = [
       agency: [ "ES", "EC" ],
       tri: true,
       boy: true
-    }
-  },
-  {
-    name: "Yinjiao",
-    img: "7aRknrD.png",
-    opts: {
-      series: [ "SC" ],
-      agency: [ "ES", "EC" ],
-      tri: true,
-      girl: true
     }
   },
   // AGENCY - EARTHLING SAGA, STARCROSS CORE
