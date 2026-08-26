@@ -1479,7 +1479,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Belphegor",
-    img: "Co8zTeU.png",
+    img: "PADCbzR.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SeS", "HC", "FC" ],      
