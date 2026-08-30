@@ -2361,7 +2361,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mozu",
-    img: "0XPMmSp.png",
+    img: "OT9TQ77.png",
     opts: {
       series: [ "BB" ],
       girl: true
