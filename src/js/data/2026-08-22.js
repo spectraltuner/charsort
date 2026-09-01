@@ -1614,7 +1614,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Sige Lenore",
-    img: "eqMwSus.png",
+    img: "M3DjcZp.png",
     opts: {
       series: [ "SC" ],
       agency: [ "SeS", "HC", "FC", "NS" ],      
@@ -2337,7 +2337,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Logan Ruskin",
-    img: "O3PQQFC.png",
+    img: "kuTFpaX.png",
     opts: {
       series: [ "BB" ],
       girl: true
