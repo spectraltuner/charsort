@@ -1341,7 +1341,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Milky Way (Wren)",
-    img: "j0Q6zst.png",
+    img: "5jrtDBR.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "SC" ],
