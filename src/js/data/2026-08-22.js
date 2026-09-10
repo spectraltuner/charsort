@@ -921,6 +921,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "RAGSILOTH",
+    img: "4YU19F4.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      sec: true,
+      nb: true
+    }
+  },  
+  {
     name: "Set",
     img: "4JVG73B.png",
     opts: {
