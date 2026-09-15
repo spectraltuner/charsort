@@ -1072,7 +1072,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Yvette Takács",
-    img: "7q1k50q.png",
+    img: "dVGUc10.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
