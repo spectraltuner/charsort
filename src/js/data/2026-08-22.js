@@ -266,7 +266,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Black Hat II (Pandora)",
+    name: "Pandora (Black Hat II)",
     img: "LSBpsgU.png",
     opts: {
       series: [ "SC" ],
