@@ -267,7 +267,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Pandora (Black Hat II)",
-    img: "LSBpsgU.png",
+    img: "tpIvWhL.png",
     opts: {
       series: [ "SC" ],
       agency: [ "ES", "EC" ],
@@ -711,6 +711,16 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   },
+  {
+    name: "Josefien ten Brinke",
+    img: "uJb9jsS.png",
+    opts: {
+      series: [ "SC" ],
+      agency: [ "ES", "EC" ],
+      sec: true,
+      girl: true
+    }
+  }, 
   {
     name: "The Kathardi Butcher",
     img: "95f5fuc.png",
@@ -2533,7 +2543,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Tsepha",
-    img: "kvyQJ2S.png",
+    img: "BeuOsep.png",
     opts: {
       series: [ "BB", "FAN" ],
       tri: true,
