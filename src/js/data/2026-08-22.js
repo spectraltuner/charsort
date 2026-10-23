@@ -2916,7 +2916,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Deepwater Angler",
-    img: "nog0RV6.png",
+    img: "0w2NPka.png",
     opts: {
       series: [ "WW" ],
       tri: true,      
