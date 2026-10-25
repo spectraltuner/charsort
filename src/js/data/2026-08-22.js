@@ -2970,6 +2970,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Crackshot",
+    img: "yGGyr0y.png",
+    opts: {
+      series: [ "OS" ],
+      tri: true,
+      girl: true  
+    }
+  },  
+  {
     name: "Foxhawks",
     img: "o3cxkCK.png",
     opts: {
